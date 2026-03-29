@@ -1,0 +1,346 @@
+{
+  "user_id": "usertest01",
+  "active_cards": [
+    {
+      "card_instance_id": "inst_20260327_143214_310b75",
+      "card_id": "card_latte_factor_001",
+      "card_title": "每天一杯咖啡，可能在悄悄吃掉你的一个月生活费",
+      "card_snapshot": {
+        "card_id": "card_latte_factor_001",
+        "title": "每天一杯咖啡，可能在悄悄吃掉你的一个月生活费",
+        "tags": [
+          "省钱",
+          "日常开销",
+          "习惯",
+          "饮品"
+        ],
+        "topic_keywords": [
+          "奶茶",
+          "咖啡",
+          "饮品",
+          "零食",
+          "小额高频支出"
+        ],
+        "problem_signal_keywords": [
+          "小额高频支出较多",
+          "某类具体消费重复出现较多",
+          "饮品支出偏多",
+          "非必要消费"
+        ],
+        "focus_category": "餐饮",
+        "focus_subcategories": [
+          "饮品",
+          "奶茶",
+          "咖啡",
+          "零食"
+        ],
+        "minimum_transaction_count": 5,
+        "minimum_active_days": 4,
+        "recommended_eval_days": 7,
+        "doing_text": "将咖啡/奶茶消费控制为每周不超过 2 次，或者为饮品 + 零食设定一个每周总预算上限。",
+        "why_text": "行为经济学研究（如 David Bach 在《The Automatic Millionaire》中提出并广泛传播的拿铁效应）指出，小额高频支出因单次支付痛感低而常被低估，但在月度与年度尺度上会持续累积并挤压储蓄空间。科学依据在于心理账户理论——人们对不同金额的支出有不同的心理感知阈值，奶茶这类 10~30 元的消费很难触发足够的心痛感，从而容易被重复叠加，最终在不知不觉中形成一笔可观的月度支出。",
+        "professional_term": "拿铁效应（Latte Factor）",
+        "authority_source": "David Bach《The Automatic Millionaire》；行为经济学小额高频支出长期累积研究；Richard Thaler 心理账户理论",
+        "trigger_description": "当用户最近一段时间在饮品、奶茶、咖啡或零食上出现高频小额消费，且这类支出已经足够频繁到影响整体支出结构时，适合推荐。",
+        "evaluation_description": "在接下来 7 天里，如果饮品/零食类的消费频率下降，或者总金额比前一个等长周期更低，或者至少没有继续明显恶化，就可以视为有改善；如果次数和金额都没有下降，则视为未明显达成。",
+        "improvement_hint": "优先关注饮品与零食消费的频率变化，再观察总金额是否收缩。"
+      },
+      "source_conversation_id": "finance_conv_20260327_140632_390817",
+      "source_query": "帮我分析我这三个月的消费",
+      "activated_at": "2026-03-27T14:32:14.434677",
+      "activated_by_report_time_label": "2025-12-28 至 2026-03-27",
+      "status": "snoozed",
+      "user_action": "view_only",
+      "eval_cycle_days": 7,
+      "next_evaluation_date": null,
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "note": "",
+      "note_updated_at": null,
+      "updated_at": "2026-03-28T14:26:12.965994"
+    },
+    {
+      "card_instance_id": "inst_20260327_133831_f9b24f",
+      "card_id": "card_latte_factor_001",
+      "card_title": "每天一杯咖啡，可能在悄悄吃掉你的一个月生活费",
+      "card_snapshot": {
+        "card_id": "card_latte_factor_001",
+        "title": "每天一杯咖啡，可能在悄悄吃掉你的一个月生活费",
+        "tags": [
+          "省钱",
+          "日常开销",
+          "习惯",
+          "饮品"
+        ],
+        "topic_keywords": [
+          "奶茶",
+          "咖啡",
+          "饮品",
+          "零食",
+          "小额高频支出"
+        ],
+        "problem_signal_keywords": [
+          "小额高频支出较多",
+          "某类具体消费重复出现较多",
+          "饮品支出偏多",
+          "非必要消费"
+        ],
+        "focus_category": "餐饮",
+        "focus_subcategories": [
+          "饮品",
+          "奶茶",
+          "咖啡",
+          "零食"
+        ],
+        "minimum_transaction_count": 5,
+        "minimum_active_days": 4,
+        "recommended_eval_days": 7,
+        "doing_text": "将咖啡/奶茶消费控制为每周不超过 2 次，或者为饮品 + 零食设定一个每周总预算上限。",
+        "why_text": "行为经济学研究（如 David Bach 在《The Automatic Millionaire》中提出并广泛传播的拿铁效应）指出，小额高频支出因单次支付痛感低而常被低估，但在月度与年度尺度上会持续累积并挤压储蓄空间。科学依据在于心理账户理论——人们对不同金额的支出有不同的心理感知阈值，奶茶这类 10~30 元的消费很难触发足够的心痛感，从而容易被重复叠加，最终在不知不觉中形成一笔可观的月度支出。",
+        "professional_term": "拿铁效应（Latte Factor）",
+        "authority_source": "David Bach《The Automatic Millionaire》；行为经济学小额高频支出长期累积研究；Richard Thaler 心理账户理论",
+        "trigger_description": "当用户最近一段时间在饮品、奶茶、咖啡或零食上出现高频小额消费，且这类支出已经足够频繁到影响整体支出结构时，适合推荐。",
+        "evaluation_description": "在接下来 7 天里，如果饮品/零食类的消费频率下降，或者总金额比前一个等长周期更低，或者至少没有继续明显恶化，就可以视为有改善；如果次数和金额都没有下降，则视为未明显达成。",
+        "improvement_hint": "优先关注饮品与零食消费的频率变化，再观察总金额是否收缩。"
+      },
+      "source_conversation_id": "finance_conv_20260327_133806_631840",
+      "source_query": "帮我看看上个月我的消费情况",
+      "activated_at": "2026-03-27T13:38:31.861474",
+      "activated_by_report_time_label": "2026-02-01 至 2026-02-28",
+      "status": "active",
+      "user_action": "remind_later",
+      "eval_cycle_days": 7,
+      "next_evaluation_date": "2026-04-03",
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "updated_at": "2026-03-27T14:33:11.483208",
+      "note": "我打算从明天开始实际操作这个卡片的建议内容！",
+      "note_updated_at": "2026-03-27T14:32:44.704280",
+      "archived_at": "2026-03-27T14:32:59.660428"
+    },
+    {
+      "card_instance_id": "inst_20260327_125031_a46325",
+      "card_id": "card_impulse_shopping_001",
+      "card_title": "先延迟 24 小时，再决定要不要买",
+      "card_snapshot": {
+        "card_id": "card_impulse_shopping_001",
+        "title": "先延迟 24 小时，再决定要不要买",
+        "tags": [
+          "冲动消费",
+          "购物",
+          "冷静期"
+        ],
+        "topic_keywords": [
+          "购物",
+          "下单",
+          "种草",
+          "服装",
+          "数码",
+          "日用品"
+        ],
+        "problem_signal_keywords": [
+          "存在较高金额支出",
+          "支出较上一窗口明显上升",
+          "单一类别支出占比较高"
+        ],
+        "focus_category": "购物",
+        "focus_subcategories": [
+          "服装",
+          "数码",
+          "日用品"
+        ],
+        "minimum_transaction_count": 3,
+        "minimum_active_days": 2,
+        "recommended_eval_days": 14,
+        "doing_text": "接下来 14 天，把非刚需购物先放进想买清单，至少等 24 小时后再决定；如果还是想买，再看预算和最近是否已有同类支出。",
+        "why_text": "冲动消费常发生在高刺激当下。行为决策研究显示，加入冷静期可以降低即时奖赏偏好（present bias）带来的冲动选择，从而减少事后后悔和非计划支出。其背后的科学依据是双系统理论——系统 1（快速直觉反应）容易在促销、种草等高刺激场景下被激活，导致冲动购买；冷静期相当于给系统 2（慢速理性思考）留出介入时间，让真正的需求和预算约束重新参与判断。",
+        "professional_term": "当下偏差（Present Bias）和双系统理论（Dual-Process Theory）",
+        "authority_source": "行为经济学当下偏差（present bias）研究；Daniel Kahneman 和 Amos Tversky 的前景理论；延迟满足与自我控制实验",
+        "trigger_description": "当购物类支出占比偏高、近期突然上升，或者存在较高金额且疑似非刚需的购物支出时，适合推荐。",
+        "evaluation_description": "在接下来 14 天里，如果购物类支出的频率下降、金额回落，或者高金额非刚需消费减少，就视为有改善；如果仍频繁出现同类支出且总额不降，则视为未明显达成。",
+        "improvement_hint": "重点观察购物类的频率和高金额单笔是否减少。"
+      },
+      "source_conversation_id": "finance_conv_20260327_125018_210559",
+      "source_query": "帮我看看上个月我的消费情况",
+      "activated_at": "2026-03-27T12:50:31.313200",
+      "activated_by_report_time_label": "2026-02-01 至 2026-02-28",
+      "status": "active",
+      "user_action": "accepted",
+      "eval_cycle_days": 14,
+      "next_evaluation_date": "2026-04-10",
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "updated_at": "2026-03-27T14:25:49.501229",
+      "note": "这个知识很有用，我要在明天开始实施，到时候在这里写方案",
+      "note_updated_at": "2026-03-27T14:25:49.501223"
+    },
+    {
+      "card_instance_id": "inst_20260326_235328_7a61bf",
+      "card_id": "card_entertainment_balance_001",
+      "card_title": "娱乐消费可以保留，但最好先给它一个边界",
+      "card_snapshot": {
+        "card_id": "card_entertainment_balance_001",
+        "title": "娱乐消费可以保留，但最好先给它一个边界",
+        "tags": [
+          "娱乐",
+          "平衡",
+          "预算"
+        ],
+        "topic_keywords": [
+          "娱乐",
+          "游戏",
+          "电影",
+          "旅游",
+          "放松"
+        ],
+        "problem_signal_keywords": [
+          "单一类别支出占比较高",
+          "支出较上一窗口明显上升"
+        ],
+        "focus_category": "娱乐",
+        "focus_subcategories": [
+          "游戏",
+          "电影",
+          "旅游",
+          "运动健身"
+        ],
+        "minimum_transaction_count": 3,
+        "minimum_active_days": 3,
+        "recommended_eval_days": 14,
+        "doing_text": "先为娱乐类消费设一个本周上限，并把“高成本娱乐”和“低成本放松”分开记；接下来两周尽量把娱乐支出集中到最想做的 1~2 件事上。",
+        "why_text": "娱乐并不是问题，失控才是问题。先给娱乐消费设边界，往往比“完全不花”更现实，也更容易坚持。",
+        "professional_term": "支出边界感",
+        "trigger_description": "当娱乐类支出持续占比较高，或者最近两周娱乐花费明显抬升时，适合推荐。",
+        "evaluation_description": "在接下来 14 天里，如果娱乐类总支出下降，或者虽然有娱乐支出但更集中、没有继续扩张，就视为有改善；如果金额和频率都继续上升，则视为未明显达成。",
+        "improvement_hint": "观察娱乐类支出的总额、频率，以及是否仍然分散在很多临时决定上。"
+      },
+      "source_conversation_id": "finance_conv_20260326_234828_359079",
+      "source_query": "帮我看看我消费有什么问题没有",
+      "activated_at": "2026-03-26T23:53:28.979184",
+      "activated_by_report_time_label": "全部历史数据",
+      "status": "active",
+      "user_action": "accepted",
+      "eval_cycle_days": 14,
+      "next_evaluation_date": "2026-04-09",
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "updated_at": "2026-03-28T20:38:21.631919"
+    }
+  ],
+  "archived_cards": [
+    {
+      "card_instance_id": "inst_20260328_204009_12bc79",
+      "card_id": "card_impulse_shopping_001",
+      "card_title": "先延迟 24 小时，再决定要不要买",
+      "card_snapshot": {
+        "card_id": "card_impulse_shopping_001",
+        "title": "先延迟 24 小时，再决定要不要买",
+        "tags": [
+          "冲动消费",
+          "购物",
+          "冷静期"
+        ],
+        "topic_keywords": [
+          "购物",
+          "下单",
+          "种草",
+          "服装",
+          "数码",
+          "日用品"
+        ],
+        "problem_signal_keywords": [
+          "存在较高金额支出",
+          "支出较上一窗口明显上升",
+          "单一类别支出占比较高"
+        ],
+        "focus_category": "购物",
+        "focus_subcategories": [
+          "服装",
+          "数码",
+          "日用品"
+        ],
+        "minimum_transaction_count": 3,
+        "minimum_active_days": 2,
+        "recommended_eval_days": 14,
+        "doing_text": "接下来 14 天，把非刚需购物先放进想买清单，至少等 24 小时后再决定；如果还是想买，再看预算和最近是否已有同类支出。",
+        "why_text": "冲动消费常发生在高刺激当下。行为决策研究显示，加入冷静期可以降低即时奖赏偏好（present bias）带来的冲动选择，从而减少事后后悔和非计划支出。其背后的科学依据是双系统理论——系统 1（快速直觉反应）容易在促销、种草等高刺激场景下被激活，导致冲动购买；冷静期相当于给系统 2（慢速理性思考）留出介入时间，让真正的需求和预算约束重新参与判断。",
+        "professional_term": "当下偏差（Present Bias）和双系统理论（Dual-Process Theory）",
+        "authority_source": "行为经济学当下偏差（present bias）研究；Daniel Kahneman 和 Amos Tversky 的前景理论；延迟满足与自我控制实验",
+        "trigger_description": "当购物类支出占比偏高、近期突然上升，或者存在较高金额且疑似非刚需的购物支出时，适合推荐。",
+        "evaluation_description": "在接下来 14 天里，如果购物类支出的频率下降、金额回落，或者高金额非刚需消费减少，就视为有改善；如果仍频繁出现同类支出且总额不降，则视为未明显达成。",
+        "improvement_hint": "重点观察购物类的频率和高金额单笔是否减少。"
+      },
+      "source_conversation_id": "finance_conv_20260328_203749_915295",
+      "source_query": "帮我看看上个月我的消费情况",
+      "activated_at": "2026-03-28T20:40:09.190469",
+      "activated_by_report_time_label": "2026-02-01 至 2026-02-28",
+      "status": "archived",
+      "user_action": "view_only",
+      "eval_cycle_days": 14,
+      "next_evaluation_date": null,
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "note": "",
+      "note_updated_at": null,
+      "updated_at": "2026-03-28T20:40:09.190474"
+    },
+    {
+      "card_instance_id": "inst_20260327_154647_a06601",
+      "card_id": "card_latte_factor_001",
+      "card_title": "每天一杯咖啡，可能在悄悄吃掉你的一个月生活费",
+      "card_snapshot": {
+        "card_id": "card_latte_factor_001",
+        "title": "每天一杯咖啡，可能在悄悄吃掉你的一个月生活费",
+        "tags": [
+          "省钱",
+          "日常开销",
+          "习惯",
+          "饮品"
+        ],
+        "topic_keywords": [
+          "奶茶",
+          "咖啡",
+          "饮品",
+          "零食",
+          "小额高频支出"
+        ],
+        "problem_signal_keywords": [
+          "小额高频支出较多",
+          "某类具体消费重复出现较多",
+          "饮品支出偏多",
+          "非必要消费"
+        ],
+        "focus_category": "餐饮",
+        "focus_subcategories": [
+          "饮品",
+          "奶茶",
+          "咖啡",
+          "零食"
+        ],
+        "minimum_transaction_count": 5,
+        "minimum_active_days": 4,
+        "recommended_eval_days": 7,
+        "doing_text": "将咖啡/奶茶消费控制为每周不超过 2 次，或者为饮品 + 零食设定一个每周总预算上限。",
+        "why_text": "行为经济学研究（如 David Bach 在《The Automatic Millionaire》中提出并广泛传播的拿铁效应）指出，小额高频支出因单次支付痛感低而常被低估，但在月度与年度尺度上会持续累积并挤压储蓄空间。科学依据在于心理账户理论——人们对不同金额的支出有不同的心理感知阈值，奶茶这类 10~30 元的消费很难触发足够的心痛感，从而容易被重复叠加，最终在不知不觉中形成一笔可观的月度支出。",
+        "professional_term": "拿铁效应（Latte Factor）",
+        "authority_source": "David Bach《The Automatic Millionaire》；行为经济学小额高频支出长期累积研究；Richard Thaler 心理账户理论",
+        "trigger_description": "当用户最近一段时间在饮品、奶茶、咖啡或零食上出现高频小额消费，且这类支出已经足够频繁到影响整体支出结构时，适合推荐。",
+        "evaluation_description": "在接下来 7 天里，如果饮品/零食类的消费频率下降，或者总金额比前一个等长周期更低，或者至少没有继续明显恶化，就可以视为有改善；如果次数和金额都没有下降，则视为未明显达成。",
+        "improvement_hint": "优先关注饮品与零食消费的频率变化，再观察总金额是否收缩。"
+      },
+      "source_conversation_id": "finance_conv_20260327_154324_079335",
+      "source_query": "帮我分析我这三个月的消费",
+      "activated_at": "2026-03-27T15:46:47.492856",
+      "activated_by_report_time_label": "2026-01-01 至 2026-03-27",
+      "status": "archived",
+      "user_action": "view_only",
+      "eval_cycle_days": 7,
+      "next_evaluation_date": null,
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "note": "11111222222",
+      "note_updated_at": "2026-03-27T17:31:24.198014",
+      "updated_at": "2026-03-27T17:31:24.198020"
+    }
+  ]
+}

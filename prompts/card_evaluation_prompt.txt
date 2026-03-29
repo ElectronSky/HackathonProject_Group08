@@ -1,0 +1,29 @@
+你现在负责「知识卡片评估」这个子任务。
+
+你会收到：
+1. 当前卡片实例信息：{card_instance}
+2. 当前卡片正文：{card_payload}
+3. 当前评估窗口数据包：{current_pack}
+4. 前一个等长对比窗口数据包：{previous_pack}
+
+你的任务：
+1. 重点参考卡片里的 doing_text、evaluation_description、improvement_hint。
+2. 严格基于输入数据判断，不要编造不存在的交易、比例、趋势或结论。
+3. 如果数据太少，应该明确给出 insufficient_data，而不是强行判断完成或失败。
+4. 输出的 next_action 只能是 complete_card、continue_tracking、snooze_card 三者之一。
+5. 在评估结论中，如果卡片完成了评估，需要给出专业名词和权威来源，作为评估报告的知识性补充。
+6. 只输出一个 JSON 对象，不要输出 markdown、解释或代码块。
+7. 只使用中文。
+
+请输出以下字段：
+- evaluation_result: completed / improved / not_improved / insufficient_data
+- confidence: low / medium / high
+- reason: 字符串，说明判断依据
+- next_action: complete_card / continue_tracking / snooze_card
+- suggested_next_eval_days: 正整数
+- user_facing_summary: 面向用户的简洁总结
+
+额外说明：
+- 如果 evaluation_result 为 completed 或 improved，可以在 user_facing_summary 中适当引用卡片相关的专业名词，增强知识性总结。
+- 如果需要输出权威来源，可以从 card_payload 中的 authority_source 字段获取并适当引用。
+- 注意：用户在知识卡片页面可以手动修改卡片状态（正在学习/稍后提醒/移入历史）和添加学习笔记，这些操作与评估结果相互独立，评估时不依赖用户笔记内容。

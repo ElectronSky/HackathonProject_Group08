@@ -1,0 +1,104 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "trans_20260319_205137_a746fe",
+      "date": "2023-10-15",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 6.0,
+      "description": "买奶茶",
+      "created_at": "2026-03-19T20:51:37.066333",
+      "updated_at": "2026-03-19T20:51:37.066336"
+    },
+    {
+      "transaction_id": "trans_20260319_205632_619bc8",
+      "date": "2023-11-15",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 9.0,
+      "description": "买冰红茶",
+      "created_at": "2026-03-19T20:56:32.602181",
+      "updated_at": "2026-03-19T20:56:32.602185"
+    },
+    {
+      "transaction_id": "trans_20260319_205638_ffe74d",
+      "date": "2023-11-15",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 50.0,
+      "description": "购买Steam游戏杀戮尖塔2",
+      "created_at": "2026-03-19T20:56:38.045836",
+      "updated_at": "2026-03-19T20:56:38.045839"
+    },
+    {
+      "transaction_id": "trans_20260319_210059_a0c698",
+      "date": "2026-03-19",
+      "category": "交通",
+      "subcategory": null,
+      "amount": 15.0,
+      "description": "晚上去洗车",
+      "created_at": "2026-03-19T21:00:59.568922",
+      "updated_at": "2026-03-19T21:00:59.568926"
+    },
+    {
+      "transaction_id": "trans_20260319_211647_20b41f",
+      "date": "2023-06-15",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 15.0,
+      "description": "在Steam平台购买游戏",
+      "created_at": "2026-03-19T21:16:47.423506",
+      "updated_at": "2026-03-19T21:16:47.423511"
+    },
+    {
+      "transaction_id": "trans_20260319_231210_a859fd",
+      "date": "2023-07-15",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 3.0,
+      "description": "买了冰淇淋",
+      "created_at": "2026-03-19T23:12:10.295206",
+      "updated_at": "2026-03-19T23:12:10.295208"
+    },
+    {
+      "transaction_id": "trans_20260320_083950_e1a619",
+      "date": "2023-10-05",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 10.0,
+      "description": "吃了十块钱的早餐",
+      "created_at": "2026-03-20T08:39:50.375844",
+      "updated_at": "2026-03-20T08:39:50.375847"
+    },
+    {
+      "transaction_id": "trans_20260320_181700_cef237",
+      "date": "2026-03-20",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 6.0,
+      "description": "买了单价3块钱的辣条，买了两根",
+      "created_at": "2026-03-20T18:17:00.564391",
+      "updated_at": "2026-03-20T18:17:00.564394"
+    },
+    {
+      "transaction_id": "trans_20260320_213551_e01d04",
+      "date": "2026-03-20",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 3.0,
+      "description": "买了三个冰棍",
+      "created_at": "2026-03-20T21:35:51.254869",
+      "updated_at": "2026-03-20T21:35:51.254872"
+    },
+    {
+      "transaction_id": "trans_20260320_213830_654a73",
+      "date": "2026-03-20",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 32.0,
+      "description": "公司楼下牛肉面",
+      "created_at": "2026-03-20T21:38:30.471955",
+      "updated_at": "2026-03-20T21:38:30.471958"
+    }
+  ]
+}

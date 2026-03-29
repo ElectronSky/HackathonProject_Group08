@@ -1,0 +1,4391 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "txn_20250104_001",
+      "date": "2025-01-04",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 58.5,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-01-04T21:40:01",
+      "updated_at": "2025-01-04T21:40:01"
+    },
+    {
+      "transaction_id": "txn_20250104_002",
+      "date": "2025-01-04",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 17.8,
+      "description": "珍珠奶茶",
+      "created_at": "2025-01-04T14:56:59",
+      "updated_at": "2025-01-04T14:56:59"
+    },
+    {
+      "transaction_id": "txn_20250104_003",
+      "date": "2025-01-04",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 12.8,
+      "description": "水果茶",
+      "created_at": "2025-01-04T15:47:32",
+      "updated_at": "2025-01-04T15:47:32"
+    },
+    {
+      "transaction_id": "txn_20250105_004",
+      "date": "2025-01-05",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 18.9,
+      "description": "食堂晚餐",
+      "created_at": "2025-01-05T17:45:45",
+      "updated_at": "2025-01-05T17:45:45"
+    },
+    {
+      "transaction_id": "txn_20250105_005",
+      "date": "2025-01-05",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 137.8,
+      "description": "冬季外套",
+      "created_at": "2025-01-05T21:18:08",
+      "updated_at": "2025-01-05T21:18:08"
+    },
+    {
+      "transaction_id": "txn_20250105_006",
+      "date": "2025-01-05",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1860.11,
+      "description": "周边游",
+      "created_at": "2025-01-05T10:42:36",
+      "updated_at": "2025-01-05T10:42:36"
+    },
+    {
+      "transaction_id": "txn_20250106_007",
+      "date": "2025-01-06",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 33.21,
+      "description": "坚果酸奶",
+      "created_at": "2025-01-06T20:45:02",
+      "updated_at": "2025-01-06T20:45:02"
+    },
+    {
+      "transaction_id": "txn_20250106_008",
+      "date": "2025-01-06",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 197.21,
+      "description": "冬季外套",
+      "created_at": "2025-01-06T15:11:45",
+      "updated_at": "2025-01-06T15:11:45"
+    },
+    {
+      "transaction_id": "txn_20250111_009",
+      "date": "2025-01-11",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 71.9,
+      "description": "购买游戏",
+      "created_at": "2025-01-11T12:36:35",
+      "updated_at": "2025-01-11T12:36:35"
+    },
+    {
+      "transaction_id": "txn_20250112_010",
+      "date": "2025-01-12",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 15.24,
+      "description": "炸鸡啤酒",
+      "created_at": "2025-01-12T22:25:46",
+      "updated_at": "2025-01-12T22:25:46"
+    },
+    {
+      "transaction_id": "txn_20250112_011",
+      "date": "2025-01-12",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 71.8,
+      "description": "零碎支出",
+      "created_at": "2025-01-12T14:30:38",
+      "updated_at": "2025-01-12T14:30:38"
+    },
+    {
+      "transaction_id": "txn_20250112_012",
+      "date": "2025-01-12",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 40.9,
+      "description": "辣条",
+      "created_at": "2025-01-12T14:53:57",
+      "updated_at": "2025-01-12T14:53:57"
+    },
+    {
+      "transaction_id": "txn_20250115_013",
+      "date": "2025-01-15",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 72.14,
+      "description": "找不到分类的",
+      "created_at": "2025-01-15T17:25:02",
+      "updated_at": "2025-01-15T17:25:02"
+    },
+    {
+      "transaction_id": "txn_20250115_014",
+      "date": "2025-01-15",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 131.5,
+      "description": "临时购物",
+      "created_at": "2025-01-15T09:18:56",
+      "updated_at": "2025-01-15T09:18:56"
+    },
+    {
+      "transaction_id": "txn_20250115_901",
+      "date": "2025-01-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-01-15T10:00:00",
+      "updated_at": "2025-01-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250116_015",
+      "date": "2025-01-16",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 887.8,
+      "description": "长途回家",
+      "created_at": "2025-01-16T17:10:11",
+      "updated_at": "2025-01-16T17:10:11"
+    },
+    {
+      "transaction_id": "txn_20250116_016",
+      "date": "2025-01-16",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 96.14,
+      "description": "洗发水沐浴露",
+      "created_at": "2025-01-16T16:58:32",
+      "updated_at": "2025-01-16T16:58:32"
+    },
+    {
+      "transaction_id": "txn_20250118_017",
+      "date": "2025-01-18",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 742.9,
+      "description": "长途回家",
+      "created_at": "2025-01-18T15:32:47",
+      "updated_at": "2025-01-18T15:32:47"
+    },
+    {
+      "transaction_id": "txn_20250120_018",
+      "date": "2025-01-20",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 34.8,
+      "description": "拿铁",
+      "created_at": "2025-01-20T19:10:42",
+      "updated_at": "2025-01-20T19:10:42"
+    },
+    {
+      "transaction_id": "txn_20250120_019",
+      "date": "2025-01-20",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 19.35,
+      "description": "食堂晚餐",
+      "created_at": "2025-01-20T18:24:47",
+      "updated_at": "2025-01-20T18:24:47"
+    },
+    {
+      "transaction_id": "txn_20250120_020",
+      "date": "2025-01-20",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 11.8,
+      "description": "薯片饼干",
+      "created_at": "2025-01-20T11:48:07",
+      "updated_at": "2025-01-20T11:48:07"
+    },
+    {
+      "transaction_id": "txn_20250121_021",
+      "date": "2025-01-21",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 58.5,
+      "description": "零碎支出",
+      "created_at": "2025-01-21T09:31:05",
+      "updated_at": "2025-01-21T09:31:05"
+    },
+    {
+      "transaction_id": "txn_20250121_022",
+      "date": "2025-01-21",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 5.8,
+      "description": "市区游玩",
+      "created_at": "2025-01-21T17:15:31",
+      "updated_at": "2025-01-21T17:15:31"
+    },
+    {
+      "transaction_id": "txn_20250121_023",
+      "date": "2025-01-21",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 409.96,
+      "description": "罚款",
+      "created_at": "2025-01-21T18:35:18",
+      "updated_at": "2025-01-21T18:35:18"
+    },
+    {
+      "transaction_id": "txn_20250122_024",
+      "date": "2025-01-22",
+      "category": "社交",
+      "subcategory": "人情",
+      "amount": 412.05,
+      "description": "婚礼份子钱",
+      "created_at": "2025-01-22T17:30:18",
+      "updated_at": "2025-01-22T17:30:18"
+    },
+    {
+      "transaction_id": "txn_20250123_025",
+      "date": "2025-01-23",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 6.79,
+      "description": "食堂早餐",
+      "created_at": "2025-01-23T08:20:19",
+      "updated_at": "2025-01-23T08:20:19"
+    },
+    {
+      "transaction_id": "txn_20250124_026",
+      "date": "2025-01-24",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 212.9,
+      "description": "休闲装",
+      "created_at": "2025-01-24T21:59:06",
+      "updated_at": "2025-01-24T21:59:06"
+    },
+    {
+      "transaction_id": "txn_20250125_027",
+      "date": "2025-01-25",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.9,
+      "description": "盖浇饭",
+      "created_at": "2025-01-25T12:06:11",
+      "updated_at": "2025-01-25T12:06:11"
+    },
+    {
+      "transaction_id": "txn_20250127_028",
+      "date": "2025-01-27",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 38.06,
+      "description": "课外读物",
+      "created_at": "2025-01-27T17:51:39",
+      "updated_at": "2025-01-27T17:51:39"
+    },
+    {
+      "transaction_id": "txn_20250127_029",
+      "date": "2025-01-27",
+      "category": "生活缴费",
+      "subcategory": "网费",
+      "amount": 47.9,
+      "description": "宿舍宽带费",
+      "created_at": "2025-01-27T15:37:33",
+      "updated_at": "2025-01-27T15:37:33"
+    },
+    {
+      "transaction_id": "txn_20250127_030",
+      "date": "2025-01-27",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 32.8,
+      "description": "美式咖啡",
+      "created_at": "2025-01-27T10:02:36",
+      "updated_at": "2025-01-27T10:02:36"
+    },
+    {
+      "transaction_id": "txn_20250129_031",
+      "date": "2025-01-29",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 90.5,
+      "description": "流量包",
+      "created_at": "2025-01-29T22:14:28",
+      "updated_at": "2025-01-29T22:14:28"
+    },
+    {
+      "transaction_id": "txn_20250130_032",
+      "date": "2025-01-30",
+      "category": "学习",
+      "subcategory": "课程",
+      "amount": 396.34,
+      "description": "技能培训",
+      "created_at": "2025-01-30T11:52:43",
+      "updated_at": "2025-01-30T11:52:43"
+    },
+    {
+      "transaction_id": "txn_20250130_033",
+      "date": "2025-01-30",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 14.5,
+      "description": "面包牛奶",
+      "created_at": "2025-01-30T07:13:06",
+      "updated_at": "2025-01-30T07:13:06"
+    },
+    {
+      "transaction_id": "txn_20250202_034",
+      "date": "2025-02-02",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 7.5,
+      "description": "食堂早餐",
+      "created_at": "2025-02-02T08:00:55",
+      "updated_at": "2025-02-02T08:00:55"
+    },
+    {
+      "transaction_id": "txn_20250202_035",
+      "date": "2025-02-02",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 16.5,
+      "description": "面条",
+      "created_at": "2025-02-02T12:11:06",
+      "updated_at": "2025-02-02T12:11:06"
+    },
+    {
+      "transaction_id": "txn_20250203_036",
+      "date": "2025-02-03",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 962.65,
+      "description": "长途回家",
+      "created_at": "2025-02-03T13:33:34",
+      "updated_at": "2025-02-03T13:33:34"
+    },
+    {
+      "transaction_id": "txn_20250205_037",
+      "date": "2025-02-05",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 154.9,
+      "description": "面膜",
+      "created_at": "2025-02-05T10:27:08",
+      "updated_at": "2025-02-05T10:27:08"
+    },
+    {
+      "transaction_id": "txn_20250205_038",
+      "date": "2025-02-05",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 99.17,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-02-05T22:48:03",
+      "updated_at": "2025-02-05T22:48:03"
+    },
+    {
+      "transaction_id": "txn_20250206_039",
+      "date": "2025-02-06",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 96.9,
+      "description": "班级聚餐",
+      "created_at": "2025-02-06T12:12:22",
+      "updated_at": "2025-02-06T12:12:22"
+    },
+    {
+      "transaction_id": "txn_20250208_040",
+      "date": "2025-02-08",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 42.9,
+      "description": "赶时间打车",
+      "created_at": "2025-02-08T22:39:02",
+      "updated_at": "2025-02-08T22:39:02"
+    },
+    {
+      "transaction_id": "txn_20250208_041",
+      "date": "2025-02-08",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 55.9,
+      "description": "会员订阅",
+      "created_at": "2025-02-08T18:30:37",
+      "updated_at": "2025-02-08T18:30:37"
+    },
+    {
+      "transaction_id": "txn_20250208_042",
+      "date": "2025-02-08",
+      "category": "生活缴费",
+      "subcategory": "网费",
+      "amount": 39.9,
+      "description": "宿舍宽带费",
+      "created_at": "2025-02-08T14:18:57",
+      "updated_at": "2025-02-08T14:18:57"
+    },
+    {
+      "transaction_id": "txn_20250214_043",
+      "date": "2025-02-14",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 612.0,
+      "description": "手机壳",
+      "created_at": "2025-02-14T18:34:42",
+      "updated_at": "2025-02-14T18:34:42"
+    },
+    {
+      "transaction_id": "txn_20250214_044",
+      "date": "2025-02-14",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 380.8,
+      "description": "罚款",
+      "created_at": "2025-02-14T20:01:32",
+      "updated_at": "2025-02-14T20:01:32"
+    },
+    {
+      "transaction_id": "txn_20250214_045",
+      "date": "2025-02-14",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 78.9,
+      "description": "生日派对",
+      "created_at": "2025-02-14T19:49:37",
+      "updated_at": "2025-02-14T19:49:37"
+    },
+    {
+      "transaction_id": "txn_20250215_902",
+      "date": "2025-02-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-02-15T10:00:00",
+      "updated_at": "2025-02-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250217_046",
+      "date": "2025-02-17",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 32.8,
+      "description": "笔记本笔",
+      "created_at": "2025-02-17T17:24:52",
+      "updated_at": "2025-02-17T17:24:52"
+    },
+    {
+      "transaction_id": "txn_20250217_047",
+      "date": "2025-02-17",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 115.8,
+      "description": "鞋子",
+      "created_at": "2025-02-17T20:32:28",
+      "updated_at": "2025-02-17T20:32:28"
+    },
+    {
+      "transaction_id": "txn_20250218_048",
+      "date": "2025-02-18",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 27.89,
+      "description": "坚果酸奶",
+      "created_at": "2025-02-18T19:25:54",
+      "updated_at": "2025-02-18T19:25:54"
+    },
+    {
+      "transaction_id": "txn_20250218_049",
+      "date": "2025-02-18",
+      "category": "生活缴费",
+      "subcategory": "水电费",
+      "amount": 74.25,
+      "description": "水费",
+      "created_at": "2025-02-18T22:25:51",
+      "updated_at": "2025-02-18T22:25:51"
+    },
+    {
+      "transaction_id": "txn_20250220_050",
+      "date": "2025-02-20",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 364.9,
+      "description": "罚款",
+      "created_at": "2025-02-20T13:16:33",
+      "updated_at": "2025-02-20T13:16:33"
+    },
+    {
+      "transaction_id": "txn_20250220_051",
+      "date": "2025-02-20",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 30.5,
+      "description": "紧急打车",
+      "created_at": "2025-02-20T17:39:10",
+      "updated_at": "2025-02-20T17:39:10"
+    },
+    {
+      "transaction_id": "txn_20250223_052",
+      "date": "2025-02-23",
+      "category": "学习",
+      "subcategory": "书籍",
+      "amount": 68.8,
+      "description": "图书馆购书",
+      "created_at": "2025-02-23T22:52:01",
+      "updated_at": "2025-02-23T22:52:01"
+    },
+    {
+      "transaction_id": "txn_20250225_053",
+      "date": "2025-02-25",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 18.8,
+      "description": "水果茶",
+      "created_at": "2025-02-25T18:51:05",
+      "updated_at": "2025-02-25T18:51:05"
+    },
+    {
+      "transaction_id": "txn_20250301_950",
+      "date": "2025-03-01",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 85.0,
+      "description": "开学购买文具用品",
+      "created_at": "2025-03-01T14:00:00",
+      "updated_at": "2025-03-01T14:00:00"
+    },
+    {
+      "transaction_id": "txn_20250302_054",
+      "date": "2025-03-02",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 12.5,
+      "description": "面条",
+      "created_at": "2025-03-02T12:15:12",
+      "updated_at": "2025-03-02T12:15:12"
+    },
+    {
+      "transaction_id": "txn_20250302_055",
+      "date": "2025-03-02",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 18.4,
+      "description": "水果茶",
+      "created_at": "2025-03-02T15:48:04",
+      "updated_at": "2025-03-02T15:48:04"
+    },
+    {
+      "transaction_id": "txn_20250302_056",
+      "date": "2025-03-02",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 26.2,
+      "description": "烧烤串",
+      "created_at": "2025-03-02T22:51:54",
+      "updated_at": "2025-03-02T22:51:54"
+    },
+    {
+      "transaction_id": "txn_20250303_057",
+      "date": "2025-03-03",
+      "category": "其他收入",
+      "subcategory": "兼职/红包",
+      "amount": 615.81,
+      "description": "奖学金",
+      "created_at": "2025-03-03T11:40:23",
+      "updated_at": "2025-03-03T11:40:23"
+    },
+    {
+      "transaction_id": "txn_20250303_058",
+      "date": "2025-03-03",
+      "category": "医疗",
+      "subcategory": "体检",
+      "amount": 425.5,
+      "description": "年度体检",
+      "created_at": "2025-03-03T12:26:06",
+      "updated_at": "2025-03-03T12:26:06"
+    },
+    {
+      "transaction_id": "txn_20250305_059",
+      "date": "2025-03-05",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 24.8,
+      "description": "拿铁",
+      "created_at": "2025-03-05T20:17:38",
+      "updated_at": "2025-03-05T20:17:38"
+    },
+    {
+      "transaction_id": "txn_20250305_060",
+      "date": "2025-03-05",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 46.9,
+      "description": "薯片饼干",
+      "created_at": "2025-03-05T11:52:19",
+      "updated_at": "2025-03-05T11:52:19"
+    },
+    {
+      "transaction_id": "txn_20250306_061",
+      "date": "2025-03-06",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 14.5,
+      "description": "坚果酸奶",
+      "created_at": "2025-03-06T13:14:01",
+      "updated_at": "2025-03-06T13:14:01"
+    },
+    {
+      "transaction_id": "txn_20250306_062",
+      "date": "2025-03-06",
+      "category": "运动",
+      "subcategory": "门票",
+      "amount": 97.8,
+      "description": "体育馆门票",
+      "created_at": "2025-03-06T15:52:36",
+      "updated_at": "2025-03-06T15:52:36"
+    },
+    {
+      "transaction_id": "txn_20250307_063",
+      "date": "2025-03-07",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 23.9,
+      "description": "珍珠奶茶",
+      "created_at": "2025-03-07T22:50:14",
+      "updated_at": "2025-03-07T22:50:14"
+    },
+    {
+      "transaction_id": "txn_20250308_064",
+      "date": "2025-03-08",
+      "category": "运动",
+      "subcategory": "体育用品",
+      "amount": 131.8,
+      "description": "篮球足球",
+      "created_at": "2025-03-08T11:31:28",
+      "updated_at": "2025-03-08T11:31:28"
+    },
+    {
+      "transaction_id": "txn_20250308_065",
+      "date": "2025-03-08",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 30.98,
+      "description": "炒饭",
+      "created_at": "2025-03-08T13:46:24",
+      "updated_at": "2025-03-08T13:46:24"
+    },
+    {
+      "transaction_id": "txn_20250308_066",
+      "date": "2025-03-08",
+      "category": "交通",
+      "subcategory": "火车票",
+      "amount": 206.5,
+      "description": "暑假返程",
+      "created_at": "2025-03-08T14:02:49",
+      "updated_at": "2025-03-08T14:02:49"
+    },
+    {
+      "transaction_id": "txn_20250315_067",
+      "date": "2025-03-15",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 126.5,
+      "description": "急需用品",
+      "created_at": "2025-03-15T16:21:13",
+      "updated_at": "2025-03-15T16:21:13"
+    },
+    {
+      "transaction_id": "txn_20250315_903",
+      "date": "2025-03-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-03-15T10:00:00",
+      "updated_at": "2025-03-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250316_068",
+      "date": "2025-03-16",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 275.5,
+      "description": "洗面奶",
+      "created_at": "2025-03-16T14:54:03",
+      "updated_at": "2025-03-16T14:54:03"
+    },
+    {
+      "transaction_id": "txn_20250316_069",
+      "date": "2025-03-16",
+      "category": "医疗",
+      "subcategory": "体检",
+      "amount": 262.8,
+      "description": "年度体检",
+      "created_at": "2025-03-16T13:08:19",
+      "updated_at": "2025-03-16T13:08:19"
+    },
+    {
+      "transaction_id": "txn_20250316_070",
+      "date": "2025-03-16",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 559.9,
+      "description": "假期旅游",
+      "created_at": "2025-03-16T17:01:17",
+      "updated_at": "2025-03-16T17:01:17"
+    },
+    {
+      "transaction_id": "txn_20250317_071",
+      "date": "2025-03-17",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 140.5,
+      "description": "火锅烤肉",
+      "created_at": "2025-03-17T09:27:41",
+      "updated_at": "2025-03-17T09:27:41"
+    },
+    {
+      "transaction_id": "txn_20250317_072",
+      "date": "2025-03-18",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 85.5,
+      "description": "找不到分类的",
+      "created_at": "2025-03-17T18:27:21",
+      "updated_at": "2026-03-23T16:54:01.632496"
+    },
+    {
+      "transaction_id": "txn_20250318_073",
+      "date": "2025-03-18",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 88.5,
+      "description": "纸巾洗衣液",
+      "created_at": "2025-03-18T15:43:21",
+      "updated_at": "2025-03-18T15:43:21"
+    },
+    {
+      "transaction_id": "txn_20250318_074",
+      "date": "2025-03-18",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 452.0,
+      "description": "买了一个U盘",
+      "created_at": "2025-03-18T15:03:30",
+      "updated_at": "2026-03-23T16:54:18.584652"
+    },
+    {
+      "transaction_id": "txn_20250328_075",
+      "date": "2025-03-28",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 257.5,
+      "description": "护肤品",
+      "created_at": "2025-03-28T20:22:16",
+      "updated_at": "2025-03-28T20:22:16"
+    },
+    {
+      "transaction_id": "txn_20250328_076",
+      "date": "2025-03-28",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 2.9,
+      "description": "公交车出行",
+      "created_at": "2025-03-28T12:26:25",
+      "updated_at": "2025-03-28T12:26:25"
+    },
+    {
+      "transaction_id": "txn_20250328_077",
+      "date": "2025-03-28",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 40.9,
+      "description": "零碎支出",
+      "created_at": "2025-03-28T22:49:51",
+      "updated_at": "2025-03-28T22:49:51"
+    },
+    {
+      "transaction_id": "txn_20250330_078",
+      "date": "2025-03-30",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 48.57,
+      "description": "紧急打车",
+      "created_at": "2025-03-30T11:54:04",
+      "updated_at": "2025-03-30T11:54:04"
+    },
+    {
+      "transaction_id": "txn_20250330_079",
+      "date": "2025-03-30",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 148.11,
+      "description": "课外读物",
+      "created_at": "2025-03-30T18:09:54",
+      "updated_at": "2025-03-30T18:09:54"
+    },
+    {
+      "transaction_id": "txn_20250330_080",
+      "date": "2025-03-30",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1469.9,
+      "description": "长途旅行",
+      "created_at": "2025-03-30T20:18:59",
+      "updated_at": "2025-03-30T20:18:59"
+    },
+    {
+      "transaction_id": "txn_20250331_081",
+      "date": "2025-03-31",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 512.5,
+      "description": "充电宝",
+      "created_at": "2025-03-31T18:37:59",
+      "updated_at": "2025-03-31T18:37:59"
+    },
+    {
+      "transaction_id": "txn_20250403_082",
+      "date": "2025-04-03",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 227.5,
+      "description": "罚款",
+      "created_at": "2025-04-03T20:17:46",
+      "updated_at": "2025-04-03T20:17:46"
+    },
+    {
+      "transaction_id": "txn_20250404_083",
+      "date": "2025-04-04",
+      "category": "学习",
+      "subcategory": "考试",
+      "amount": 116.8,
+      "description": "报名费",
+      "created_at": "2025-04-04T12:23:18",
+      "updated_at": "2025-04-04T12:23:18"
+    },
+    {
+      "transaction_id": "txn_20250404_084",
+      "date": "2025-04-04",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 33.32,
+      "description": "笔记本笔",
+      "created_at": "2025-04-04T13:12:48",
+      "updated_at": "2025-04-04T13:12:48"
+    },
+    {
+      "transaction_id": "txn_20250404_085",
+      "date": "2025-04-04",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 72.53,
+      "description": "考试辅导书",
+      "created_at": "2025-04-04T09:17:55",
+      "updated_at": "2025-04-04T09:17:55"
+    },
+    {
+      "transaction_id": "txn_20250407_086",
+      "date": "2025-04-07",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 128.8,
+      "description": "同学聚餐",
+      "created_at": "2025-04-07T18:47:35",
+      "updated_at": "2025-04-07T18:47:35"
+    },
+    {
+      "transaction_id": "txn_20250407_087",
+      "date": "2025-04-07",
+      "category": "医疗",
+      "subcategory": "体检",
+      "amount": 444.9,
+      "description": "年度体检",
+      "created_at": "2025-04-07T19:54:35",
+      "updated_at": "2025-04-07T19:54:35"
+    },
+    {
+      "transaction_id": "txn_20250407_088",
+      "date": "2025-04-07",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 23.8,
+      "description": "炒饭",
+      "created_at": "2025-04-07T11:38:34",
+      "updated_at": "2025-04-07T11:38:34"
+    },
+    {
+      "transaction_id": "txn_20250410_089",
+      "date": "2025-04-10",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 86.9,
+      "description": "社团活动",
+      "created_at": "2025-04-10T13:53:07",
+      "updated_at": "2025-04-10T13:53:07"
+    },
+    {
+      "transaction_id": "txn_20250410_090",
+      "date": "2025-04-10",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 35.8,
+      "description": "薯片饼干",
+      "created_at": "2025-04-10T22:47:35",
+      "updated_at": "2025-04-10T22:47:35"
+    },
+    {
+      "transaction_id": "txn_20250412_091",
+      "date": "2025-04-12",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 695.8,
+      "description": "蓝牙耳机",
+      "created_at": "2025-04-12T11:10:34",
+      "updated_at": "2025-04-12T11:10:34"
+    },
+    {
+      "transaction_id": "txn_20250415_092",
+      "date": "2025-04-15",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 14.8,
+      "description": "包子豆浆",
+      "created_at": "2025-04-15T09:14:07",
+      "updated_at": "2025-04-15T09:14:07"
+    },
+    {
+      "transaction_id": "txn_20250415_093",
+      "date": "2025-04-15",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 16.3,
+      "description": "简单小吃",
+      "created_at": "2025-04-15T19:32:45",
+      "updated_at": "2025-04-15T19:32:45"
+    },
+    {
+      "transaction_id": "txn_20250415_904",
+      "date": "2025-04-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-04-15T10:00:00",
+      "updated_at": "2025-04-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250416_094",
+      "date": "2025-04-16",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 4.9,
+      "description": "市区游玩",
+      "created_at": "2025-04-16T19:35:19",
+      "updated_at": "2025-04-16T19:35:19"
+    },
+    {
+      "transaction_id": "txn_20250416_095",
+      "date": "2025-04-16",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 49.9,
+      "description": "赶时间打车",
+      "created_at": "2025-04-16T12:30:25",
+      "updated_at": "2025-04-16T12:30:25"
+    },
+    {
+      "transaction_id": "txn_20250418_096",
+      "date": "2025-04-18",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 168.9,
+      "description": "购买游戏",
+      "created_at": "2025-04-18T21:25:29",
+      "updated_at": "2025-04-18T21:25:29"
+    },
+    {
+      "transaction_id": "txn_20250418_097",
+      "date": "2025-04-18",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 5.89,
+      "description": "食堂早餐",
+      "created_at": "2025-04-18T08:30:02",
+      "updated_at": "2025-04-18T08:30:02"
+    },
+    {
+      "transaction_id": "txn_20250419_098",
+      "date": "2025-04-19",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 13.5,
+      "description": "轻食沙拉",
+      "created_at": "2025-04-19T18:58:50",
+      "updated_at": "2025-04-19T18:58:50"
+    },
+    {
+      "transaction_id": "txn_20250419_099",
+      "date": "2025-04-19",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 24.46,
+      "description": "拿铁",
+      "created_at": "2025-04-19T11:54:36",
+      "updated_at": "2025-04-19T11:54:36"
+    },
+    {
+      "transaction_id": "txn_20250419_100",
+      "date": "2025-04-19",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 31.99,
+      "description": "麻辣烫",
+      "created_at": "2025-04-19T11:42:28",
+      "updated_at": "2025-04-19T11:42:28"
+    },
+    {
+      "transaction_id": "txn_20250420_101",
+      "date": "2025-04-20",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 46.01,
+      "description": "每月话费充值",
+      "created_at": "2025-04-20T19:59:41",
+      "updated_at": "2025-04-20T19:59:41"
+    },
+    {
+      "transaction_id": "txn_20250420_102",
+      "date": "2025-04-20",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 31.5,
+      "description": "炒饭",
+      "created_at": "2025-04-20T12:02:43",
+      "updated_at": "2025-04-20T12:02:43"
+    },
+    {
+      "transaction_id": "txn_20250421_103",
+      "date": "2025-04-21",
+      "category": "交通",
+      "subcategory": "火车票",
+      "amount": 168.5,
+      "description": "暑假返程",
+      "created_at": "2025-04-21T15:12:53",
+      "updated_at": "2025-04-21T15:12:53"
+    },
+    {
+      "transaction_id": "txn_20250423_104",
+      "date": "2025-04-23",
+      "category": "生活缴费",
+      "subcategory": "水电费",
+      "amount": 62.23,
+      "description": "水费",
+      "created_at": "2025-04-23T21:33:13",
+      "updated_at": "2025-04-23T21:33:13"
+    },
+    {
+      "transaction_id": "txn_20250423_105",
+      "date": "2025-04-23",
+      "category": "运动",
+      "subcategory": "健身",
+      "amount": 180.53,
+      "description": "操场跑步",
+      "created_at": "2025-04-23T16:22:12",
+      "updated_at": "2025-04-23T16:22:12"
+    },
+    {
+      "transaction_id": "txn_20250425_106",
+      "date": "2025-04-25",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 229.5,
+      "description": "护肤品",
+      "created_at": "2025-04-25T11:33:06",
+      "updated_at": "2025-04-25T11:33:06"
+    },
+    {
+      "transaction_id": "txn_20250425_107",
+      "date": "2025-04-25",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 1446.94,
+      "description": "长途回家",
+      "created_at": "2025-04-25T19:28:23",
+      "updated_at": "2025-04-25T19:28:23"
+    },
+    {
+      "transaction_id": "txn_20250425_108",
+      "date": "2025-04-25",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 7.5,
+      "description": "市区游玩",
+      "created_at": "2025-04-25T11:37:28",
+      "updated_at": "2025-04-25T11:37:28"
+    },
+    {
+      "transaction_id": "txn_20250426_109",
+      "date": "2025-04-26",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 5.8,
+      "description": "面包牛奶",
+      "created_at": "2025-04-26T09:13:00",
+      "updated_at": "2025-04-26T09:13:00"
+    },
+    {
+      "transaction_id": "txn_20250426_110",
+      "date": "2025-04-26",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 43.5,
+      "description": "坚果酸奶",
+      "created_at": "2025-04-26T15:52:04",
+      "updated_at": "2025-04-26T15:52:04"
+    },
+    {
+      "transaction_id": "txn_20250426_111",
+      "date": "2025-04-26",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 61.5,
+      "description": "专业教材",
+      "created_at": "2025-04-26T11:28:36",
+      "updated_at": "2025-04-26T11:28:36"
+    },
+    {
+      "transaction_id": "txn_20250427_112",
+      "date": "2025-04-27",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 394.5,
+      "description": "U 盘",
+      "created_at": "2025-04-27T17:30:13",
+      "updated_at": "2025-04-27T17:30:13"
+    },
+    {
+      "transaction_id": "txn_20250427_113",
+      "date": "2025-04-27",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 228.5,
+      "description": "罚款",
+      "created_at": "2025-04-27T20:46:38",
+      "updated_at": "2025-04-27T20:46:38"
+    },
+    {
+      "transaction_id": "txn_20250428_114",
+      "date": "2025-04-28",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 118.5,
+      "description": "火锅烤肉",
+      "created_at": "2025-04-28T21:30:20",
+      "updated_at": "2025-04-28T21:30:20"
+    },
+    {
+      "transaction_id": "txn_20250501_115",
+      "date": "2025-05-01",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 728.8,
+      "description": "充电宝",
+      "created_at": "2025-05-01T18:29:57",
+      "updated_at": "2025-05-01T18:29:57"
+    },
+    {
+      "transaction_id": "txn_20250501_116",
+      "date": "2025-05-01",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 37.32,
+      "description": "零碎支出",
+      "created_at": "2025-05-01T20:51:05",
+      "updated_at": "2025-05-01T20:51:05"
+    },
+    {
+      "transaction_id": "txn_20250502_117",
+      "date": "2025-05-02",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 16.9,
+      "description": "美式咖啡",
+      "created_at": "2025-05-02T14:18:34",
+      "updated_at": "2025-05-02T14:18:34"
+    },
+    {
+      "transaction_id": "txn_20250503_118",
+      "date": "2025-05-03",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 491.83,
+      "description": "休闲装",
+      "created_at": "2025-05-03T19:33:36",
+      "updated_at": "2025-05-03T19:33:36"
+    },
+    {
+      "transaction_id": "txn_20250503_119",
+      "date": "2025-05-03",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 28.59,
+      "description": "紧急打车",
+      "created_at": "2025-05-03T22:51:03",
+      "updated_at": "2025-05-03T22:51:03"
+    },
+    {
+      "transaction_id": "txn_20250511_120",
+      "date": "2025-05-11",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 20.5,
+      "description": "芝士奶盖",
+      "created_at": "2025-05-11T18:00:00",
+      "updated_at": "2025-05-11T18:00:00"
+    },
+    {
+      "transaction_id": "txn_20250511_121",
+      "date": "2025-05-11",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 295.9,
+      "description": "物品损坏赔偿",
+      "created_at": "2025-05-11T19:17:46",
+      "updated_at": "2025-05-11T19:17:46"
+    },
+    {
+      "transaction_id": "txn_20250514_122",
+      "date": "2025-05-14",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 156.5,
+      "description": "社团活动",
+      "created_at": "2025-05-14T11:52:49",
+      "updated_at": "2025-05-14T11:52:49"
+    },
+    {
+      "transaction_id": "txn_20250514_123",
+      "date": "2025-05-14",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 13.8,
+      "description": "两荤一素",
+      "created_at": "2025-05-14T11:04:54",
+      "updated_at": "2025-05-14T11:04:54"
+    },
+    {
+      "transaction_id": "txn_20250515_124",
+      "date": "2025-05-15",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 251.9,
+      "description": "U 盘",
+      "created_at": "2025-05-15T13:26:16",
+      "updated_at": "2025-05-15T13:26:16"
+    },
+    {
+      "transaction_id": "txn_20250515_905",
+      "date": "2025-05-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-05-15T10:00:00",
+      "updated_at": "2025-05-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250516_125",
+      "date": "2025-05-16",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 48.8,
+      "description": "观看热映电影",
+      "created_at": "2025-05-16T19:41:16",
+      "updated_at": "2025-05-16T19:41:16"
+    },
+    {
+      "transaction_id": "txn_20250516_126",
+      "date": "2025-05-16",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 38.84,
+      "description": "泡面加餐",
+      "created_at": "2025-05-16T23:37:34",
+      "updated_at": "2025-05-16T23:37:34"
+    },
+    {
+      "transaction_id": "txn_20250517_127",
+      "date": "2025-05-17",
+      "category": "学习",
+      "subcategory": "书籍",
+      "amount": 110.9,
+      "description": "图书馆购书",
+      "created_at": "2025-05-17T22:46:27",
+      "updated_at": "2025-05-17T22:46:27"
+    },
+    {
+      "transaction_id": "txn_20250517_128",
+      "date": "2025-05-17",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.39,
+      "description": "盖浇饭",
+      "created_at": "2025-05-17T12:18:37",
+      "updated_at": "2025-05-17T12:18:37"
+    },
+    {
+      "transaction_id": "txn_20250518_129",
+      "date": "2025-05-18",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 185.6,
+      "description": "冬季外套",
+      "created_at": "2025-05-18T15:32:51",
+      "updated_at": "2025-05-18T15:32:51"
+    },
+    {
+      "transaction_id": "txn_20250520_130",
+      "date": "2025-05-20",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 136.8,
+      "description": "同学聚餐",
+      "created_at": "2025-05-20T15:19:33",
+      "updated_at": "2025-05-20T15:19:33"
+    },
+    {
+      "transaction_id": "txn_20250520_131",
+      "date": "2025-05-20",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 14.81,
+      "description": "打印资料",
+      "created_at": "2025-05-20T15:30:34",
+      "updated_at": "2025-05-20T15:30:34"
+    },
+    {
+      "transaction_id": "txn_20250520_132",
+      "date": "2025-05-20",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 21.8,
+      "description": "水果茶",
+      "created_at": "2025-05-20T12:11:48",
+      "updated_at": "2025-05-20T12:11:48"
+    },
+    {
+      "transaction_id": "txn_20250522_133",
+      "date": "2025-05-22",
+      "category": "其他收入",
+      "subcategory": "兼职/红包",
+      "amount": 642.34,
+      "description": "春节红包",
+      "created_at": "2025-05-22T16:35:56",
+      "updated_at": "2025-05-22T16:35:56"
+    },
+    {
+      "transaction_id": "txn_20250525_134",
+      "date": "2025-05-25",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 48.8,
+      "description": "薯片饼干",
+      "created_at": "2025-05-25T20:12:30",
+      "updated_at": "2025-05-25T20:12:30"
+    },
+    {
+      "transaction_id": "txn_20250527_135",
+      "date": "2025-05-27",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 378.04,
+      "description": "物品损坏赔偿",
+      "created_at": "2025-05-27T21:00:18",
+      "updated_at": "2025-05-27T21:00:18"
+    },
+    {
+      "transaction_id": "txn_20250527_136",
+      "date": "2025-05-27",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 86.5,
+      "description": "临时购物",
+      "created_at": "2025-05-27T10:31:06",
+      "updated_at": "2025-05-27T10:31:06"
+    },
+    {
+      "transaction_id": "txn_20250528_137",
+      "date": "2025-05-28",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1025.5,
+      "description": "周边游",
+      "created_at": "2025-05-28T15:48:03",
+      "updated_at": "2025-05-28T15:48:03"
+    },
+    {
+      "transaction_id": "txn_20250528_138",
+      "date": "2025-05-28",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 17.8,
+      "description": "烧烤串",
+      "created_at": "2025-05-28T23:18:33",
+      "updated_at": "2025-05-28T23:18:33"
+    },
+    {
+      "transaction_id": "txn_20250530_139",
+      "date": "2025-05-30",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 60.9,
+      "description": "生日派对",
+      "created_at": "2025-05-30T10:45:40",
+      "updated_at": "2025-05-30T10:45:40"
+    },
+    {
+      "transaction_id": "txn_20250530_140",
+      "date": "2025-05-30",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 52.8,
+      "description": "考试辅导书",
+      "created_at": "2025-05-30T18:10:10",
+      "updated_at": "2025-05-30T18:10:10"
+    },
+    {
+      "transaction_id": "txn_20250530_141",
+      "date": "2025-05-30",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 99.9,
+      "description": "临时购物",
+      "created_at": "2025-05-30T22:39:58",
+      "updated_at": "2025-05-30T22:39:58"
+    },
+    {
+      "transaction_id": "txn_20250603_142",
+      "date": "2025-06-03",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 18.59,
+      "description": "面条",
+      "created_at": "2025-06-03T13:19:25",
+      "updated_at": "2025-06-03T13:19:25"
+    },
+    {
+      "transaction_id": "txn_20250605_143",
+      "date": "2025-06-05",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 39.8,
+      "description": "炒饭",
+      "created_at": "2025-06-05T12:52:43",
+      "updated_at": "2025-06-05T12:52:43"
+    },
+    {
+      "transaction_id": "txn_20250605_144",
+      "date": "2025-06-05",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 38.14,
+      "description": "会员订阅",
+      "created_at": "2025-06-05T15:06:07",
+      "updated_at": "2025-06-05T15:06:07"
+    },
+    {
+      "transaction_id": "txn_20250609_145",
+      "date": "2025-06-09",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 38.8,
+      "description": "情侣观影",
+      "created_at": "2025-06-09T18:43:59",
+      "updated_at": "2025-06-09T18:43:59"
+    },
+    {
+      "transaction_id": "txn_20250609_146",
+      "date": "2025-06-09",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 39.8,
+      "description": "情侣观影",
+      "created_at": "2025-06-09T16:01:47",
+      "updated_at": "2025-06-09T16:01:47"
+    },
+    {
+      "transaction_id": "txn_20250609_147",
+      "date": "2025-06-09",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 36.5,
+      "description": "炒饭",
+      "created_at": "2025-06-09T13:10:51",
+      "updated_at": "2025-06-09T13:10:51"
+    },
+    {
+      "transaction_id": "txn_20250611_148",
+      "date": "2025-06-11",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 22.9,
+      "description": "紧急打车",
+      "created_at": "2025-06-11T11:12:59",
+      "updated_at": "2025-06-11T11:12:59"
+    },
+    {
+      "transaction_id": "txn_20250611_149",
+      "date": "2025-06-11",
+      "category": "社交",
+      "subcategory": "人情",
+      "amount": 282.4,
+      "description": "满月礼",
+      "created_at": "2025-06-11T11:35:58",
+      "updated_at": "2025-06-11T11:35:58"
+    },
+    {
+      "transaction_id": "txn_20250615_906",
+      "date": "2025-06-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-06-15T10:00:00",
+      "updated_at": "2025-06-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250617_150",
+      "date": "2025-06-17",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 25.5,
+      "description": "急需用品",
+      "created_at": "2025-06-17T15:12:20",
+      "updated_at": "2025-06-17T15:12:20"
+    },
+    {
+      "transaction_id": "txn_20250618_151",
+      "date": "2025-06-18",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1376.5,
+      "description": "长途旅行",
+      "created_at": "2025-06-18T16:35:17",
+      "updated_at": "2025-06-18T16:35:17"
+    },
+    {
+      "transaction_id": "txn_20250618_152",
+      "date": "2025-06-18",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 173.9,
+      "description": "休闲装",
+      "created_at": "2025-06-18T10:34:44",
+      "updated_at": "2025-06-18T10:34:44"
+    },
+    {
+      "transaction_id": "txn_20250619_153",
+      "date": "2025-06-19",
+      "category": "社交",
+      "subcategory": "人情",
+      "amount": 238.9,
+      "description": "婚礼份子钱",
+      "created_at": "2025-06-19T17:43:34",
+      "updated_at": "2025-06-19T17:43:34"
+    },
+    {
+      "transaction_id": "txn_20250619_154",
+      "date": "2025-06-19",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 62.9,
+      "description": "流量包",
+      "created_at": "2025-06-19T13:51:22",
+      "updated_at": "2025-06-19T13:51:22"
+    },
+    {
+      "transaction_id": "txn_20250619_155",
+      "date": "2025-06-19",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 133.62,
+      "description": "演唱会门票",
+      "created_at": "2025-06-19T11:05:34",
+      "updated_at": "2025-06-19T11:05:34"
+    },
+    {
+      "transaction_id": "txn_20250620_156",
+      "date": "2025-06-20",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 15.9,
+      "description": "食堂套餐",
+      "created_at": "2025-06-20T11:13:06",
+      "updated_at": "2025-06-20T11:13:06"
+    },
+    {
+      "transaction_id": "txn_20250622_157",
+      "date": "2025-06-22",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 15.96,
+      "description": "烧烤串",
+      "created_at": "2025-06-22T23:50:13",
+      "updated_at": "2025-06-22T23:50:13"
+    },
+    {
+      "transaction_id": "txn_20250622_158",
+      "date": "2025-06-22",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 80.9,
+      "description": "生日聚会",
+      "created_at": "2025-06-22T20:18:18",
+      "updated_at": "2025-06-22T20:18:18"
+    },
+    {
+      "transaction_id": "txn_20250624_159",
+      "date": "2025-06-24",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 1218.8,
+      "description": "假期旅游",
+      "created_at": "2025-06-24T11:01:28",
+      "updated_at": "2025-06-24T11:01:28"
+    },
+    {
+      "transaction_id": "txn_20250624_160",
+      "date": "2025-06-24",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 34.5,
+      "description": "课外读物",
+      "created_at": "2025-06-24T10:48:34",
+      "updated_at": "2025-06-24T10:48:34"
+    },
+    {
+      "transaction_id": "txn_20250629_161",
+      "date": "2025-06-29",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 177.9,
+      "description": "演唱会门票",
+      "created_at": "2025-06-29T12:53:32",
+      "updated_at": "2025-06-29T12:53:32"
+    },
+    {
+      "transaction_id": "txn_20250629_162",
+      "date": "2025-06-29",
+      "category": "学习",
+      "subcategory": "书籍",
+      "amount": 69.8,
+      "description": "参考教材",
+      "created_at": "2025-06-29T21:20:09",
+      "updated_at": "2025-06-29T21:20:09"
+    },
+    {
+      "transaction_id": "txn_20250629_163",
+      "date": "2025-06-29",
+      "category": "运动",
+      "subcategory": "体育用品",
+      "amount": 132.5,
+      "description": "运动鞋服",
+      "created_at": "2025-06-29T18:58:42",
+      "updated_at": "2025-06-29T18:58:42"
+    },
+    {
+      "transaction_id": "txn_20250630_164",
+      "date": "2025-06-30",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 35.53,
+      "description": "情侣观影",
+      "created_at": "2025-06-30T11:16:02",
+      "updated_at": "2025-06-30T11:16:02"
+    },
+    {
+      "transaction_id": "txn_20250630_165",
+      "date": "2025-06-30",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 31.62,
+      "description": "卡布奇诺",
+      "created_at": "2025-06-30T16:23:42",
+      "updated_at": "2025-06-30T16:23:42"
+    },
+    {
+      "transaction_id": "txn_20250630_166",
+      "date": "2025-06-30",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 1383.81,
+      "description": "长途回家",
+      "created_at": "2025-06-30T19:02:52",
+      "updated_at": "2025-06-30T19:02:52"
+    },
+    {
+      "transaction_id": "txn_20250705_167",
+      "date": "2025-07-05",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 323.93,
+      "description": "冬季外套",
+      "created_at": "2025-07-05T21:46:51",
+      "updated_at": "2025-07-05T21:46:51"
+    },
+    {
+      "transaction_id": "txn_20250705_168",
+      "date": "2025-07-05",
+      "category": "生活缴费",
+      "subcategory": "水电费",
+      "amount": 57.51,
+      "description": "水费",
+      "created_at": "2025-07-05T11:09:22",
+      "updated_at": "2025-07-05T11:09:22"
+    },
+    {
+      "transaction_id": "txn_20250705_169",
+      "date": "2025-07-05",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 18.8,
+      "description": "食堂晚餐",
+      "created_at": "2025-07-05T18:44:49",
+      "updated_at": "2025-07-05T18:44:49"
+    },
+    {
+      "transaction_id": "txn_20250706_170",
+      "date": "2025-07-06",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 13.9,
+      "description": "食堂套餐",
+      "created_at": "2025-07-06T11:36:48",
+      "updated_at": "2025-07-06T11:36:48"
+    },
+    {
+      "transaction_id": "txn_20250706_171",
+      "date": "2025-07-06",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 29.9,
+      "description": "卡布奇诺",
+      "created_at": "2025-07-06T22:21:09",
+      "updated_at": "2025-07-06T22:21:09"
+    },
+    {
+      "transaction_id": "txn_20250706_172",
+      "date": "2025-07-06",
+      "category": "生活缴费",
+      "subcategory": "水电费",
+      "amount": 50.9,
+      "description": "水费",
+      "created_at": "2025-07-06T13:35:44",
+      "updated_at": "2025-07-06T13:35:44"
+    },
+    {
+      "transaction_id": "txn_20250708_173",
+      "date": "2025-07-08",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 5.08,
+      "description": "市区游玩",
+      "created_at": "2025-07-08T11:03:49",
+      "updated_at": "2025-07-08T11:03:49"
+    },
+    {
+      "transaction_id": "txn_20250712_174",
+      "date": "2025-07-12",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 99.8,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-07-12T18:09:43",
+      "updated_at": "2025-07-12T18:09:43"
+    },
+    {
+      "transaction_id": "txn_20250712_175",
+      "date": "2025-07-12",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 25.5,
+      "description": "外卖快餐",
+      "created_at": "2025-07-12T11:53:54",
+      "updated_at": "2025-07-12T11:53:54"
+    },
+    {
+      "transaction_id": "txn_20250713_176",
+      "date": "2025-07-13",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 7.45,
+      "description": "市区游玩",
+      "created_at": "2025-07-13T13:01:10",
+      "updated_at": "2025-07-13T13:01:10"
+    },
+    {
+      "transaction_id": "txn_20250714_177",
+      "date": "2025-07-14",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 20.2,
+      "description": "两荤一素",
+      "created_at": "2025-07-14T11:58:16",
+      "updated_at": "2025-07-14T11:58:16"
+    },
+    {
+      "transaction_id": "txn_20250714_178",
+      "date": "2025-07-14",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 13.5,
+      "description": "食堂套餐",
+      "created_at": "2025-07-14T13:44:14",
+      "updated_at": "2025-07-14T13:44:14"
+    },
+    {
+      "transaction_id": "txn_20250714_179",
+      "date": "2025-07-14",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 42.5,
+      "description": "宿舍用品",
+      "created_at": "2025-07-14T21:25:37",
+      "updated_at": "2025-07-14T21:25:37"
+    },
+    {
+      "transaction_id": "txn_20250715_180",
+      "date": "2025-07-15",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 2.7,
+      "description": "公交车出行",
+      "created_at": "2025-07-15T21:09:16",
+      "updated_at": "2025-07-15T21:09:16"
+    },
+    {
+      "transaction_id": "txn_20250715_181",
+      "date": "2025-07-15",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 22.5,
+      "description": "薯片饼干",
+      "created_at": "2025-07-15T11:59:20",
+      "updated_at": "2025-07-15T11:59:20"
+    },
+    {
+      "transaction_id": "txn_20250715_182",
+      "date": "2025-07-15",
+      "category": "学习",
+      "subcategory": "课程",
+      "amount": 315.7,
+      "description": "网课付费",
+      "created_at": "2025-07-15T17:22:32",
+      "updated_at": "2025-07-15T17:22:32"
+    },
+    {
+      "transaction_id": "txn_20250715_907",
+      "date": "2025-07-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-07-15T10:00:00",
+      "updated_at": "2025-07-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250718_183",
+      "date": "2025-07-18",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 738.34,
+      "description": "充电宝",
+      "created_at": "2025-07-18T14:03:07",
+      "updated_at": "2025-07-18T14:03:07"
+    },
+    {
+      "transaction_id": "txn_20250719_184",
+      "date": "2025-07-19",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 18.54,
+      "description": "简单小吃",
+      "created_at": "2025-07-19T18:00:32",
+      "updated_at": "2025-07-19T18:00:32"
+    },
+    {
+      "transaction_id": "txn_20250719_185",
+      "date": "2025-07-19",
+      "category": "运动",
+      "subcategory": "健身",
+      "amount": 133.59,
+      "description": "健身房办卡",
+      "created_at": "2025-07-19T21:41:18",
+      "updated_at": "2025-07-19T21:41:18"
+    },
+    {
+      "transaction_id": "txn_20250719_186",
+      "date": "2025-07-19",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 464.9,
+      "description": "演唱会门票",
+      "created_at": "2025-07-19T18:41:33",
+      "updated_at": "2025-07-19T18:41:33"
+    },
+    {
+      "transaction_id": "txn_20250721_187",
+      "date": "2025-07-21",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 36.5,
+      "description": "辣条",
+      "created_at": "2025-07-21T15:14:39",
+      "updated_at": "2025-07-21T15:14:39"
+    },
+    {
+      "transaction_id": "txn_20250721_188",
+      "date": "2025-07-21",
+      "category": "社交",
+      "subcategory": "人情",
+      "amount": 210.8,
+      "description": "婚礼份子钱",
+      "created_at": "2025-07-21T16:54:32",
+      "updated_at": "2025-07-21T16:54:32"
+    },
+    {
+      "transaction_id": "txn_20250721_189",
+      "date": "2025-07-21",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 13.9,
+      "description": "水果茶",
+      "created_at": "2025-07-21T21:33:30",
+      "updated_at": "2025-07-21T21:33:30"
+    },
+    {
+      "transaction_id": "txn_20250722_190",
+      "date": "2025-07-22",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 33.9,
+      "description": "麻辣烫",
+      "created_at": "2025-07-22T12:12:18",
+      "updated_at": "2025-07-22T12:12:18"
+    },
+    {
+      "transaction_id": "txn_20250724_191",
+      "date": "2025-07-24",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 58.5,
+      "description": "生日派对",
+      "created_at": "2025-07-24T13:38:50",
+      "updated_at": "2025-07-24T13:38:50"
+    },
+    {
+      "transaction_id": "txn_20250724_192",
+      "date": "2025-07-24",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 101.5,
+      "description": "护肤品",
+      "created_at": "2025-07-24T22:39:42",
+      "updated_at": "2025-07-24T22:39:42"
+    },
+    {
+      "transaction_id": "txn_20250724_193",
+      "date": "2025-07-24",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 53.5,
+      "description": "生日派对",
+      "created_at": "2025-07-24T21:25:06",
+      "updated_at": "2025-07-24T21:25:06"
+    },
+    {
+      "transaction_id": "txn_20250725_194",
+      "date": "2025-07-25",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 72.8,
+      "description": "零碎支出",
+      "created_at": "2025-07-25T15:40:58",
+      "updated_at": "2025-07-25T15:40:58"
+    },
+    {
+      "transaction_id": "txn_20250725_195",
+      "date": "2025-07-25",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 14.5,
+      "description": "食堂晚餐",
+      "created_at": "2025-07-25T17:52:32",
+      "updated_at": "2025-07-25T17:52:32"
+    },
+    {
+      "transaction_id": "txn_20250726_196",
+      "date": "2025-07-26",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 404.29,
+      "description": "罚款",
+      "created_at": "2025-07-26T10:48:31",
+      "updated_at": "2025-07-26T10:48:31"
+    },
+    {
+      "transaction_id": "txn_20250727_197",
+      "date": "2025-07-27",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 249.8,
+      "description": "蓝牙耳机",
+      "created_at": "2025-07-27T12:57:20",
+      "updated_at": "2025-07-27T12:57:20"
+    },
+    {
+      "transaction_id": "txn_20250728_198",
+      "date": "2025-07-28",
+      "category": "学习",
+      "subcategory": "课程",
+      "amount": 433.8,
+      "description": "技能培训",
+      "created_at": "2025-07-28T22:34:21",
+      "updated_at": "2025-07-28T22:34:21"
+    },
+    {
+      "transaction_id": "txn_20250728_199",
+      "date": "2025-07-28",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 3.5,
+      "description": "回学校公交",
+      "created_at": "2025-07-28T18:30:16",
+      "updated_at": "2025-07-28T18:30:16"
+    },
+    {
+      "transaction_id": "txn_20250728_200",
+      "date": "2025-07-28",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 426.64,
+      "description": "手机壳",
+      "created_at": "2025-07-28T14:45:47",
+      "updated_at": "2025-07-28T14:45:47"
+    },
+    {
+      "transaction_id": "txn_20250730_201",
+      "date": "2025-07-30",
+      "category": "学习",
+      "subcategory": "课程",
+      "amount": 466.8,
+      "description": "网课付费",
+      "created_at": "2025-07-30T16:23:22",
+      "updated_at": "2025-07-30T16:23:22"
+    },
+    {
+      "transaction_id": "txn_20250730_202",
+      "date": "2025-07-30",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 28.8,
+      "description": "赶时间打车",
+      "created_at": "2025-07-30T10:37:00",
+      "updated_at": "2025-07-30T10:37:00"
+    },
+    {
+      "transaction_id": "txn_20250730_203",
+      "date": "2025-07-30",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 94.38,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-07-30T16:25:09",
+      "updated_at": "2025-07-30T16:25:09"
+    },
+    {
+      "transaction_id": "txn_20250802_204",
+      "date": "2025-08-02",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 29.5,
+      "description": "纸巾洗衣液",
+      "created_at": "2025-08-02T12:58:33",
+      "updated_at": "2025-08-02T12:58:33"
+    },
+    {
+      "transaction_id": "txn_20250802_205",
+      "date": "2025-08-02",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 4.5,
+      "description": "市区游玩",
+      "created_at": "2025-08-02T10:21:27",
+      "updated_at": "2025-08-02T10:21:27"
+    },
+    {
+      "transaction_id": "txn_20250802_206",
+      "date": "2025-08-02",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 159.9,
+      "description": "演唱会门票",
+      "created_at": "2025-08-02T19:18:35",
+      "updated_at": "2025-08-02T19:18:35"
+    },
+    {
+      "transaction_id": "txn_20250804_207",
+      "date": "2025-08-04",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 21.8,
+      "description": "食堂套餐",
+      "created_at": "2025-08-04T13:49:26",
+      "updated_at": "2025-08-04T13:49:26"
+    },
+    {
+      "transaction_id": "txn_20250805_208",
+      "date": "2025-08-05",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 59.9,
+      "description": "找不到分类的",
+      "created_at": "2025-08-05T19:34:42",
+      "updated_at": "2025-08-05T19:34:42"
+    },
+    {
+      "transaction_id": "txn_20250805_209",
+      "date": "2025-08-05",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 50.9,
+      "description": "护肤品",
+      "created_at": "2025-08-05T13:34:55",
+      "updated_at": "2025-08-05T13:34:55"
+    },
+    {
+      "transaction_id": "txn_20250805_210",
+      "date": "2025-08-05",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 201.8,
+      "description": "护肤品",
+      "created_at": "2025-08-05T12:30:20",
+      "updated_at": "2025-08-05T12:30:20"
+    },
+    {
+      "transaction_id": "txn_20250807_211",
+      "date": "2025-08-07",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 35.5,
+      "description": "薯片饼干",
+      "created_at": "2025-08-07T14:48:47",
+      "updated_at": "2025-08-07T14:48:47"
+    },
+    {
+      "transaction_id": "txn_20250807_212",
+      "date": "2025-08-07",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 37.8,
+      "description": "流量包",
+      "created_at": "2025-08-07T10:47:43",
+      "updated_at": "2025-08-07T10:47:43"
+    },
+    {
+      "transaction_id": "txn_20250808_213",
+      "date": "2025-08-08",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 3.8,
+      "description": "地铁通勤",
+      "created_at": "2025-08-08T17:55:32",
+      "updated_at": "2025-08-08T17:55:32"
+    },
+    {
+      "transaction_id": "txn_20250809_214",
+      "date": "2025-08-09",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.21,
+      "description": "面包牛奶",
+      "created_at": "2025-08-09T09:00:09",
+      "updated_at": "2025-08-09T09:00:09"
+    },
+    {
+      "transaction_id": "txn_20250809_215",
+      "date": "2025-08-09",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 92.8,
+      "description": "课外读物",
+      "created_at": "2025-08-09T17:41:59",
+      "updated_at": "2025-08-09T17:41:59"
+    },
+    {
+      "transaction_id": "txn_20250810_216",
+      "date": "2025-08-10",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 460.8,
+      "description": "物品损坏赔偿",
+      "created_at": "2025-08-10T17:20:26",
+      "updated_at": "2025-08-10T17:20:26"
+    },
+    {
+      "transaction_id": "txn_20250810_217",
+      "date": "2025-08-10",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 18.8,
+      "description": "面条",
+      "created_at": "2025-08-10T11:32:13",
+      "updated_at": "2025-08-10T11:32:13"
+    },
+    {
+      "transaction_id": "txn_20250810_218",
+      "date": "2025-08-10",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 3.5,
+      "description": "回学校公交",
+      "created_at": "2025-08-10T14:05:57",
+      "updated_at": "2025-08-10T14:05:57"
+    },
+    {
+      "transaction_id": "txn_20250815_908",
+      "date": "2025-08-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-08-15T10:00:00",
+      "updated_at": "2025-08-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250816_219",
+      "date": "2025-08-16",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 563.8,
+      "description": "周边游",
+      "created_at": "2025-08-16T15:46:30",
+      "updated_at": "2025-08-16T15:46:30"
+    },
+    {
+      "transaction_id": "txn_20250816_220",
+      "date": "2025-08-16",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 33.9,
+      "description": "外卖快餐",
+      "created_at": "2025-08-16T12:17:34",
+      "updated_at": "2025-08-16T12:17:34"
+    },
+    {
+      "transaction_id": "txn_20250816_221",
+      "date": "2025-08-16",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 163.5,
+      "description": "演唱会门票",
+      "created_at": "2025-08-16T16:02:43",
+      "updated_at": "2025-08-16T16:02:43"
+    },
+    {
+      "transaction_id": "txn_20250819_222",
+      "date": "2025-08-19",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 11.5,
+      "description": "找不到分类的",
+      "created_at": "2025-08-19T22:08:11",
+      "updated_at": "2025-08-19T22:08:11"
+    },
+    {
+      "transaction_id": "txn_20250819_223",
+      "date": "2025-08-19",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 83.41,
+      "description": "生日派对",
+      "created_at": "2025-08-19T12:02:22",
+      "updated_at": "2025-08-19T12:02:22"
+    },
+    {
+      "transaction_id": "txn_20250819_224",
+      "date": "2025-08-19",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.9,
+      "description": "包子豆浆",
+      "created_at": "2025-08-19T07:28:34",
+      "updated_at": "2025-08-19T07:28:34"
+    },
+    {
+      "transaction_id": "txn_20250820_225",
+      "date": "2025-08-20",
+      "category": "生活缴费",
+      "subcategory": "网费",
+      "amount": 36.92,
+      "description": "宿舍宽带费",
+      "created_at": "2025-08-20T12:03:15",
+      "updated_at": "2025-08-20T12:03:15"
+    },
+    {
+      "transaction_id": "txn_20250821_226",
+      "date": "2025-08-21",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 194.8,
+      "description": "临时购物",
+      "created_at": "2025-08-21T17:31:11",
+      "updated_at": "2025-08-21T17:31:11"
+    },
+    {
+      "transaction_id": "txn_20250823_227",
+      "date": "2025-08-23",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 21.9,
+      "description": "外卖快餐",
+      "created_at": "2025-08-23T13:23:23",
+      "updated_at": "2025-08-23T13:23:23"
+    },
+    {
+      "transaction_id": "txn_20250823_228",
+      "date": "2025-08-23",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 88.8,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-08-23T12:19:00",
+      "updated_at": "2025-08-23T12:19:00"
+    },
+    {
+      "transaction_id": "txn_20250823_229",
+      "date": "2025-08-23",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 189.5,
+      "description": "社团活动",
+      "created_at": "2025-08-23T19:05:49",
+      "updated_at": "2025-08-23T19:05:49"
+    },
+    {
+      "transaction_id": "txn_20250825_230",
+      "date": "2025-08-25",
+      "category": "学习",
+      "subcategory": "书籍",
+      "amount": 64.5,
+      "description": "参考教材",
+      "created_at": "2025-08-25T13:03:44",
+      "updated_at": "2025-08-25T13:03:44"
+    },
+    {
+      "transaction_id": "txn_20250825_231",
+      "date": "2025-08-25",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 249.5,
+      "description": "护肤品",
+      "created_at": "2025-08-25T11:16:04",
+      "updated_at": "2025-08-25T11:16:04"
+    },
+    {
+      "transaction_id": "txn_20250825_232",
+      "date": "2025-08-25",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1987.75,
+      "description": "长途旅行",
+      "created_at": "2025-08-25T18:01:27",
+      "updated_at": "2025-08-25T18:01:27"
+    },
+    {
+      "transaction_id": "txn_20250827_233",
+      "date": "2025-08-27",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 145.8,
+      "description": "同学聚餐",
+      "created_at": "2025-08-27T15:29:13",
+      "updated_at": "2025-08-27T15:29:13"
+    },
+    {
+      "transaction_id": "txn_20250827_234",
+      "date": "2025-08-27",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 148.29,
+      "description": "U 盘",
+      "created_at": "2025-08-27T21:26:13",
+      "updated_at": "2025-08-27T21:26:13"
+    },
+    {
+      "transaction_id": "txn_20250828_235",
+      "date": "2025-08-28",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 3.57,
+      "description": "回学校公交",
+      "created_at": "2025-08-28T20:21:31",
+      "updated_at": "2025-08-28T20:21:31"
+    },
+    {
+      "transaction_id": "txn_20250830_236",
+      "date": "2025-08-30",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 20.8,
+      "description": "珍珠奶茶",
+      "created_at": "2025-08-30T10:29:11",
+      "updated_at": "2025-08-30T10:29:11"
+    },
+    {
+      "transaction_id": "txn_20250901_237",
+      "date": "2025-09-01",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 13.8,
+      "description": "水果茶",
+      "created_at": "2025-09-01T14:50:07",
+      "updated_at": "2025-09-01T14:50:07"
+    },
+    {
+      "transaction_id": "txn_20250901_238",
+      "date": "2025-09-01",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 28.54,
+      "description": "纸巾洗衣液",
+      "created_at": "2025-09-01T18:22:39",
+      "updated_at": "2025-09-01T18:22:39"
+    },
+    {
+      "transaction_id": "txn_20250901_239",
+      "date": "2025-09-01",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 20.72,
+      "description": "辣条",
+      "created_at": "2025-09-01T15:43:12",
+      "updated_at": "2025-09-01T15:43:12"
+    },
+    {
+      "transaction_id": "txn_20250901_950",
+      "date": "2025-09-01",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 85.0,
+      "description": "开学购买文具用品",
+      "created_at": "2025-09-01T14:00:00",
+      "updated_at": "2025-09-01T14:00:00"
+    },
+    {
+      "transaction_id": "txn_20250904_240",
+      "date": "2025-09-04",
+      "category": "医疗",
+      "subcategory": "门诊",
+      "amount": 212.9,
+      "description": "校医院看病",
+      "created_at": "2025-09-04T22:45:05",
+      "updated_at": "2025-09-04T22:45:05"
+    },
+    {
+      "transaction_id": "txn_20250906_241",
+      "date": "2025-09-06",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 87.8,
+      "description": "考试辅导书",
+      "created_at": "2025-09-06T10:10:07",
+      "updated_at": "2025-09-06T10:10:07"
+    },
+    {
+      "transaction_id": "txn_20250906_242",
+      "date": "2025-09-06",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 32.8,
+      "description": "美式咖啡",
+      "created_at": "2025-09-06T13:26:10",
+      "updated_at": "2025-09-06T13:26:10"
+    },
+    {
+      "transaction_id": "txn_20250907_243",
+      "date": "2025-09-07",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 18.8,
+      "description": "打印资料",
+      "created_at": "2025-09-07T15:35:22",
+      "updated_at": "2025-09-07T15:35:22"
+    },
+    {
+      "transaction_id": "txn_20250908_244",
+      "date": "2025-09-08",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 22.8,
+      "description": "食堂晚餐",
+      "created_at": "2025-09-08T17:25:43",
+      "updated_at": "2025-09-08T17:25:43"
+    },
+    {
+      "transaction_id": "txn_20250908_245",
+      "date": "2025-09-08",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 24.5,
+      "description": "珍珠奶茶",
+      "created_at": "2025-09-08T18:05:52",
+      "updated_at": "2025-09-08T18:05:52"
+    },
+    {
+      "transaction_id": "txn_20250910_246",
+      "date": "2025-09-10",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 17.19,
+      "description": "简单小吃",
+      "created_at": "2025-09-10T19:58:18",
+      "updated_at": "2025-09-10T19:58:18"
+    },
+    {
+      "transaction_id": "txn_20250913_247",
+      "date": "2025-09-13",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 78.97,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-09-13T20:40:50",
+      "updated_at": "2025-09-13T20:40:50"
+    },
+    {
+      "transaction_id": "txn_20250915_248",
+      "date": "2025-09-15",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 4.89,
+      "description": "市区游玩",
+      "created_at": "2025-09-15T18:27:52",
+      "updated_at": "2025-09-15T18:27:52"
+    },
+    {
+      "transaction_id": "txn_20250915_909",
+      "date": "2025-09-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-09-15T10:00:00",
+      "updated_at": "2025-09-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20250918_249",
+      "date": "2025-09-18",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 23.9,
+      "description": "美式咖啡",
+      "created_at": "2025-09-18T09:24:58",
+      "updated_at": "2025-09-18T09:24:58"
+    },
+    {
+      "transaction_id": "txn_20250920_250",
+      "date": "2025-09-20",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 33.5,
+      "description": "坚果酸奶",
+      "created_at": "2025-09-20T12:34:33",
+      "updated_at": "2025-09-20T12:34:33"
+    },
+    {
+      "transaction_id": "txn_20250920_251",
+      "date": "2025-09-20",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 10.9,
+      "description": "食堂早餐",
+      "created_at": "2025-09-20T08:27:27",
+      "updated_at": "2025-09-20T08:27:27"
+    },
+    {
+      "transaction_id": "txn_20250920_252",
+      "date": "2025-09-20",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 36.9,
+      "description": "炒饭",
+      "created_at": "2025-09-20T13:47:50",
+      "updated_at": "2025-09-20T13:47:50"
+    },
+    {
+      "transaction_id": "txn_20250927_253",
+      "date": "2025-09-27",
+      "category": "学习",
+      "subcategory": "考试",
+      "amount": 55.99,
+      "description": "资料费",
+      "created_at": "2025-09-27T20:08:08",
+      "updated_at": "2025-09-27T20:08:08"
+    },
+    {
+      "transaction_id": "txn_20250927_254",
+      "date": "2025-09-27",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 11.9,
+      "description": "食堂早餐",
+      "created_at": "2025-09-27T07:35:07",
+      "updated_at": "2025-09-27T07:35:07"
+    },
+    {
+      "transaction_id": "txn_20250927_255",
+      "date": "2025-09-27",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 13.5,
+      "description": "轻食沙拉",
+      "created_at": "2025-09-27T18:24:08",
+      "updated_at": "2025-09-27T18:24:08"
+    },
+    {
+      "transaction_id": "txn_20250928_256",
+      "date": "2025-09-28",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 65.5,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-09-28T11:37:54",
+      "updated_at": "2025-09-28T11:37:54"
+    },
+    {
+      "transaction_id": "txn_20250929_257",
+      "date": "2025-09-29",
+      "category": "生活缴费",
+      "subcategory": "水电费",
+      "amount": 83.9,
+      "description": "宿舍电费",
+      "created_at": "2025-09-29T13:46:56",
+      "updated_at": "2025-09-29T13:46:56"
+    },
+    {
+      "transaction_id": "txn_20251001_258",
+      "date": "2025-10-01",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 13.45,
+      "description": "辣条",
+      "created_at": "2025-10-01T12:17:58",
+      "updated_at": "2025-10-01T12:17:58"
+    },
+    {
+      "transaction_id": "txn_20251001_259",
+      "date": "2025-10-01",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 24.8,
+      "description": "两荤一素",
+      "created_at": "2025-10-01T13:54:18",
+      "updated_at": "2025-10-01T13:54:18"
+    },
+    {
+      "transaction_id": "txn_20251001_260",
+      "date": "2025-10-01",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 22.9,
+      "description": "面条",
+      "created_at": "2025-10-01T11:21:20",
+      "updated_at": "2025-10-01T11:21:20"
+    },
+    {
+      "transaction_id": "txn_20251003_261",
+      "date": "2025-10-03",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 34.9,
+      "description": "炒饭",
+      "created_at": "2025-10-03T11:44:00",
+      "updated_at": "2025-10-03T11:44:00"
+    },
+    {
+      "transaction_id": "txn_20251003_262",
+      "date": "2025-10-03",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 14.8,
+      "description": "粥配小菜",
+      "created_at": "2025-10-03T08:56:20",
+      "updated_at": "2025-10-03T08:56:20"
+    },
+    {
+      "transaction_id": "txn_20251004_263",
+      "date": "2025-10-04",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 82.74,
+      "description": "急需用品",
+      "created_at": "2025-10-04T22:11:55",
+      "updated_at": "2025-10-04T22:11:55"
+    },
+    {
+      "transaction_id": "txn_20251005_264",
+      "date": "2025-10-05",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 17.8,
+      "description": "珍珠奶茶",
+      "created_at": "2025-10-05T21:24:59",
+      "updated_at": "2025-10-05T21:24:59"
+    },
+    {
+      "transaction_id": "txn_20251005_265",
+      "date": "2025-10-05",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 37.9,
+      "description": "烧烤串",
+      "created_at": "2025-10-05T22:51:12",
+      "updated_at": "2025-10-05T22:51:12"
+    },
+    {
+      "transaction_id": "txn_20251007_266",
+      "date": "2025-10-07",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 81.8,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-10-07T09:47:00",
+      "updated_at": "2025-10-07T09:47:00"
+    },
+    {
+      "transaction_id": "txn_20251008_267",
+      "date": "2025-10-08",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 22.5,
+      "description": "纸巾洗衣液",
+      "created_at": "2025-10-08T11:04:05",
+      "updated_at": "2025-10-08T11:04:05"
+    },
+    {
+      "transaction_id": "txn_20251008_268",
+      "date": "2025-10-08",
+      "category": "运动",
+      "subcategory": "体育用品",
+      "amount": 53.12,
+      "description": "篮球足球",
+      "created_at": "2025-10-08T09:15:32",
+      "updated_at": "2025-10-08T09:15:32"
+    },
+    {
+      "transaction_id": "txn_20251008_269",
+      "date": "2025-10-08",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 15.9,
+      "description": "简单小吃",
+      "created_at": "2025-10-08T19:14:53",
+      "updated_at": "2025-10-08T19:14:53"
+    },
+    {
+      "transaction_id": "txn_20251012_270",
+      "date": "2025-10-12",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 19.9,
+      "description": "两荤一素",
+      "created_at": "2025-10-12T13:17:07",
+      "updated_at": "2025-10-12T13:17:07"
+    },
+    {
+      "transaction_id": "txn_20251012_271",
+      "date": "2025-10-12",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 31.08,
+      "description": "泡面加餐",
+      "created_at": "2025-10-12T22:48:32",
+      "updated_at": "2025-10-12T22:48:32"
+    },
+    {
+      "transaction_id": "txn_20251015_272",
+      "date": "2025-10-15",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 123.9,
+      "description": "临时购物",
+      "created_at": "2025-10-15T09:53:08",
+      "updated_at": "2025-10-15T09:53:08"
+    },
+    {
+      "transaction_id": "txn_20251015_273",
+      "date": "2025-10-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 51.8,
+      "description": "流量包",
+      "created_at": "2025-10-15T21:23:24",
+      "updated_at": "2025-10-15T21:23:24"
+    },
+    {
+      "transaction_id": "txn_20251015_910",
+      "date": "2025-10-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-10-15T10:00:00",
+      "updated_at": "2025-10-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20251017_274",
+      "date": "2025-10-17",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 43.9,
+      "description": "坚果酸奶",
+      "created_at": "2025-10-17T21:33:55",
+      "updated_at": "2025-10-17T21:33:55"
+    },
+    {
+      "transaction_id": "txn_20251017_275",
+      "date": "2025-10-17",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 39.5,
+      "description": "找不到分类的",
+      "created_at": "2025-10-17T09:24:33",
+      "updated_at": "2025-10-17T09:24:33"
+    },
+    {
+      "transaction_id": "txn_20251018_276",
+      "date": "2025-10-18",
+      "category": "运动",
+      "subcategory": "体育用品",
+      "amount": 183.9,
+      "description": "运动鞋服",
+      "created_at": "2025-10-18T18:11:17",
+      "updated_at": "2025-10-18T18:11:17"
+    },
+    {
+      "transaction_id": "txn_20251018_277",
+      "date": "2025-10-18",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 10.31,
+      "description": "面包牛奶",
+      "created_at": "2025-10-18T07:36:27",
+      "updated_at": "2025-10-18T07:36:27"
+    },
+    {
+      "transaction_id": "txn_20251018_278",
+      "date": "2025-10-18",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 18.5,
+      "description": "珍珠奶茶",
+      "created_at": "2025-10-18T13:31:01",
+      "updated_at": "2025-10-18T13:31:01"
+    },
+    {
+      "transaction_id": "txn_20251019_279",
+      "date": "2025-10-19",
+      "category": "生活缴费",
+      "subcategory": "网费",
+      "amount": 52.8,
+      "description": "宿舍宽带费",
+      "created_at": "2025-10-19T13:01:36",
+      "updated_at": "2025-10-19T13:01:36"
+    },
+    {
+      "transaction_id": "txn_20251019_280",
+      "date": "2025-10-19",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 21.03,
+      "description": "简单小吃",
+      "created_at": "2025-10-19T18:25:22",
+      "updated_at": "2025-10-19T18:25:22"
+    },
+    {
+      "transaction_id": "txn_20251019_281",
+      "date": "2025-10-19",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 20.8,
+      "description": "炒饭",
+      "created_at": "2025-10-19T13:19:27",
+      "updated_at": "2025-10-19T13:19:27"
+    },
+    {
+      "transaction_id": "txn_20251020_282",
+      "date": "2025-10-20",
+      "category": "社交",
+      "subcategory": "人情",
+      "amount": 277.61,
+      "description": "满月礼",
+      "created_at": "2025-10-20T20:46:33",
+      "updated_at": "2025-10-20T20:46:33"
+    },
+    {
+      "transaction_id": "txn_20251020_283",
+      "date": "2025-10-20",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 169.81,
+      "description": "护肤品",
+      "created_at": "2025-10-20T09:09:58",
+      "updated_at": "2025-10-20T09:09:58"
+    },
+    {
+      "transaction_id": "txn_20251020_284",
+      "date": "2025-10-20",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 246.5,
+      "description": "护肤品",
+      "created_at": "2025-10-20T18:59:15",
+      "updated_at": "2025-10-20T18:59:15"
+    },
+    {
+      "transaction_id": "txn_20251022_285",
+      "date": "2025-10-22",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 28.42,
+      "description": "美式咖啡",
+      "created_at": "2025-10-22T18:26:22",
+      "updated_at": "2025-10-22T18:26:22"
+    },
+    {
+      "transaction_id": "txn_20251025_286",
+      "date": "2025-10-25",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 183.9,
+      "description": "会员订阅",
+      "created_at": "2025-10-25T17:45:00",
+      "updated_at": "2025-10-25T17:45:00"
+    },
+    {
+      "transaction_id": "txn_20251025_287",
+      "date": "2025-10-25",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1230.8,
+      "description": "周边游",
+      "created_at": "2025-10-25T15:13:51",
+      "updated_at": "2025-10-25T15:13:51"
+    },
+    {
+      "transaction_id": "txn_20251025_288",
+      "date": "2025-10-25",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 642.9,
+      "description": "手机壳",
+      "created_at": "2025-10-25T11:22:42",
+      "updated_at": "2025-10-25T11:22:42"
+    },
+    {
+      "transaction_id": "txn_20251031_289",
+      "date": "2025-10-31",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 7.8,
+      "description": "食堂早餐",
+      "created_at": "2025-10-31T07:56:24",
+      "updated_at": "2025-10-31T07:56:24"
+    },
+    {
+      "transaction_id": "txn_20251102_290",
+      "date": "2025-11-02",
+      "category": "娱乐",
+      "subcategory": "KTV",
+      "amount": 55.8,
+      "description": "朋友聚会 KTV",
+      "created_at": "2025-11-02T11:04:19",
+      "updated_at": "2025-11-02T11:04:19"
+    },
+    {
+      "transaction_id": "txn_20251102_291",
+      "date": "2025-11-02",
+      "category": "娱乐",
+      "subcategory": "旅游",
+      "amount": 1390.9,
+      "description": "周边游",
+      "created_at": "2025-11-02T17:53:14",
+      "updated_at": "2025-11-02T17:53:14"
+    },
+    {
+      "transaction_id": "txn_20251108_292",
+      "date": "2025-11-08",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 29.5,
+      "description": "麻辣烫",
+      "created_at": "2025-11-08T11:34:56",
+      "updated_at": "2025-11-08T11:34:56"
+    },
+    {
+      "transaction_id": "txn_20251108_293",
+      "date": "2025-11-08",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 75.9,
+      "description": "课外读物",
+      "created_at": "2025-11-08T16:09:24",
+      "updated_at": "2025-11-08T16:09:24"
+    },
+    {
+      "transaction_id": "txn_20251108_294",
+      "date": "2025-11-08",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 9.5,
+      "description": "找不到分类的",
+      "created_at": "2025-11-08T09:21:17",
+      "updated_at": "2025-11-08T09:21:17"
+    },
+    {
+      "transaction_id": "txn_20251114_295",
+      "date": "2025-11-14",
+      "category": "社交",
+      "subcategory": "礼物",
+      "amount": 268.5,
+      "description": "同学生日礼物",
+      "created_at": "2025-11-14T19:58:10",
+      "updated_at": "2025-11-14T19:58:10"
+    },
+    {
+      "transaction_id": "txn_20251115_296",
+      "date": "2025-11-15",
+      "category": "社交",
+      "subcategory": "礼物",
+      "amount": 158.9,
+      "description": "同学生日礼物",
+      "created_at": "2025-11-15T09:44:42",
+      "updated_at": "2025-11-15T09:44:42"
+    },
+    {
+      "transaction_id": "txn_20251115_297",
+      "date": "2025-11-15",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 38.9,
+      "description": "麻辣烫",
+      "created_at": "2025-11-15T13:20:43",
+      "updated_at": "2025-11-15T13:20:43"
+    },
+    {
+      "transaction_id": "txn_20251115_911",
+      "date": "2025-11-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-11-15T10:00:00",
+      "updated_at": "2025-11-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20251122_298",
+      "date": "2025-11-22",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 93.14,
+      "description": "找不到分类的",
+      "created_at": "2025-11-22T17:55:49",
+      "updated_at": "2025-11-22T17:55:49"
+    },
+    {
+      "transaction_id": "txn_20251122_299",
+      "date": "2025-11-22",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 187.9,
+      "description": "演唱会门票",
+      "created_at": "2025-11-22T21:46:51",
+      "updated_at": "2025-11-22T21:46:51"
+    },
+    {
+      "transaction_id": "txn_20251122_300",
+      "date": "2025-11-22",
+      "category": "其他收入",
+      "subcategory": "兼职/红包",
+      "amount": 577.79,
+      "description": "兼职收入",
+      "created_at": "2025-11-22T16:13:11",
+      "updated_at": "2025-11-22T16:13:11"
+    },
+    {
+      "transaction_id": "txn_20251123_301",
+      "date": "2025-11-23",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 838.75,
+      "description": "长途回家",
+      "created_at": "2025-11-23T10:11:54",
+      "updated_at": "2025-11-23T10:11:54"
+    },
+    {
+      "transaction_id": "txn_20251129_302",
+      "date": "2025-11-29",
+      "category": "运动",
+      "subcategory": "体育用品",
+      "amount": 116.8,
+      "description": "篮球足球",
+      "created_at": "2025-11-29T20:23:56",
+      "updated_at": "2025-11-29T20:23:56"
+    },
+    {
+      "transaction_id": "txn_20251201_303",
+      "date": "2025-12-01",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 31.9,
+      "description": "薯片饼干",
+      "created_at": "2025-12-01T19:10:16",
+      "updated_at": "2025-12-01T19:10:16"
+    },
+    {
+      "transaction_id": "txn_20251201_304",
+      "date": "2025-12-01",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 41.9,
+      "description": "坚果酸奶",
+      "created_at": "2025-12-01T20:29:04",
+      "updated_at": "2025-12-01T20:29:04"
+    },
+    {
+      "transaction_id": "txn_20251204_305",
+      "date": "2025-12-04",
+      "category": "其他收入",
+      "subcategory": "兼职/红包",
+      "amount": 273.1,
+      "description": "兼职收入",
+      "created_at": "2025-12-04T21:28:04",
+      "updated_at": "2025-12-04T21:28:04"
+    },
+    {
+      "transaction_id": "txn_20251204_306",
+      "date": "2025-12-04",
+      "category": "其他收入",
+      "subcategory": "兼职/红包",
+      "amount": 396.04,
+      "description": "奖学金",
+      "created_at": "2025-12-04T19:06:44",
+      "updated_at": "2025-12-04T19:06:44"
+    },
+    {
+      "transaction_id": "txn_20251204_307",
+      "date": "2025-12-04",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 27.9,
+      "description": "泡面加餐",
+      "created_at": "2025-12-04T22:41:34",
+      "updated_at": "2025-12-04T22:41:34"
+    },
+    {
+      "transaction_id": "txn_20251206_308",
+      "date": "2025-12-06",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 98.8,
+      "description": "急需用品",
+      "created_at": "2025-12-06T20:19:12",
+      "updated_at": "2025-12-06T20:19:12"
+    },
+    {
+      "transaction_id": "txn_20251207_309",
+      "date": "2025-12-07",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 38.19,
+      "description": "宿舍用品",
+      "created_at": "2025-12-07T15:54:30",
+      "updated_at": "2025-12-07T15:54:30"
+    },
+    {
+      "transaction_id": "txn_20251209_310",
+      "date": "2025-12-09",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 14.9,
+      "description": "食堂晚餐",
+      "created_at": "2025-12-09T17:53:20",
+      "updated_at": "2025-12-09T17:53:20"
+    },
+    {
+      "transaction_id": "txn_20251209_311",
+      "date": "2025-12-09",
+      "category": "其他",
+      "subcategory": "意外支出",
+      "amount": 50.46,
+      "description": "物品损坏赔偿",
+      "created_at": "2025-12-09T10:53:07",
+      "updated_at": "2025-12-09T10:53:07"
+    },
+    {
+      "transaction_id": "txn_20251209_312",
+      "date": "2025-12-09",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 13.9,
+      "description": "包子豆浆",
+      "created_at": "2025-12-09T07:53:43",
+      "updated_at": "2025-12-09T07:53:43"
+    },
+    {
+      "transaction_id": "txn_20251210_313",
+      "date": "2025-12-10",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 15.9,
+      "description": "芝士奶盖",
+      "created_at": "2025-12-10T15:52:08",
+      "updated_at": "2025-12-10T15:52:08"
+    },
+    {
+      "transaction_id": "txn_20251210_314",
+      "date": "2025-12-10",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 15.5,
+      "description": "拿铁",
+      "created_at": "2025-12-10T15:54:21",
+      "updated_at": "2025-12-10T15:54:21"
+    },
+    {
+      "transaction_id": "txn_20251211_315",
+      "date": "2025-12-11",
+      "category": "餐饮",
+      "subcategory": "聚餐",
+      "amount": 136.8,
+      "description": "火锅烤肉",
+      "created_at": "2025-12-11T19:30:13",
+      "updated_at": "2025-12-11T19:30:13"
+    },
+    {
+      "transaction_id": "txn_20251211_316",
+      "date": "2025-12-11",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 10.98,
+      "description": "面包牛奶",
+      "created_at": "2025-12-11T07:38:44",
+      "updated_at": "2025-12-11T07:38:44"
+    },
+    {
+      "transaction_id": "txn_20251212_317",
+      "date": "2025-12-12",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 103.88,
+      "description": "面膜",
+      "created_at": "2025-12-12T19:09:01",
+      "updated_at": "2025-12-12T19:09:01"
+    },
+    {
+      "transaction_id": "txn_20251212_318",
+      "date": "2025-12-12",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 15.5,
+      "description": "简单小吃",
+      "created_at": "2025-12-12T18:48:25",
+      "updated_at": "2025-12-12T18:48:25"
+    },
+    {
+      "transaction_id": "txn_20251212_319",
+      "date": "2025-12-12",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 234.5,
+      "description": "演唱会门票",
+      "created_at": "2025-12-12T22:14:43",
+      "updated_at": "2025-12-12T22:14:43"
+    },
+    {
+      "transaction_id": "txn_20251213_320",
+      "date": "2025-12-13",
+      "category": "医疗",
+      "subcategory": "药品",
+      "amount": 64.5,
+      "description": "创可贴",
+      "created_at": "2025-12-13T21:48:57",
+      "updated_at": "2025-12-13T21:48:57"
+    },
+    {
+      "transaction_id": "txn_20251213_321",
+      "date": "2025-12-13",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 489.5,
+      "description": "话剧表演",
+      "created_at": "2025-12-13T13:24:21",
+      "updated_at": "2025-12-13T13:24:21"
+    },
+    {
+      "transaction_id": "txn_20251213_322",
+      "date": "2025-12-13",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 185.5,
+      "description": "班级聚餐",
+      "created_at": "2025-12-13T10:39:41",
+      "updated_at": "2025-12-13T10:39:41"
+    },
+    {
+      "transaction_id": "txn_20251214_323",
+      "date": "2025-12-14",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 147.8,
+      "description": "临时购物",
+      "created_at": "2025-12-14T15:09:58",
+      "updated_at": "2025-12-14T15:09:58"
+    },
+    {
+      "transaction_id": "txn_20251214_324",
+      "date": "2025-12-14",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 4.9,
+      "description": "回学校公交",
+      "created_at": "2025-12-14T09:18:31",
+      "updated_at": "2025-12-14T09:18:31"
+    },
+    {
+      "transaction_id": "txn_20251215_325",
+      "date": "2025-12-15",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 27.5,
+      "description": "零碎支出",
+      "created_at": "2025-12-15T18:45:00",
+      "updated_at": "2025-12-15T18:45:00"
+    },
+    {
+      "transaction_id": "txn_20251215_912",
+      "date": "2025-12-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2025-12-15T10:00:00",
+      "updated_at": "2025-12-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20251221_326",
+      "date": "2025-12-21",
+      "category": "社交",
+      "subcategory": "礼物",
+      "amount": 200.5,
+      "description": "教师节礼物",
+      "created_at": "2025-12-21T14:38:10",
+      "updated_at": "2025-12-21T14:38:10"
+    },
+    {
+      "transaction_id": "txn_20251224_327",
+      "date": "2025-12-24",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.8,
+      "description": "面包牛奶",
+      "created_at": "2025-12-24T09:17:10",
+      "updated_at": "2025-12-24T09:17:10"
+    },
+    {
+      "transaction_id": "txn_20251224_328",
+      "date": "2025-12-24",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 31.57,
+      "description": "外卖快餐",
+      "created_at": "2025-12-24T11:46:19",
+      "updated_at": "2025-12-24T11:46:19"
+    },
+    {
+      "transaction_id": "txn_20251226_329",
+      "date": "2025-12-26",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 35.5,
+      "description": "零碎支出",
+      "created_at": "2025-12-26T21:28:20",
+      "updated_at": "2025-12-26T21:28:20"
+    },
+    {
+      "transaction_id": "txn_20251227_330",
+      "date": "2025-12-27",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 32.8,
+      "description": "拿铁",
+      "created_at": "2025-12-27T16:31:50",
+      "updated_at": "2025-12-27T16:31:50"
+    },
+    {
+      "transaction_id": "txn_20251231_331",
+      "date": "2025-12-31",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 186.9,
+      "description": "班级聚餐",
+      "created_at": "2025-12-31T16:10:42",
+      "updated_at": "2025-12-31T16:10:42"
+    },
+    {
+      "transaction_id": "txn_20251231_332",
+      "date": "2025-12-31",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 24.39,
+      "description": "水果茶",
+      "created_at": "2025-12-31T10:54:24",
+      "updated_at": "2025-12-31T10:54:24"
+    },
+    {
+      "transaction_id": "txn_20260101_333",
+      "date": "2026-01-01",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 233.9,
+      "description": "演唱会门票",
+      "created_at": "2026-01-01T15:35:13",
+      "updated_at": "2026-01-01T15:35:13"
+    },
+    {
+      "transaction_id": "txn_20260103_334",
+      "date": "2026-01-03",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 12.8,
+      "description": "面条",
+      "created_at": "2026-01-03T11:16:23",
+      "updated_at": "2026-01-03T11:16:23"
+    },
+    {
+      "transaction_id": "txn_20260103_335",
+      "date": "2026-01-03",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 46.9,
+      "description": "零碎支出",
+      "created_at": "2026-01-03T21:06:55",
+      "updated_at": "2026-01-03T21:06:55"
+    },
+    {
+      "transaction_id": "txn_20260103_336",
+      "date": "2026-01-03",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 29.9,
+      "description": "零碎支出",
+      "created_at": "2026-01-03T16:05:55",
+      "updated_at": "2026-01-03T16:05:55"
+    },
+    {
+      "transaction_id": "txn_20260106_337",
+      "date": "2026-01-06",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 69.22,
+      "description": "纸巾洗衣液",
+      "created_at": "2026-01-06T09:40:18",
+      "updated_at": "2026-01-06T09:40:18"
+    },
+    {
+      "transaction_id": "txn_20260106_338",
+      "date": "2026-01-06",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 39.9,
+      "description": "会员订阅",
+      "created_at": "2026-01-06T10:24:47",
+      "updated_at": "2026-01-06T10:24:47"
+    },
+    {
+      "transaction_id": "txn_20260108_339",
+      "date": "2026-01-08",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 34.9,
+      "description": "赶时间打车",
+      "created_at": "2026-01-08T11:33:11",
+      "updated_at": "2026-01-08T11:33:11"
+    },
+    {
+      "transaction_id": "txn_20260108_340",
+      "date": "2026-01-08",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 11.9,
+      "description": "包子豆浆",
+      "created_at": "2026-01-08T09:33:36",
+      "updated_at": "2026-01-08T09:33:36"
+    },
+    {
+      "transaction_id": "txn_20260109_341",
+      "date": "2026-01-09",
+      "category": "交通",
+      "subcategory": "火车票",
+      "amount": 158.5,
+      "description": "寒假回家",
+      "created_at": "2026-01-09T18:20:21",
+      "updated_at": "2026-01-09T18:20:21"
+    },
+    {
+      "transaction_id": "txn_20260109_342",
+      "date": "2026-01-09",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 104.5,
+      "description": "冬季外套",
+      "created_at": "2026-01-09T12:47:50",
+      "updated_at": "2026-01-09T12:47:50"
+    },
+    {
+      "transaction_id": "txn_20260109_343",
+      "date": "2026-01-09",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 168.52,
+      "description": "急需用品",
+      "created_at": "2026-01-09T15:39:34",
+      "updated_at": "2026-01-09T15:39:34"
+    },
+    {
+      "transaction_id": "txn_20260110_344",
+      "date": "2026-01-10",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 30.5,
+      "description": "卡布奇诺",
+      "created_at": "2026-01-10T09:10:10",
+      "updated_at": "2026-01-10T09:10:10"
+    },
+    {
+      "transaction_id": "txn_20260110_345",
+      "date": "2026-01-10",
+      "category": "其他收入",
+      "subcategory": "兼职/红包",
+      "amount": 616.41,
+      "description": "春节红包",
+      "created_at": "2026-01-10T13:44:51",
+      "updated_at": "2026-01-10T13:44:51"
+    },
+    {
+      "transaction_id": "txn_20260110_346",
+      "date": "2026-01-10",
+      "category": "医疗",
+      "subcategory": "药品",
+      "amount": 47.15,
+      "description": "感冒药",
+      "created_at": "2026-01-10T10:06:58",
+      "updated_at": "2026-01-10T10:06:58"
+    },
+    {
+      "transaction_id": "txn_20260113_347",
+      "date": "2026-01-13",
+      "category": "交通",
+      "subcategory": "公交",
+      "amount": 4.9,
+      "description": "公交车出行",
+      "created_at": "2026-01-13T20:09:06",
+      "updated_at": "2026-01-13T20:09:06"
+    },
+    {
+      "transaction_id": "txn_20260113_348",
+      "date": "2026-01-13",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 16.8,
+      "description": "零碎支出",
+      "created_at": "2026-01-13T20:11:06",
+      "updated_at": "2026-01-13T20:11:06"
+    },
+    {
+      "transaction_id": "txn_20260115_913",
+      "date": "2026-01-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2026-01-15T10:00:00",
+      "updated_at": "2026-01-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20260117_349",
+      "date": "2026-01-17",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 30.17,
+      "description": "炒饭",
+      "created_at": "2026-01-17T13:14:41",
+      "updated_at": "2026-01-17T13:14:41"
+    },
+    {
+      "transaction_id": "txn_20260117_350",
+      "date": "2026-01-17",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 15.5,
+      "description": "珍珠奶茶",
+      "created_at": "2026-01-17T17:50:13",
+      "updated_at": "2026-01-17T17:50:13"
+    },
+    {
+      "transaction_id": "txn_20260117_351",
+      "date": "2026-01-17",
+      "category": "生活缴费",
+      "subcategory": "水电费",
+      "amount": 25.9,
+      "description": "宿舍电费",
+      "created_at": "2026-01-17T16:17:50",
+      "updated_at": "2026-01-17T16:17:50"
+    },
+    {
+      "transaction_id": "txn_20260120_352",
+      "date": "2026-01-20",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 19.99,
+      "description": "简单小吃",
+      "created_at": "2026-01-20T18:37:02",
+      "updated_at": "2026-01-20T18:37:02"
+    },
+    {
+      "transaction_id": "txn_20260120_353",
+      "date": "2026-01-20",
+      "category": "运动",
+      "subcategory": "健身",
+      "amount": 84.8,
+      "description": "操场跑步",
+      "created_at": "2026-01-20T21:23:17",
+      "updated_at": "2026-01-20T21:23:17"
+    },
+    {
+      "transaction_id": "txn_20260122_354",
+      "date": "2026-01-22",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 8.9,
+      "description": "面包牛奶",
+      "created_at": "2026-01-22T09:36:03",
+      "updated_at": "2026-01-22T09:36:03"
+    },
+    {
+      "transaction_id": "txn_20260122_355",
+      "date": "2026-01-22",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 17.91,
+      "description": "盖浇饭",
+      "created_at": "2026-01-22T12:00:08",
+      "updated_at": "2026-01-22T12:00:08"
+    },
+    {
+      "transaction_id": "txn_20260122_356",
+      "date": "2026-01-22",
+      "category": "学习",
+      "subcategory": "考试",
+      "amount": 162.39,
+      "description": "报名费",
+      "created_at": "2026-01-22T19:01:02",
+      "updated_at": "2026-01-22T19:01:02"
+    },
+    {
+      "transaction_id": "txn_20260123_357",
+      "date": "2026-01-23",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 13.5,
+      "description": "简单小吃",
+      "created_at": "2026-01-23T19:48:31",
+      "updated_at": "2026-01-23T19:48:31"
+    },
+    {
+      "transaction_id": "txn_20260125_358",
+      "date": "2026-01-25",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 17.5,
+      "description": "拿铁",
+      "created_at": "2026-01-25T19:16:43",
+      "updated_at": "2026-01-25T19:16:43"
+    },
+    {
+      "transaction_id": "txn_20260125_359",
+      "date": "2026-01-25",
+      "category": "交通",
+      "subcategory": "飞机",
+      "amount": 923.8,
+      "description": "假期旅游",
+      "created_at": "2026-01-25T22:59:04",
+      "updated_at": "2026-01-25T22:59:04"
+    },
+    {
+      "transaction_id": "txn_20260127_360",
+      "date": "2026-01-27",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 12.5,
+      "description": "薯片饼干",
+      "created_at": "2026-01-27T09:19:39",
+      "updated_at": "2026-01-27T09:19:39"
+    },
+    {
+      "transaction_id": "txn_20260127_361",
+      "date": "2026-01-27",
+      "category": "学习",
+      "subcategory": "考试",
+      "amount": 163.9,
+      "description": "报名费",
+      "created_at": "2026-01-27T17:14:15",
+      "updated_at": "2026-01-27T17:14:15"
+    },
+    {
+      "transaction_id": "txn_20260128_362",
+      "date": "2026-01-28",
+      "category": "交通",
+      "subcategory": "火车票",
+      "amount": 148.9,
+      "description": "暑假返程",
+      "created_at": "2026-01-28T19:45:29",
+      "updated_at": "2026-01-28T19:45:29"
+    },
+    {
+      "transaction_id": "txn_20260128_363",
+      "date": "2026-01-28",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 141.9,
+      "description": "社团活动",
+      "created_at": "2026-01-28T19:22:30",
+      "updated_at": "2026-01-28T19:22:30"
+    },
+    {
+      "transaction_id": "txn_20260128_364",
+      "date": "2026-01-28",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 35.5,
+      "description": "紧急打车",
+      "created_at": "2026-01-28T16:40:27",
+      "updated_at": "2026-01-28T16:40:27"
+    },
+    {
+      "transaction_id": "txn_20260131_365",
+      "date": "2026-01-31",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 289.9,
+      "description": "面膜",
+      "created_at": "2026-01-31T17:09:11",
+      "updated_at": "2026-01-31T17:09:11"
+    },
+    {
+      "transaction_id": "txn_20260203_366",
+      "date": "2026-02-03",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 156.9,
+      "description": "急需用品",
+      "created_at": "2026-02-03T19:34:36",
+      "updated_at": "2026-02-03T19:34:36"
+    },
+    {
+      "transaction_id": "txn_20260203_367",
+      "date": "2026-02-03",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 24.9,
+      "description": "美式咖啡",
+      "created_at": "2026-02-03T20:20:26",
+      "updated_at": "2026-02-03T20:20:26"
+    },
+    {
+      "transaction_id": "txn_20260203_368",
+      "date": "2026-02-03",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 39.8,
+      "description": "薯片饼干",
+      "created_at": "2026-02-03T15:23:22",
+      "updated_at": "2026-02-03T15:23:22"
+    },
+    {
+      "transaction_id": "txn_20260204_369",
+      "date": "2026-02-04",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 329.8,
+      "description": "话剧表演",
+      "created_at": "2026-02-04T09:29:20",
+      "updated_at": "2026-02-04T09:29:20"
+    },
+    {
+      "transaction_id": "txn_20260206_370",
+      "date": "2026-02-06",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 28.9,
+      "description": "打印资料",
+      "created_at": "2026-02-06T22:11:07",
+      "updated_at": "2026-02-06T22:11:07"
+    },
+    {
+      "transaction_id": "txn_20260206_371",
+      "date": "2026-02-06",
+      "category": "学习",
+      "subcategory": "书籍",
+      "amount": 81.9,
+      "description": "图书馆购书",
+      "created_at": "2026-02-06T19:25:18",
+      "updated_at": "2026-02-06T19:25:18"
+    },
+    {
+      "transaction_id": "txn_20260206_372",
+      "date": "2026-02-06",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 187.9,
+      "description": "休闲装",
+      "created_at": "2026-02-06T21:38:14",
+      "updated_at": "2026-02-06T21:38:14"
+    },
+    {
+      "transaction_id": "txn_20260208_373",
+      "date": "2026-02-08",
+      "category": "购物",
+      "subcategory": "书籍",
+      "amount": 65.9,
+      "description": "考试辅导书",
+      "created_at": "2026-02-08T12:42:37",
+      "updated_at": "2026-02-08T12:42:37"
+    },
+    {
+      "transaction_id": "txn_20260208_374",
+      "date": "2026-02-08",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 26.96,
+      "description": "找不到分类的",
+      "created_at": "2026-02-08T19:51:39",
+      "updated_at": "2026-02-08T19:51:39"
+    },
+    {
+      "transaction_id": "txn_20260208_375",
+      "date": "2026-02-08",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 225.5,
+      "description": "冬季外套",
+      "created_at": "2026-02-08T16:21:52",
+      "updated_at": "2026-02-08T16:21:52"
+    },
+    {
+      "transaction_id": "txn_20260209_376",
+      "date": "2026-02-09",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 352.8,
+      "description": "鞋子",
+      "created_at": "2026-02-09T11:41:59",
+      "updated_at": "2026-02-09T11:41:59"
+    },
+    {
+      "transaction_id": "txn_20260209_377",
+      "date": "2026-02-09",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 117.9,
+      "description": "急需用品",
+      "created_at": "2026-02-09T16:51:49",
+      "updated_at": "2026-02-09T16:51:49"
+    },
+    {
+      "transaction_id": "txn_20260209_378",
+      "date": "2026-02-09",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 39.9,
+      "description": "炒饭",
+      "created_at": "2026-02-09T13:57:25",
+      "updated_at": "2026-02-09T13:57:25"
+    },
+    {
+      "transaction_id": "txn_20260210_379",
+      "date": "2026-02-10",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 51.8,
+      "description": "观看热映电影",
+      "created_at": "2026-02-10T10:22:15",
+      "updated_at": "2026-02-10T10:22:15"
+    },
+    {
+      "transaction_id": "txn_20260210_380",
+      "date": "2026-02-10",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 48.9,
+      "description": "炸鸡啤酒",
+      "created_at": "2026-02-10T23:51:27",
+      "updated_at": "2026-02-10T23:51:27"
+    },
+    {
+      "transaction_id": "txn_20260210_381",
+      "date": "2026-02-10",
+      "category": "其他",
+      "subcategory": "临时支出",
+      "amount": 140.9,
+      "description": "临时购物",
+      "created_at": "2026-02-10T13:43:35",
+      "updated_at": "2026-02-10T13:43:35"
+    },
+    {
+      "transaction_id": "txn_20260214_382",
+      "date": "2026-02-14",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 15.9,
+      "description": "拿铁",
+      "created_at": "2026-02-14T18:27:38",
+      "updated_at": "2026-02-14T18:27:38"
+    },
+    {
+      "transaction_id": "txn_20260214_383",
+      "date": "2026-02-14",
+      "category": "医疗",
+      "subcategory": "药品",
+      "amount": 23.8,
+      "description": "感冒药",
+      "created_at": "2026-02-14T13:32:08",
+      "updated_at": "2026-02-14T13:32:08"
+    },
+    {
+      "transaction_id": "txn_20260215_384",
+      "date": "2026-02-15",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 43.5,
+      "description": "泡面加餐",
+      "created_at": "2026-02-15T23:38:31",
+      "updated_at": "2026-02-15T23:38:31"
+    },
+    {
+      "transaction_id": "txn_20260215_385",
+      "date": "2026-02-15",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 16.71,
+      "description": "拿铁",
+      "created_at": "2026-02-15T17:26:42",
+      "updated_at": "2026-02-15T17:26:42"
+    },
+    {
+      "transaction_id": "txn_20260215_386",
+      "date": "2026-02-15",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 29.5,
+      "description": "烧烤串",
+      "created_at": "2026-02-15T21:15:03",
+      "updated_at": "2026-02-15T21:15:03"
+    },
+    {
+      "transaction_id": "txn_20260215_914",
+      "date": "2026-02-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2026-02-15T10:00:00",
+      "updated_at": "2026-02-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20260217_387",
+      "date": "2026-02-17",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 89.5,
+      "description": "纸巾洗衣液",
+      "created_at": "2026-02-17T21:42:31",
+      "updated_at": "2026-02-17T21:42:31"
+    },
+    {
+      "transaction_id": "txn_20260217_388",
+      "date": "2026-02-17",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 35.18,
+      "description": "烧烤串",
+      "created_at": "2026-02-17T22:28:49",
+      "updated_at": "2026-02-17T22:28:49"
+    },
+    {
+      "transaction_id": "txn_20260217_389",
+      "date": "2026-02-17",
+      "category": "社交",
+      "subcategory": "聚会",
+      "amount": 139.49,
+      "description": "班级聚餐",
+      "created_at": "2026-02-17T21:22:06",
+      "updated_at": "2026-02-17T21:22:06"
+    },
+    {
+      "transaction_id": "txn_20260219_390",
+      "date": "2026-02-19",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 30.5,
+      "description": "泡面加餐",
+      "created_at": "2026-02-19T21:57:11",
+      "updated_at": "2026-02-19T21:57:11"
+    },
+    {
+      "transaction_id": "txn_20260219_391",
+      "date": "2026-02-19",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 53.5,
+      "description": "观看热映电影",
+      "created_at": "2026-02-19T22:10:46",
+      "updated_at": "2026-02-19T22:10:46"
+    },
+    {
+      "transaction_id": "txn_20260220_393",
+      "date": "2026-02-20",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 18.9,
+      "description": "珍珠奶茶",
+      "created_at": "2026-02-20T22:14:17",
+      "updated_at": "2026-02-20T22:14:17"
+    },
+    {
+      "transaction_id": "txn_20260220_394",
+      "date": "2026-02-20",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 51.9,
+      "description": "零碎支出",
+      "created_at": "2026-02-20T13:44:48",
+      "updated_at": "2026-02-20T13:44:48"
+    },
+    {
+      "transaction_id": "txn_20260220_395",
+      "date": "2026-02-20",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 590.5,
+      "description": "蓝牙耳机",
+      "created_at": "2026-02-20T21:48:12",
+      "updated_at": "2026-02-20T21:48:12"
+    },
+    {
+      "transaction_id": "txn_20260221_396",
+      "date": "2026-02-21",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 31.9,
+      "description": "美式咖啡",
+      "created_at": "2026-02-21T09:47:05",
+      "updated_at": "2026-02-21T09:47:05"
+    },
+    {
+      "transaction_id": "txn_20260221_397",
+      "date": "2026-02-21",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 24.5,
+      "description": "水果茶",
+      "created_at": "2026-02-21T16:05:51",
+      "updated_at": "2026-02-21T16:05:51"
+    },
+    {
+      "transaction_id": "txn_20260222_398",
+      "date": "2026-02-22",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 34.8,
+      "description": "坚果酸奶",
+      "created_at": "2026-02-22T12:11:01",
+      "updated_at": "2026-02-22T12:11:01"
+    },
+    {
+      "transaction_id": "txn_20260222_399",
+      "date": "2026-02-22",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 54.78,
+      "description": "会员订阅",
+      "created_at": "2026-02-22T18:20:24",
+      "updated_at": "2026-02-22T18:20:24"
+    },
+    {
+      "transaction_id": "txn_20260225_400",
+      "date": "2026-02-25",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 149.73,
+      "description": "充电宝",
+      "created_at": "2026-02-25T14:59:54",
+      "updated_at": "2026-02-25T14:59:54"
+    },
+    {
+      "transaction_id": "txn_20260225_401",
+      "date": "2026-02-25",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.9,
+      "description": "两荤一素",
+      "created_at": "2026-02-25T11:21:21",
+      "updated_at": "2026-02-25T11:21:21"
+    },
+    {
+      "transaction_id": "txn_20260225_402",
+      "date": "2026-02-25",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 47.5,
+      "description": "炸鸡啤酒",
+      "created_at": "2026-02-25T21:34:20",
+      "updated_at": "2026-02-25T21:34:20"
+    },
+    {
+      "transaction_id": "txn_20260227_403",
+      "date": "2026-02-27",
+      "category": "娱乐",
+      "subcategory": "演出",
+      "amount": 111.47,
+      "description": "演唱会门票",
+      "created_at": "2026-02-27T17:20:20",
+      "updated_at": "2026-02-27T17:20:20"
+    },
+    {
+      "transaction_id": "txn_20260227_404",
+      "date": "2026-02-27",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 16.8,
+      "description": "泡面加餐",
+      "created_at": "2026-02-27T23:33:29",
+      "updated_at": "2026-02-27T23:33:29"
+    },
+    {
+      "transaction_id": "txn_20260301_950",
+      "date": "2026-03-01",
+      "category": "学习",
+      "subcategory": "文具",
+      "amount": 85.0,
+      "description": "开学购买文具用品",
+      "created_at": "2026-03-01T14:00:00",
+      "updated_at": "2026-03-01T14:00:00"
+    },
+    {
+      "transaction_id": "txn_20260305_406",
+      "date": "2026-03-05",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 7.8,
+      "description": "食堂早餐",
+      "created_at": "2026-03-05T07:10:15",
+      "updated_at": "2026-03-05T07:10:15"
+    },
+    {
+      "transaction_id": "txn_20260305_407",
+      "date": "2026-03-05",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 99.5,
+      "description": "流量包",
+      "created_at": "2026-03-05T12:52:31",
+      "updated_at": "2026-03-05T12:52:31"
+    },
+    {
+      "transaction_id": "txn_20260306_409",
+      "date": "2026-03-06",
+      "category": "社交",
+      "subcategory": "人情",
+      "amount": 207.97,
+      "description": "满月礼",
+      "created_at": "2026-03-06T21:03:11",
+      "updated_at": "2026-03-06T21:03:11"
+    },
+    {
+      "transaction_id": "txn_20260307_410",
+      "date": "2026-03-07",
+      "category": "学习",
+      "subcategory": "考试",
+      "amount": 91.5,
+      "description": "资料费",
+      "created_at": "2026-03-07T12:44:40",
+      "updated_at": "2026-03-07T12:44:40"
+    },
+    {
+      "transaction_id": "txn_20260307_411",
+      "date": "2026-03-07",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 30.5,
+      "description": "泡面加餐",
+      "created_at": "2026-03-07T23:55:49",
+      "updated_at": "2026-03-07T23:55:49"
+    },
+    {
+      "transaction_id": "txn_20260308_412",
+      "date": "2026-03-08",
+      "category": "交通",
+      "subcategory": "地铁",
+      "amount": 6.5,
+      "description": "市区游玩",
+      "created_at": "2026-03-08T09:05:08",
+      "updated_at": "2026-03-08T09:05:08"
+    },
+    {
+      "transaction_id": "txn_20260311_413",
+      "date": "2026-03-11",
+      "category": "餐饮",
+      "subcategory": "奶茶",
+      "amount": 21.9,
+      "description": "水果茶",
+      "created_at": "2026-03-11T18:06:56",
+      "updated_at": "2026-03-11T18:06:56"
+    },
+    {
+      "transaction_id": "txn_20260311_414",
+      "date": "2026-03-11",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 63.5,
+      "description": "纸巾洗衣液",
+      "created_at": "2026-03-11T12:31:05",
+      "updated_at": "2026-03-11T12:31:05"
+    },
+    {
+      "transaction_id": "txn_20260312_415",
+      "date": "2026-03-12",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 403.5,
+      "description": "蓝牙耳机",
+      "created_at": "2026-03-12T12:14:40",
+      "updated_at": "2026-03-12T12:14:40"
+    },
+    {
+      "transaction_id": "txn_20260312_416",
+      "date": "2026-03-12",
+      "category": "其他",
+      "subcategory": "杂项",
+      "amount": 24.12,
+      "description": "找不到分类的",
+      "created_at": "2026-03-12T09:19:24",
+      "updated_at": "2026-03-12T09:19:24"
+    },
+    {
+      "transaction_id": "txn_20260314_417",
+      "date": "2026-03-14",
+      "category": "交通",
+      "subcategory": "火车票",
+      "amount": 209.8,
+      "description": "暑假返程",
+      "created_at": "2026-03-14T17:45:53",
+      "updated_at": "2026-03-14T17:45:53"
+    },
+    {
+      "transaction_id": "txn_20260314_418",
+      "date": "2026-03-14",
+      "category": "餐饮",
+      "subcategory": "咖啡",
+      "amount": 15.9,
+      "description": "卡布奇诺",
+      "created_at": "2026-03-14T18:08:20",
+      "updated_at": "2026-03-14T18:08:20"
+    },
+    {
+      "transaction_id": "txn_20260315_419",
+      "date": "2026-03-15",
+      "category": "餐饮",
+      "subcategory": "夜宵",
+      "amount": 18.8,
+      "description": "烧烤串",
+      "created_at": "2026-03-15T23:09:00",
+      "updated_at": "2026-03-15T23:09:00"
+    },
+    {
+      "transaction_id": "txn_20260315_915",
+      "date": "2026-03-15",
+      "category": "生活缴费",
+      "subcategory": "话费",
+      "amount": 50.0,
+      "description": "每月话费充值",
+      "created_at": "2026-03-15T10:00:00",
+      "updated_at": "2026-03-15T10:00:00"
+    },
+    {
+      "transaction_id": "txn_20260318_420",
+      "date": "2026-03-18",
+      "category": "运动",
+      "subcategory": "门票",
+      "amount": 54.5,
+      "description": "体育馆门票",
+      "created_at": "2026-03-18T17:47:25",
+      "updated_at": "2026-03-18T17:47:25"
+    },
+    {
+      "transaction_id": "txn_20260319_421",
+      "date": "2026-03-19",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 99.8,
+      "description": "面膜",
+      "created_at": "2026-03-19T10:24:33",
+      "updated_at": "2026-03-19T10:24:33"
+    },
+    {
+      "transaction_id": "trans_20260327_132919_a38eb5",
+      "date": "2026-03-27",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 30.0,
+      "description": "睡觉前买了个听书app订阅，30元月费",
+      "created_at": "2026-03-27T13:29:19.884835",
+      "updated_at": "2026-03-27T13:29:19.884839"
+    },
+    {
+      "transaction_id": "trans_20260328_111546_78d450",
+      "date": "2026-03-28",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 7.0,
+      "description": "购买了一根笔，原价10元，打7折后7元",
+      "created_at": "2026-03-28T11:15:46.974092",
+      "updated_at": "2026-03-28T11:15:46.974097"
+    }
+  ],
+  "user_info": {
+    "user_id": "usertest01",
+    "username": "用户_usertest01",
+    "created_at": "2026-03-28T20:36:50.140533"
+  },
+  "budget_settings": {},
+  "custom_categories": []
+}

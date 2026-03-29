@@ -1,0 +1,22 @@
+{
+  "user_id": "usertest01",
+  "accounts": {
+    "savings": {
+      "balance": 0.0,
+      "last_updated": "2026-03-28T17:38:41.426409",
+      "history": []
+    },
+    "liquid": {
+      "balance": 0.0,
+      "last_updated": "2026-03-28T17:38:41.426417",
+      "history": []
+    }
+  },
+  "auto_allocate_rules": {
+    "enabled": true,
+    "default_savings_ratio": 0.1,
+    "default_liquid_ratio": 0.9
+  },
+  "created_at": "2026-03-28T17:38:41.426420",
+  "updated_at": "2026-03-28T17:38:41.426423"
+}

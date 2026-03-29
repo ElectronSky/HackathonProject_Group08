@@ -1,0 +1,4299 @@
+{
+  "transactions": [
+    {
+      "transaction_id": "txn_20260328_191923_2569a285",
+      "date": "2025-12-28",
+      "time": "07:38:14",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 14.72,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5dbef254",
+      "date": "2025-12-28",
+      "time": "09:51:28",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 24.5,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_319d46f6",
+      "date": "2025-12-28",
+      "time": "10:32:04",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 12.97,
+      "description": "外卖炸鸡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d23cc5d0",
+      "date": "2025-12-28",
+      "time": "12:56:42",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 14.28,
+      "description": "话费充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c690239c",
+      "date": "2025-12-28",
+      "time": "18:35:42",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 19.88,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fbdf3113",
+      "date": "2025-12-28",
+      "time": "23:38:50",
+      "category": "娱乐",
+      "subcategory": "其他",
+      "amount": 46.95,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6475a737",
+      "date": "2025-12-29",
+      "time": "07:08:05",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 8.76,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_73d42555",
+      "date": "2025-12-29",
+      "time": "19:11:26",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 23.6,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e93ee238",
+      "date": "2025-12-29",
+      "time": "23:45:57",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 159.27,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f13fb3d5",
+      "date": "2025-12-30",
+      "time": "11:11:29",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 13.76,
+      "description": "巧克力"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dcf731a8",
+      "date": "2025-12-30",
+      "time": "13:56:30",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 40.73,
+      "description": "游戏月卡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e87fc560",
+      "date": "2025-12-30",
+      "time": "15:36:15",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 34.15,
+      "description": "充电宝"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e42e8025",
+      "date": "2025-12-30",
+      "time": "16:48:49",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 128.49,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_93fb0de1",
+      "date": "2025-12-30",
+      "time": "19:23:08",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 44.04,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3bd0617a",
+      "date": "2025-12-30",
+      "time": "23:12:42",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 20.45,
+      "description": "外卖炸鸡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_82c4db10",
+      "date": "2025-12-31",
+      "time": "08:32:16",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 18.45,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_63970aea",
+      "date": "2025-12-31",
+      "time": "13:33:51",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 16.47,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fbbdf0fd",
+      "date": "2025-12-31",
+      "time": "19:22:47",
+      "category": "其他",
+      "subcategory": "社交往来",
+      "amount": 44.33,
+      "description": "红包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c453f704",
+      "date": "2025-12-31",
+      "time": "23:52:52",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 21.14,
+      "description": "口红"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b0f26e4d",
+      "date": "2026-01-01",
+      "time": "14:57:11",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 21.49,
+      "description": "会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3a51db57",
+      "date": "2026-01-01",
+      "time": "20:19:57",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 295.74,
+      "description": "电费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_15a9ac3a",
+      "date": "2026-01-01",
+      "time": "22:01:44",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 19.04,
+      "description": "煎饼果子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_62e08048",
+      "date": "2026-01-02",
+      "time": "07:01:17",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 9.77,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a66bfd52",
+      "date": "2026-01-02",
+      "time": "10:18:43",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.54,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_090c46ef",
+      "date": "2026-01-02",
+      "time": "14:53:41",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 90.49,
+      "description": "服饰"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dc7b949a",
+      "date": "2026-01-02",
+      "time": "18:10:28",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 17.08,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dcdc270d",
+      "date": "2026-01-02",
+      "time": "19:38:45",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 24.83,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5bb4cbe2",
+      "date": "2026-01-03",
+      "time": "09:28:05",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 16.23,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_de909db9",
+      "date": "2026-01-03",
+      "time": "12:44:39",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 45.43,
+      "description": "游戏月卡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_30ea250e",
+      "date": "2026-01-03",
+      "time": "13:12:21",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 18.17,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1e9d2de0",
+      "date": "2026-01-03",
+      "time": "13:52:49",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 19.47,
+      "description": "AA聚餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cb771795",
+      "date": "2026-01-03",
+      "time": "14:10:18",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 10.69,
+      "description": "巧克力"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6d9dfac3",
+      "date": "2026-01-04",
+      "time": "08:51:34",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 70.07,
+      "description": "网购衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1b83c3ed",
+      "date": "2026-01-04",
+      "time": "18:59:43",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 18.43,
+      "description": "话费充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ff7d0d56",
+      "date": "2026-01-04",
+      "time": "20:11:10",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 3.52,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d27de011",
+      "date": "2026-01-05",
+      "time": "13:54:57",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 20.83,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9446896b",
+      "date": "2026-01-05",
+      "time": "16:37:38",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 23.61,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_af0f62b8",
+      "date": "2026-01-05",
+      "time": "17:28:18",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 24.15,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e388491a",
+      "date": "2026-01-05",
+      "time": "18:19:12",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 38.93,
+      "description": "朋友吃饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7928e51b",
+      "date": "2026-01-05",
+      "time": "21:18:28",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 23.27,
+      "description": "会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6936e3ef",
+      "date": "2026-01-05",
+      "time": "21:27:18",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 9.17,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2cf2180c",
+      "date": "2026-01-06",
+      "time": "14:44:54",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 14.88,
+      "description": "饺子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_02998a79",
+      "date": "2026-01-06",
+      "time": "14:57:04",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 32.48,
+      "description": "服饰"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f9855ff6",
+      "date": "2026-01-06",
+      "time": "16:40:30",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 13.03,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d43fff63",
+      "date": "2026-01-06",
+      "time": "18:10:25",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 39.82,
+      "description": "朋友吃饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_50263d05",
+      "date": "2026-01-06",
+      "time": "22:16:34",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 11.72,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_287ca3f3",
+      "date": "2026-01-07",
+      "time": "07:35:13",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 16.66,
+      "description": "会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5f9bc204",
+      "date": "2026-01-07",
+      "time": "07:38:53",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 82.22,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ccea5b65",
+      "date": "2026-01-07",
+      "time": "10:03:25",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 13.57,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_370f857e",
+      "date": "2026-01-07",
+      "time": "14:29:07",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 15.75,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e97c1896",
+      "date": "2026-01-07",
+      "time": "14:43:01",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 11.43,
+      "description": "自行车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_551126e0",
+      "date": "2026-01-07",
+      "time": "19:40:41",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 18.55,
+      "description": "坚果"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c053fa19",
+      "date": "2026-01-07",
+      "time": "21:47:01",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 24.99,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9e53f729",
+      "date": "2026-01-08",
+      "time": "10:52:19",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 42.78,
+      "description": "学习用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_235a940d",
+      "date": "2026-01-08",
+      "time": "10:53:51",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 10.67,
+      "description": "外卖炸鸡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_de20765f",
+      "date": "2026-01-08",
+      "time": "18:02:21",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 6.53,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e9c0d37c",
+      "date": "2026-01-09",
+      "time": "07:13:50",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 4.66,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d824f2e7",
+      "date": "2026-01-09",
+      "time": "19:20:04",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 19.52,
+      "description": "外卖炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a3af3522",
+      "date": "2026-01-09",
+      "time": "19:26:12",
+      "category": "娱乐",
+      "subcategory": "其他",
+      "amount": 19.85,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_186e643c",
+      "date": "2026-01-10",
+      "time": "10:23:03",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 23.02,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a97dbf2c",
+      "date": "2026-01-10",
+      "time": "10:43:56",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.37,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6c4961d8",
+      "date": "2026-01-10",
+      "time": "11:40:26",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 17.86,
+      "description": "外卖炸鸡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e956dd23",
+      "date": "2026-01-10",
+      "time": "17:35:25",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 16.42,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_49f9dc95",
+      "date": "2026-01-10",
+      "time": "20:50:54",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 31.95,
+      "description": "视频会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cb2223ac",
+      "date": "2026-01-11",
+      "time": "13:52:14",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 114.64,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d7189069",
+      "date": "2026-01-11",
+      "time": "17:25:24",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 277.2,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_311e902c",
+      "date": "2026-01-11",
+      "time": "18:21:10",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 16.94,
+      "description": "电影票"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f87df3ad",
+      "date": "2026-01-12",
+      "time": "15:42:35",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 9.78,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f51c377a",
+      "date": "2026-01-12",
+      "time": "16:19:19",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 11.56,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7e9461a8",
+      "date": "2026-01-12",
+      "time": "19:26:43",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 14.24,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5f869ac1",
+      "date": "2026-01-12",
+      "time": "20:05:43",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 8.65,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dcde1664",
+      "date": "2026-01-13",
+      "time": "09:38:47",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 87.94,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_97b50e0d",
+      "date": "2026-01-13",
+      "time": "13:02:57",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 23.65,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f56c6bd0",
+      "date": "2026-01-13",
+      "time": "13:09:11",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 24.41,
+      "description": "美妆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_286869fe",
+      "date": "2026-01-13",
+      "time": "14:24:37",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 4.5,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f21b5048",
+      "date": "2026-01-13",
+      "time": "19:10:09",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 14.77,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_967d814d",
+      "date": "2026-01-14",
+      "time": "07:07:29",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 11.76,
+      "description": "外卖炸鸡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e56ca9f9",
+      "date": "2026-01-14",
+      "time": "07:38:23",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 89.6,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c9c7c096",
+      "date": "2026-01-14",
+      "time": "09:18:12",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 17.46,
+      "description": "包子豆浆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_81846519",
+      "date": "2026-01-14",
+      "time": "10:00:56",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 16.57,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e54c3064",
+      "date": "2026-01-14",
+      "time": "11:15:12",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 22.68,
+      "description": "口红"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_83da1ba9",
+      "date": "2026-01-14",
+      "time": "21:18:21",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 18.23,
+      "description": "饺子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4be86a88",
+      "date": "2026-01-15",
+      "time": "12:15:15",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 7.71,
+      "description": "共享单车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d9181107",
+      "date": "2026-01-15",
+      "time": "12:31:56",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.73,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b87109a8",
+      "date": "2026-01-15",
+      "time": "13:39:35",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 17.09,
+      "description": "游戏月卡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ccbf9ae9",
+      "date": "2026-01-15",
+      "time": "14:19:14",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 19.15,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2c4706d3",
+      "date": "2026-01-15",
+      "time": "19:04:29",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 19.71,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_11d1157b",
+      "date": "2026-01-15",
+      "time": "20:24:42",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 23.08,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0904755f",
+      "date": "2026-01-16",
+      "time": "10:22:39",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.78,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_18271470",
+      "date": "2026-01-16",
+      "time": "19:16:37",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 18.82,
+      "description": "视频会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0210102e",
+      "date": "2026-01-16",
+      "time": "19:31:54",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 152.37,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6ba197fc",
+      "date": "2026-01-16",
+      "time": "20:30:02",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 5.95,
+      "description": "出租车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2eba31da",
+      "date": "2026-01-17",
+      "time": "11:38:47",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 20.64,
+      "description": "便利店面包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_322a5b90",
+      "date": "2026-01-17",
+      "time": "13:54:17",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 99.67,
+      "description": "服饰"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d45acddf",
+      "date": "2026-01-17",
+      "time": "20:36:22",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 12.69,
+      "description": "自行车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b31771f4",
+      "date": "2026-01-17",
+      "time": "23:12:21",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 20.38,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f239f04b",
+      "date": "2026-01-18",
+      "time": "13:10:46",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 9.45,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fe2a8ecb",
+      "date": "2026-01-18",
+      "time": "13:53:40",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 123.81,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_52c5750a",
+      "date": "2026-01-18",
+      "time": "16:52:06",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 18.44,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e8a030db",
+      "date": "2026-01-18",
+      "time": "19:42:42",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 11.2,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_702a97b7",
+      "date": "2026-01-18",
+      "time": "22:47:11",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 116.53,
+      "description": "口红"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3a8c6828",
+      "date": "2026-01-19",
+      "time": "07:13:00",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 38.08,
+      "description": "游戏道具"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4656938e",
+      "date": "2026-01-19",
+      "time": "08:16:56",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 10.44,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6cde5f11",
+      "date": "2026-01-19",
+      "time": "11:19:01",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 17.6,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5d26384f",
+      "date": "2026-01-19",
+      "time": "16:26:03",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 131.09,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fbb92384",
+      "date": "2026-01-19",
+      "time": "20:36:10",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 133.89,
+      "description": "美妆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9e5c1fbf",
+      "date": "2026-01-19",
+      "time": "20:57:03",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.07,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_759085b6",
+      "date": "2026-01-19",
+      "time": "20:57:09",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 10.95,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1637dffe",
+      "date": "2026-01-20",
+      "time": "13:22:56",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 14.74,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a9ac0bf2",
+      "date": "2026-01-20",
+      "time": "16:10:28",
+      "category": "其他",
+      "subcategory": "其他",
+      "amount": 25.44,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_957361b8",
+      "date": "2026-01-20",
+      "time": "19:22:00",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 13.39,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5d7c980e",
+      "date": "2026-01-21",
+      "time": "13:09:01",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 38.47,
+      "description": "羽毛球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_897896f9",
+      "date": "2026-01-21",
+      "time": "18:33:20",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 8.39,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7c25f3b5",
+      "date": "2026-01-21",
+      "time": "22:29:29",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 22.74,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_395dedd7",
+      "date": "2026-01-21",
+      "time": "22:44:49",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 3.5,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dcdba73c",
+      "date": "2026-01-22",
+      "time": "09:43:03",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 21.35,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d640981d",
+      "date": "2026-01-22",
+      "time": "10:46:19",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 22.62,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c56a9ad8",
+      "date": "2026-01-22",
+      "time": "20:18:08",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 9.37,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_95da9aa4",
+      "date": "2026-01-22",
+      "time": "21:58:28",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 28.41,
+      "description": "社团聚会"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_59cc0543",
+      "date": "2026-01-22",
+      "time": "22:26:30",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 60.05,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b727ee65",
+      "date": "2026-01-23",
+      "time": "07:35:15",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 99.3,
+      "description": "服饰"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e6098afb",
+      "date": "2026-01-23",
+      "time": "13:27:11",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 103.7,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b4ae2bfc",
+      "date": "2026-01-23",
+      "time": "13:31:48",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 61.49,
+      "description": "学习用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1694fcc1",
+      "date": "2026-01-23",
+      "time": "15:04:25",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 24.92,
+      "description": "便利店饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_57201682",
+      "date": "2026-01-23",
+      "time": "17:04:34",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 113.31,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3376e786",
+      "date": "2026-01-23",
+      "time": "17:08:51",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 77.0,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a6846351",
+      "date": "2026-01-24",
+      "time": "08:59:45",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 66.14,
+      "description": "学习课程"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7f8ce0f5",
+      "date": "2026-01-24",
+      "time": "16:19:59",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 50.52,
+      "description": "学习课程"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b7f95cf1",
+      "date": "2026-01-24",
+      "time": "17:20:08",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 24.17,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f75c1d0d",
+      "date": "2026-01-24",
+      "time": "21:43:06",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.6,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7693c95e",
+      "date": "2026-01-24",
+      "time": "22:16:44",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 54.26,
+      "description": "培训班"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_40266bfa",
+      "date": "2026-01-25",
+      "time": "11:20:34",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 127.13,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_146b9d64",
+      "date": "2026-01-25",
+      "time": "11:41:06",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 12.48,
+      "description": "小炒"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_08facd04",
+      "date": "2026-01-25",
+      "time": "14:00:39",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 107.82,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f8b4c665",
+      "date": "2026-01-25",
+      "time": "16:56:37",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 44.84,
+      "description": "话费充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_070473fb",
+      "date": "2026-01-25",
+      "time": "17:08:08",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 13.07,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ce311414",
+      "date": "2026-01-25",
+      "time": "20:25:06",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 14.72,
+      "description": "电影票"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_32156653",
+      "date": "2026-01-26",
+      "time": "07:25:46",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 16.35,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9a1d6bb5",
+      "date": "2026-01-26",
+      "time": "07:54:27",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 11.55,
+      "description": "共享单车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8404d075",
+      "date": "2026-01-26",
+      "time": "10:30:11",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 22.04,
+      "description": "小炒"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6d2edf49",
+      "date": "2026-01-26",
+      "time": "11:14:07",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 7.26,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_04fe21e8",
+      "date": "2026-01-26",
+      "time": "12:12:32",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 32.76,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1251a86a",
+      "date": "2026-01-26",
+      "time": "15:46:52",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 19.27,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4b80a95c",
+      "date": "2026-01-26",
+      "time": "20:11:37",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 21.02,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e52b35f1",
+      "date": "2026-01-27",
+      "time": "16:02:35",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 77.25,
+      "description": "小说"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_55091df2",
+      "date": "2026-01-27",
+      "time": "17:25:51",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 9.41,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6b3b5c24",
+      "date": "2026-01-27",
+      "time": "18:50:24",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 128.28,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_77a09ddd",
+      "date": "2026-01-27",
+      "time": "21:18:44",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 10.44,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8c54ee0a",
+      "date": "2026-01-28",
+      "time": "10:09:56",
+      "category": "娱乐",
+      "subcategory": "其他",
+      "amount": 35.68,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fbe16626",
+      "date": "2026-01-28",
+      "time": "20:25:33",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 21.7,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cf092fcb",
+      "date": "2026-01-28",
+      "time": "23:02:27",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 52.67,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ca224353",
+      "date": "2026-01-29",
+      "time": "07:01:26",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 92.57,
+      "description": "数据线"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d7e6c0d7",
+      "date": "2026-01-29",
+      "time": "08:26:57",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 11.28,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_415ce840",
+      "date": "2026-01-29",
+      "time": "10:36:33",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 15.27,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9bd5ba37",
+      "date": "2026-01-29",
+      "time": "10:59:12",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 27.47,
+      "description": "社团聚会"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7b3ab1db",
+      "date": "2026-01-29",
+      "time": "13:57:33",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 11.48,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_752a64e0",
+      "date": "2026-01-29",
+      "time": "20:52:53",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 9.73,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_03841f48",
+      "date": "2026-01-29",
+      "time": "22:44:36",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 24.75,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_20fdf87c",
+      "date": "2026-01-30",
+      "time": "12:37:53",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 11.94,
+      "description": "外卖炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f0f0a442",
+      "date": "2026-01-30",
+      "time": "17:32:21",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 24.95,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e89e323c",
+      "date": "2026-01-30",
+      "time": "21:31:53",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 12.09,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8c6589e4",
+      "date": "2026-01-30",
+      "time": "21:36:49",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 132.05,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_48ab8fca",
+      "date": "2026-01-31",
+      "time": "09:56:14",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 115.68,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1696e2c2",
+      "date": "2026-01-31",
+      "time": "15:28:58",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 22.78,
+      "description": "饺子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_576a21ac",
+      "date": "2026-01-31",
+      "time": "16:33:11",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 10.17,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_db809ce5",
+      "date": "2026-01-31",
+      "time": "16:53:03",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 11.26,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_09bc9e72",
+      "date": "2026-01-31",
+      "time": "17:02:37",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 24.11,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_377c566f",
+      "date": "2026-01-31",
+      "time": "19:44:44",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 17.95,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_01e4d954",
+      "date": "2026-01-31",
+      "time": "21:23:01",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 2.31,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_811ad3a0",
+      "date": "2026-02-01",
+      "time": "13:12:05",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 68.53,
+      "description": "学习课程"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d4b1be46",
+      "date": "2026-02-01",
+      "time": "14:18:40",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 12.73,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2abb676c",
+      "date": "2026-02-01",
+      "time": "15:22:50",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.13,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3c6d87f0",
+      "date": "2026-02-01",
+      "time": "15:37:03",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 7.42,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_204a0259",
+      "date": "2026-02-01",
+      "time": "19:18:43",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 21.33,
+      "description": "柠檬茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cf44ea0a",
+      "date": "2026-02-01",
+      "time": "21:03:24",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 3.71,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3c88d4eb",
+      "date": "2026-02-01",
+      "time": "21:23:19",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 25.67,
+      "description": "聚餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e45f887c",
+      "date": "2026-02-02",
+      "time": "09:21:57",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 131.38,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d018eea2",
+      "date": "2026-02-02",
+      "time": "10:01:55",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.95,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0d939182",
+      "date": "2026-02-02",
+      "time": "11:50:30",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.45,
+      "description": "包子豆浆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_defe0515",
+      "date": "2026-02-02",
+      "time": "15:23:37",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 6.67,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fe05056f",
+      "date": "2026-02-02",
+      "time": "16:34:36",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 11.87,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e4782e80",
+      "date": "2026-02-02",
+      "time": "22:49:50",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 114.27,
+      "description": "电费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d7a1a0f1",
+      "date": "2026-02-03",
+      "time": "08:29:00",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 65.96,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7476da6a",
+      "date": "2026-02-03",
+      "time": "12:28:06",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.86,
+      "description": "饺子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_732a2a87",
+      "date": "2026-02-03",
+      "time": "13:19:58",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 13.61,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_03ae2020",
+      "date": "2026-02-03",
+      "time": "15:59:28",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 44.12,
+      "description": "电影票"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a6b04378",
+      "date": "2026-02-04",
+      "time": "07:40:40",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 92.57,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7acd8c30",
+      "date": "2026-02-04",
+      "time": "09:26:29",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 17.86,
+      "description": "社团聚会"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_92ae3354",
+      "date": "2026-02-04",
+      "time": "10:53:05",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 18.26,
+      "description": "视频会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0a74da47",
+      "date": "2026-02-04",
+      "time": "23:04:59",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 55.39,
+      "description": "小说"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6ec384d9",
+      "date": "2026-02-05",
+      "time": "09:54:28",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 5.6,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_344dc2ac",
+      "date": "2026-02-05",
+      "time": "14:26:25",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 19.6,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_404166b4",
+      "date": "2026-02-05",
+      "time": "15:30:24",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 17.38,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_93e9fa27",
+      "date": "2026-02-05",
+      "time": "20:17:15",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 9.81,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e7efdd25",
+      "date": "2026-02-06",
+      "time": "08:47:25",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 42.23,
+      "description": "护肤品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4378aca2",
+      "date": "2026-02-06",
+      "time": "13:02:29",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 61.01,
+      "description": "技术书籍"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7eb63e53",
+      "date": "2026-02-06",
+      "time": "13:17:33",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 17.75,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4814d5d1",
+      "date": "2026-02-06",
+      "time": "17:38:57",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 13.26,
+      "description": "超市零食"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_914b680a",
+      "date": "2026-02-06",
+      "time": "18:16:27",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 10.68,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c5695b0e",
+      "date": "2026-02-06",
+      "time": "20:16:54",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 41.87,
+      "description": "培训班"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_afd1b557",
+      "date": "2026-02-07",
+      "time": "07:33:45",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 18.0,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f14bd2aa",
+      "date": "2026-02-07",
+      "time": "10:06:05",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 40.8,
+      "description": "护肤品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f399dfe6",
+      "date": "2026-02-07",
+      "time": "13:25:28",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 24.96,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9087b399",
+      "date": "2026-02-07",
+      "time": "13:52:57",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 73.13,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_97807bb9",
+      "date": "2026-02-07",
+      "time": "15:43:57",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 2.77,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_afe4523b",
+      "date": "2026-02-07",
+      "time": "18:01:28",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 19.0,
+      "description": "技术书籍"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fc365210",
+      "date": "2026-02-08",
+      "time": "07:25:12",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 5.23,
+      "description": "出租车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_463c10fc",
+      "date": "2026-02-08",
+      "time": "09:37:13",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 20.07,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5c2cdb4a",
+      "date": "2026-02-08",
+      "time": "12:33:53",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 45.04,
+      "description": "学习用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3ab7b74f",
+      "date": "2026-02-08",
+      "time": "19:27:08",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 18.56,
+      "description": "外卖下单"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_36d6ebb2",
+      "date": "2026-02-08",
+      "time": "23:14:56",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 16.3,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_711e63fc",
+      "date": "2026-02-09",
+      "time": "07:26:52",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 21.49,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bd9eb424",
+      "date": "2026-02-09",
+      "time": "09:17:30",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 11.26,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1b8c69a9",
+      "date": "2026-02-09",
+      "time": "11:44:25",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 146.99,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_da7ecd49",
+      "date": "2026-02-09",
+      "time": "13:26:50",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 22.05,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4752f91e",
+      "date": "2026-02-09",
+      "time": "16:29:18",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 16.36,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_41238c5a",
+      "date": "2026-02-10",
+      "time": "07:45:52",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 8.84,
+      "description": "炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0e12a2e0",
+      "date": "2026-02-10",
+      "time": "14:03:23",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 5.45,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3808f559",
+      "date": "2026-02-10",
+      "time": "16:54:44",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 14.49,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_20b08e80",
+      "date": "2026-02-10",
+      "time": "17:15:00",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 73.58,
+      "description": "学习课程"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_180f1fc9",
+      "date": "2026-02-10",
+      "time": "17:57:00",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 22.98,
+      "description": "小炒"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bd6d3b12",
+      "date": "2026-02-10",
+      "time": "19:55:43",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 21.51,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_82b425e3",
+      "date": "2026-02-10",
+      "time": "22:03:41",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 59.69,
+      "description": "充电宝"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_371ae2d1",
+      "date": "2026-02-11",
+      "time": "15:00:53",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 14.03,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6c772f40",
+      "date": "2026-02-11",
+      "time": "18:02:30",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 10.35,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6127f102",
+      "date": "2026-02-11",
+      "time": "20:32:33",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 147.96,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_223dd540",
+      "date": "2026-02-11",
+      "time": "21:02:27",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 46.45,
+      "description": "通讯费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a1635c6b",
+      "date": "2026-02-11",
+      "time": "22:51:15",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 10.19,
+      "description": "游戏充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_462994b8",
+      "date": "2026-02-11",
+      "time": "23:54:51",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 23.66,
+      "description": "小炒"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_827753eb",
+      "date": "2026-02-12",
+      "time": "09:54:04",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 17.3,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b405e800",
+      "date": "2026-02-12",
+      "time": "21:02:46",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 18.53,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_86e10a95",
+      "date": "2026-02-12",
+      "time": "21:22:56",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 10.14,
+      "description": "游戏"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0c81cab0",
+      "date": "2026-02-12",
+      "time": "22:37:07",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 17.79,
+      "description": "学校食堂"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_35c24c97",
+      "date": "2026-02-13",
+      "time": "12:35:44",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 24.07,
+      "description": "巧克力"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c91c2412",
+      "date": "2026-02-13",
+      "time": "15:26:22",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 136.19,
+      "description": "充电宝"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_186b33cd",
+      "date": "2026-02-13",
+      "time": "16:31:14",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 20.93,
+      "description": "外卖下单"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b0892cf8",
+      "date": "2026-02-14",
+      "time": "08:22:42",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 9.31,
+      "description": "外卖炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b43d0564",
+      "date": "2026-02-14",
+      "time": "17:16:33",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 11.88,
+      "description": "自行车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2351fb17",
+      "date": "2026-02-14",
+      "time": "17:55:25",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 124.08,
+      "description": "化妆品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_493097a6",
+      "date": "2026-02-14",
+      "time": "19:12:07",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 15.53,
+      "description": "柠檬茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_15816790",
+      "date": "2026-02-15",
+      "time": "08:48:59",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 73.42,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9a07190c",
+      "date": "2026-02-15",
+      "time": "08:52:10",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 49.75,
+      "description": "电影票"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_05431d76",
+      "date": "2026-02-15",
+      "time": "12:43:46",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 129.11,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8ff853fd",
+      "date": "2026-02-15",
+      "time": "14:47:56",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 10.87,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6471104e",
+      "date": "2026-02-15",
+      "time": "19:57:15",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 261.5,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_43b8c184",
+      "date": "2026-02-15",
+      "time": "20:24:44",
+      "category": "娱乐",
+      "subcategory": "其他",
+      "amount": 16.06,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1733e222",
+      "date": "2026-02-16",
+      "time": "07:47:57",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 11.84,
+      "description": "饼干"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ce477b63",
+      "date": "2026-02-16",
+      "time": "09:02:43",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 19.84,
+      "description": "酸奶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d34aa052",
+      "date": "2026-02-16",
+      "time": "10:37:50",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 22.99,
+      "description": "AA聚餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5dfdb740",
+      "date": "2026-02-16",
+      "time": "16:25:55",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 22.76,
+      "description": "便利店面包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_49b72a7e",
+      "date": "2026-02-16",
+      "time": "22:38:41",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 11.41,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e039840c",
+      "date": "2026-02-17",
+      "time": "10:46:11",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 7.66,
+      "description": "游戏"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c048a8d8",
+      "date": "2026-02-17",
+      "time": "13:14:23",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 12.38,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b5379668",
+      "date": "2026-02-17",
+      "time": "15:42:55",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 18.31,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0d3eb399",
+      "date": "2026-02-17",
+      "time": "16:21:18",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 20.0,
+      "description": "外卖点餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6e53055e",
+      "date": "2026-02-17",
+      "time": "22:02:26",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 63.1,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ddf0b377",
+      "date": "2026-02-18",
+      "time": "14:45:06",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 62.27,
+      "description": "笔记本"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dc728174",
+      "date": "2026-02-18",
+      "time": "15:51:40",
+      "category": "其他",
+      "subcategory": "社交往来",
+      "amount": 36.25,
+      "description": "礼物"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d7b05b99",
+      "date": "2026-02-18",
+      "time": "20:40:17",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 38.21,
+      "description": "篮球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4696094a",
+      "date": "2026-02-19",
+      "time": "10:48:43",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 93.2,
+      "description": "网购衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f700a678",
+      "date": "2026-02-19",
+      "time": "16:46:10",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 7.97,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f1913e30",
+      "date": "2026-02-19",
+      "time": "19:52:02",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 50.16,
+      "description": "水费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2239fef3",
+      "date": "2026-02-20",
+      "time": "10:05:30",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 135.93,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8bc9756c",
+      "date": "2026-02-20",
+      "time": "11:10:59",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 15.96,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_29e171aa",
+      "date": "2026-02-20",
+      "time": "14:34:04",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 13.54,
+      "description": "话费充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d4ef387d",
+      "date": "2026-02-20",
+      "time": "14:43:39",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 60.5,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_49966392",
+      "date": "2026-02-20",
+      "time": "19:52:09",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 62.21,
+      "description": "数据线"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_947b4d32",
+      "date": "2026-02-21",
+      "time": "15:36:18",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 11.21,
+      "description": "便利店面包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7aa89d39",
+      "date": "2026-02-21",
+      "time": "17:42:32",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 5.31,
+      "description": "网约车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2d896af5",
+      "date": "2026-02-21",
+      "time": "19:42:31",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 30.82,
+      "description": "通讯费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_068d673f",
+      "date": "2026-02-21",
+      "time": "21:24:29",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 231.11,
+      "description": "电费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_579b97ce",
+      "date": "2026-02-22",
+      "time": "09:13:44",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.23,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ebcda95c",
+      "date": "2026-02-22",
+      "time": "10:06:17",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 19.32,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bc46ffed",
+      "date": "2026-02-22",
+      "time": "12:14:04",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 24.39,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b07d7313",
+      "date": "2026-02-22",
+      "time": "22:11:51",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 12.31,
+      "description": "篮球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_40fb8278",
+      "date": "2026-02-22",
+      "time": "22:53:57",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 44.7,
+      "description": "话费充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1e8cd0ab",
+      "date": "2026-02-22",
+      "time": "23:36:46",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 3.46,
+      "description": "自行车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_055bf0ab",
+      "date": "2026-02-23",
+      "time": "09:15:56",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 17.37,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6c6e304c",
+      "date": "2026-02-23",
+      "time": "10:49:32",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 50.52,
+      "description": "充电宝"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2e1c4a3b",
+      "date": "2026-02-23",
+      "time": "13:31:55",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 94.07,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2cc36774",
+      "date": "2026-02-23",
+      "time": "18:04:19",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 26.96,
+      "description": "耳机"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4fca1a8a",
+      "date": "2026-02-23",
+      "time": "19:14:27",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 8.13,
+      "description": "共享单车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_826cdd7f",
+      "date": "2026-02-23",
+      "time": "20:42:11",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 23.28,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_14a371da",
+      "date": "2026-02-24",
+      "time": "09:11:01",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 12.0,
+      "description": "煎饼果子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5cb1a43d",
+      "date": "2026-02-24",
+      "time": "12:19:00",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 150.65,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8c803c1a",
+      "date": "2026-02-24",
+      "time": "17:29:08",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 27.65,
+      "description": "流量包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ab5d995f",
+      "date": "2026-02-24",
+      "time": "20:53:35",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 56.62,
+      "description": "水费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f232b0fd",
+      "date": "2026-02-25",
+      "time": "08:34:09",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 18.03,
+      "description": "外卖点餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_53ef21a5",
+      "date": "2026-02-25",
+      "time": "08:46:42",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 21.71,
+      "description": "学校食堂"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1ad454a1",
+      "date": "2026-02-25",
+      "time": "18:44:09",
+      "category": "其他",
+      "subcategory": "社交往来",
+      "amount": 27.13,
+      "description": "红包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8902bd5d",
+      "date": "2026-02-25",
+      "time": "19:07:09",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 19.64,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ad084c04",
+      "date": "2026-02-25",
+      "time": "20:24:23",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.2,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5bcd2dfe",
+      "date": "2026-02-25",
+      "time": "22:34:13",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 10.05,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_26d52d35",
+      "date": "2026-02-26",
+      "time": "08:41:07",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 2.4,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_40cf7f40",
+      "date": "2026-02-26",
+      "time": "10:58:44",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 102.5,
+      "description": "护肤品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f944ad52",
+      "date": "2026-02-26",
+      "time": "11:35:56",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 10.29,
+      "description": "学校食堂"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d69d8a60",
+      "date": "2026-02-26",
+      "time": "11:39:16",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 15.01,
+      "description": "羽毛球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6df3082f",
+      "date": "2026-02-26",
+      "time": "12:49:03",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 20.38,
+      "description": "游戏月卡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_db640f3d",
+      "date": "2026-02-26",
+      "time": "22:01:15",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.87,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_615a4864",
+      "date": "2026-02-26",
+      "time": "22:13:57",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 22.36,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e89f2711",
+      "date": "2026-02-27",
+      "time": "10:09:30",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 19.72,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4fa5fd0c",
+      "date": "2026-02-27",
+      "time": "12:26:52",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.52,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b204a346",
+      "date": "2026-02-27",
+      "time": "12:29:12",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 8.4,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fccfaf8b",
+      "date": "2026-02-27",
+      "time": "13:38:20",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 11.12,
+      "description": "外卖炸鸡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_41c20745",
+      "date": "2026-02-27",
+      "time": "15:04:51",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 12.45,
+      "description": "饺子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e5650ab3",
+      "date": "2026-02-27",
+      "time": "18:33:39",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.49,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d9c90921",
+      "date": "2026-02-27",
+      "time": "22:24:21",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 11.47,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_df82f1ec",
+      "date": "2026-02-27",
+      "time": "23:35:04",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 13.22,
+      "description": "外卖炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_13ec7143",
+      "date": "2026-02-28",
+      "time": "13:29:45",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.4,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_93b83a85",
+      "date": "2026-02-28",
+      "time": "14:49:29",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 42.39,
+      "description": "网购衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_01d21b41",
+      "date": "2026-02-28",
+      "time": "18:26:43",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 14.73,
+      "description": "小炒"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9dfae38b",
+      "date": "2026-02-28",
+      "time": "19:02:31",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 229.39,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e6684c76",
+      "date": "2026-03-01",
+      "time": "07:25:07",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 6.21,
+      "description": "游戏道具"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e50b442f",
+      "date": "2026-03-01",
+      "time": "11:15:16",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 61.74,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4afcd4d1",
+      "date": "2026-03-01",
+      "time": "13:14:06",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 59.1,
+      "description": "化妆品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2a1a8fe4",
+      "date": "2026-03-01",
+      "time": "22:46:36",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 94.34,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_234fcb86",
+      "date": "2026-03-02",
+      "time": "11:06:19",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 43.86,
+      "description": "充电宝"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c93de11b",
+      "date": "2026-03-02",
+      "time": "13:39:45",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 11.21,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d562baab",
+      "date": "2026-03-02",
+      "time": "15:13:52",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 4.75,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5d0ce313",
+      "date": "2026-03-02",
+      "time": "17:49:23",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 285.42,
+      "description": "水费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bab32f24",
+      "date": "2026-03-02",
+      "time": "20:51:25",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 42.55,
+      "description": "手机膜"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6469ab9f",
+      "date": "2026-03-02",
+      "time": "23:07:15",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 18.23,
+      "description": "羽毛球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dd6361ed",
+      "date": "2026-03-03",
+      "time": "08:56:58",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 149.97,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f99c719e",
+      "date": "2026-03-03",
+      "time": "10:23:11",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 30.36,
+      "description": "羽毛球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f6a3ccf5",
+      "date": "2026-03-03",
+      "time": "10:24:43",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 41.21,
+      "description": "文具店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_446ef2f4",
+      "date": "2026-03-03",
+      "time": "14:28:24",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 9.78,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3b64eaff",
+      "date": "2026-03-03",
+      "time": "21:35:37",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 16.25,
+      "description": "朋友吃饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_88ef00c3",
+      "date": "2026-03-03",
+      "time": "22:41:08",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 7.41,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a378bc74",
+      "date": "2026-03-04",
+      "time": "11:11:40",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 197.9,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3db6e1ee",
+      "date": "2026-03-04",
+      "time": "11:29:04",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 60.36,
+      "description": "衣服"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_75fc5a26",
+      "date": "2026-03-04",
+      "time": "13:26:16",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 122.38,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0dc4694c",
+      "date": "2026-03-04",
+      "time": "15:07:51",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 13.16,
+      "description": "饺子"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fcd8f197",
+      "date": "2026-03-05",
+      "time": "07:13:43",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 25.16,
+      "description": "笔记本"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4a6732e6",
+      "date": "2026-03-05",
+      "time": "13:29:54",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 24.62,
+      "description": "学校食堂"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4c7af405",
+      "date": "2026-03-05",
+      "time": "14:30:16",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 16.13,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_11980ffe",
+      "date": "2026-03-05",
+      "time": "16:23:42",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 11.85,
+      "description": "水果"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b0e55799",
+      "date": "2026-03-05",
+      "time": "21:55:36",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.55,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3fd2cab7",
+      "date": "2026-03-06",
+      "time": "14:22:24",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 16.89,
+      "description": "流量包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0d9d1bf8",
+      "date": "2026-03-06",
+      "time": "16:12:00",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 20.5,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_07361858",
+      "date": "2026-03-06",
+      "time": "16:36:43",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 15.44,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7c667491",
+      "date": "2026-03-06",
+      "time": "19:03:08",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 15.59,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7fa3fc8c",
+      "date": "2026-03-07",
+      "time": "08:05:09",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 21.22,
+      "description": "课外书"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c1cbfdd1",
+      "date": "2026-03-07",
+      "time": "13:33:41",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 24.05,
+      "description": "聚餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_faf088c3",
+      "date": "2026-03-07",
+      "time": "16:57:23",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 13.45,
+      "description": "通讯费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6df9197d",
+      "date": "2026-03-07",
+      "time": "18:48:45",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 24.02,
+      "description": "外卖下单"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4a1e05bd",
+      "date": "2026-03-07",
+      "time": "20:20:37",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 36.75,
+      "description": "话费充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b9fb0a10",
+      "date": "2026-03-07",
+      "time": "21:00:21",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 8.18,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2480c5d4",
+      "date": "2026-03-08",
+      "time": "07:03:07",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 6.85,
+      "description": "游戏月卡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c165b480",
+      "date": "2026-03-08",
+      "time": "07:15:37",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 128.29,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3bad9b97",
+      "date": "2026-03-08",
+      "time": "10:16:26",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 125.96,
+      "description": "网购"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ede791e4",
+      "date": "2026-03-08",
+      "time": "10:28:33",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 20.06,
+      "description": "学校食堂"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c5b28d09",
+      "date": "2026-03-08",
+      "time": "16:02:11",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 26.36,
+      "description": "社团聚会"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6f45990b",
+      "date": "2026-03-08",
+      "time": "16:34:47",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 22.6,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bbf6584a",
+      "date": "2026-03-08",
+      "time": "18:36:57",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 11.95,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8c6d4865",
+      "date": "2026-03-08",
+      "time": "19:22:50",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 117.88,
+      "description": "网购"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f2fc7571",
+      "date": "2026-03-09",
+      "time": "14:00:19",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 72.61,
+      "description": "数据线"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8d998a0d",
+      "date": "2026-03-09",
+      "time": "18:06:22",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 14.11,
+      "description": "出租车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b8f08f37",
+      "date": "2026-03-09",
+      "time": "20:39:54",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 14.06,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6f3be465",
+      "date": "2026-03-09",
+      "time": "21:16:01",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 12.67,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_10d725fe",
+      "date": "2026-03-10",
+      "time": "17:26:51",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 21.57,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_94d058a0",
+      "date": "2026-03-10",
+      "time": "19:59:50",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 123.95,
+      "description": "美妆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9886d9c4",
+      "date": "2026-03-10",
+      "time": "22:06:39",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 31.27,
+      "description": "羽毛球"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_224755b9",
+      "date": "2026-03-11",
+      "time": "10:27:35",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 13.5,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_55321e4e",
+      "date": "2026-03-11",
+      "time": "10:32:31",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 22.41,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d69fcc71",
+      "date": "2026-03-11",
+      "time": "11:51:00",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 22.5,
+      "description": "饼干"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_667aa3f7",
+      "date": "2026-03-11",
+      "time": "12:06:02",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 9.12,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_31d3bd20",
+      "date": "2026-03-11",
+      "time": "12:28:15",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 13.44,
+      "description": "自行车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ead165a5",
+      "date": "2026-03-11",
+      "time": "16:49:36",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 19.64,
+      "description": "食堂一楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2e7e3b32",
+      "date": "2026-03-11",
+      "time": "18:53:26",
+      "category": "教育",
+      "subcategory": "文具",
+      "amount": 32.29,
+      "description": "文具店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5b83cc4e",
+      "date": "2026-03-11",
+      "time": "19:23:02",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 83.22,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_69875d3b",
+      "date": "2026-03-12",
+      "time": "13:54:10",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 16.32,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6224995c",
+      "date": "2026-03-12",
+      "time": "14:44:19",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 77.59,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_87bbeb94",
+      "date": "2026-03-12",
+      "time": "16:37:45",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 14.44,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c3444b8e",
+      "date": "2026-03-12",
+      "time": "23:56:51",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 8.93,
+      "description": "坚果"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_622f5a6a",
+      "date": "2026-03-13",
+      "time": "10:28:32",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 20.64,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_227fb429",
+      "date": "2026-03-13",
+      "time": "15:21:38",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 24.26,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4fd79d06",
+      "date": "2026-03-13",
+      "time": "17:09:44",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 21.62,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_a6d86549",
+      "date": "2026-03-13",
+      "time": "19:26:15",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 17.69,
+      "description": "包子豆浆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f35969bf",
+      "date": "2026-03-13",
+      "time": "19:52:31",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.49,
+      "description": "酸奶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3c3d36a5",
+      "date": "2026-03-13",
+      "time": "20:50:09",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 24.45,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0b372612",
+      "date": "2026-03-14",
+      "time": "09:42:08",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 22.46,
+      "description": "小炒"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c075f960",
+      "date": "2026-03-14",
+      "time": "12:03:42",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 10.13,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4c86bdf2",
+      "date": "2026-03-14",
+      "time": "13:54:57",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 129.23,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_838f9f37",
+      "date": "2026-03-14",
+      "time": "14:46:23",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 21.12,
+      "description": "便利店面包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_94c431fc",
+      "date": "2026-03-14",
+      "time": "17:23:15",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 38.22,
+      "description": "流量包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_68b7ac19",
+      "date": "2026-03-14",
+      "time": "19:52:49",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 13.93,
+      "description": "地铁"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_36d47aea",
+      "date": "2026-03-15",
+      "time": "11:21:37",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 115.82,
+      "description": "美妆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5b73baa8",
+      "date": "2026-03-15",
+      "time": "12:32:18",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 59.51,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b032dfe3",
+      "date": "2026-03-15",
+      "time": "13:14:38",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 13.36,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_34f19335",
+      "date": "2026-03-16",
+      "time": "08:47:18",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 15.45,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_048ddce2",
+      "date": "2026-03-16",
+      "time": "10:46:12",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 17.87,
+      "description": "坚果"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b9198326",
+      "date": "2026-03-16",
+      "time": "16:37:43",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 16.8,
+      "description": "聚餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0f1ecff8",
+      "date": "2026-03-16",
+      "time": "19:35:34",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 13.66,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_00706b49",
+      "date": "2026-03-16",
+      "time": "19:59:22",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 24.31,
+      "description": "坚果"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4274cbc8",
+      "date": "2026-03-17",
+      "time": "07:01:51",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 60.82,
+      "description": "小说"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_97bd552d",
+      "date": "2026-03-17",
+      "time": "14:41:18",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 2.61,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b147f3e9",
+      "date": "2026-03-17",
+      "time": "15:55:44",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 8.59,
+      "description": "聚餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_9e657a1d",
+      "date": "2026-03-17",
+      "time": "19:21:53",
+      "category": "交通",
+      "subcategory": "共享单车",
+      "amount": 11.64,
+      "description": "共享单车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_6e9557a1",
+      "date": "2026-03-18",
+      "time": "11:23:07",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.67,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2685e971",
+      "date": "2026-03-18",
+      "time": "11:48:57",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 137.19,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_90b4a26c",
+      "date": "2026-03-18",
+      "time": "12:12:50",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 70.74,
+      "description": "生活用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0127d60d",
+      "date": "2026-03-18",
+      "time": "16:31:18",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 19.62,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0e1072d6",
+      "date": "2026-03-18",
+      "time": "17:41:51",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 16.87,
+      "description": "外卖下单"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dc67ce38",
+      "date": "2026-03-18",
+      "time": "19:23:16",
+      "category": "居住",
+      "subcategory": "日用品",
+      "amount": 59.01,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b5ccb1d2",
+      "date": "2026-03-18",
+      "time": "19:47:26",
+      "category": "购物",
+      "subcategory": "其他",
+      "amount": 89.68,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_5f0b1b7a",
+      "date": "2026-03-19",
+      "time": "07:55:54",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 151.98,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_af5fd629",
+      "date": "2026-03-19",
+      "time": "12:43:50",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 47.55,
+      "description": "朋友吃饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cb604bec",
+      "date": "2026-03-19",
+      "time": "18:20:11",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 46.79,
+      "description": "游戏充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_3108f4ed",
+      "date": "2026-03-19",
+      "time": "22:27:54",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 184.94,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8e96ed37",
+      "date": "2026-03-19",
+      "time": "23:39:36",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 20.09,
+      "description": "便利店面包"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ab987c4c",
+      "date": "2026-03-20",
+      "time": "08:05:06",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 204.13,
+      "description": "水费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_367fb837",
+      "date": "2026-03-20",
+      "time": "11:41:30",
+      "category": "娱乐",
+      "subcategory": "社交聚餐",
+      "amount": 33.69,
+      "description": "社团聚会"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c036ec82",
+      "date": "2026-03-20",
+      "time": "14:49:37",
+      "category": "交通",
+      "subcategory": "打车",
+      "amount": 3.72,
+      "description": "网约车"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f396bc2a",
+      "date": "2026-03-20",
+      "time": "21:23:08",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 12.83,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_432d5d71",
+      "date": "2026-03-20",
+      "time": "23:48:24",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 26.48,
+      "description": "便利店"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1d06cd31",
+      "date": "2026-03-21",
+      "time": "08:32:50",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 7.0,
+      "description": "健身房"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f0e6fde0",
+      "date": "2026-03-21",
+      "time": "09:24:45",
+      "category": "娱乐",
+      "subcategory": "其他",
+      "amount": 34.68,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fa16dbce",
+      "date": "2026-03-21",
+      "time": "09:33:34",
+      "category": "购物",
+      "subcategory": "化妆品",
+      "amount": 45.29,
+      "description": "化妆品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_86d70ffe",
+      "date": "2026-03-21",
+      "time": "12:13:19",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 18.59,
+      "description": "食堂二楼"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f67bbe87",
+      "date": "2026-03-21",
+      "time": "14:09:15",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 20.47,
+      "description": "电影票"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_c3ab5f67",
+      "date": "2026-03-21",
+      "time": "19:31:18",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 27.28,
+      "description": "通讯费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bd3dfd32",
+      "date": "2026-03-22",
+      "time": "07:33:50",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 17.95,
+      "description": "肠粉油条"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_7481ef64",
+      "date": "2026-03-22",
+      "time": "07:49:51",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 15.18,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_fb5a11fe",
+      "date": "2026-03-22",
+      "time": "11:14:50",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 11.7,
+      "description": "公交"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_e2b7b662",
+      "date": "2026-03-22",
+      "time": "14:51:28",
+      "category": "购物",
+      "subcategory": "服装",
+      "amount": 47.64,
+      "description": "服饰"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_19c165b1",
+      "date": "2026-03-22",
+      "time": "23:58:01",
+      "category": "其他",
+      "subcategory": "其他",
+      "amount": 36.67,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_66e2bd77",
+      "date": "2026-03-23",
+      "time": "10:26:46",
+      "category": "其他",
+      "subcategory": "通讯费",
+      "amount": 36.07,
+      "description": "通讯费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_586faf39",
+      "date": "2026-03-23",
+      "time": "10:52:46",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 19.08,
+      "description": "外卖焖饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4d68420c",
+      "date": "2026-03-23",
+      "time": "12:18:24",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 14.51,
+      "description": "奶茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8cb076c5",
+      "date": "2026-03-23",
+      "time": "15:14:47",
+      "category": "娱乐",
+      "subcategory": "运动健身",
+      "amount": 35.81,
+      "description": "健身房"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_29d82b5c",
+      "date": "2026-03-23",
+      "time": "17:50:16",
+      "category": "居住",
+      "subcategory": "房租",
+      "amount": 237.59,
+      "description": "房租"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bdbdf178",
+      "date": "2026-03-23",
+      "time": "23:19:35",
+      "category": "教育",
+      "subcategory": "课程",
+      "amount": 41.19,
+      "description": "网课"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4ed2681b",
+      "date": "2026-03-24",
+      "time": "10:27:21",
+      "category": "居住",
+      "subcategory": "水电费",
+      "amount": 79.42,
+      "description": "水费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_8dfb0fbe",
+      "date": "2026-03-24",
+      "time": "19:55:57",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 3.76,
+      "description": "公交卡充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_994522ba",
+      "date": "2026-03-24",
+      "time": "21:07:18",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 12.97,
+      "description": "沙县小吃"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_86cb0a19",
+      "date": "2026-03-24",
+      "time": "21:53:31",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 9.87,
+      "description": "酸奶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_430cedfd",
+      "date": "2026-03-25",
+      "time": "07:34:13",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 17.48,
+      "description": "果茶"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_f8e73d01",
+      "date": "2026-03-25",
+      "time": "08:41:42",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 131.06,
+      "description": "超市"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_89f45d6a",
+      "date": "2026-03-25",
+      "time": "11:17:03",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 14.21,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_99cd21c4",
+      "date": "2026-03-25",
+      "time": "15:14:09",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 5.74,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_2c385d1e",
+      "date": "2026-03-25",
+      "time": "17:33:50",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 15.45,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_410d55ad",
+      "date": "2026-03-25",
+      "time": "23:11:42",
+      "category": "娱乐",
+      "subcategory": "游戏",
+      "amount": 39.01,
+      "description": "游戏道具"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_42e277c0",
+      "date": "2026-03-25",
+      "time": "23:51:18",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 23.85,
+      "description": "面馆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_21740aa4",
+      "date": "2026-03-26",
+      "time": "10:50:39",
+      "category": "娱乐",
+      "subcategory": "电影",
+      "amount": 13.9,
+      "description": "会员"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b64279a8",
+      "date": "2026-03-26",
+      "time": "11:43:41",
+      "category": "餐饮",
+      "subcategory": "外卖",
+      "amount": 11.15,
+      "description": "外卖炒饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_230ac6f4",
+      "date": "2026-03-26",
+      "time": "12:27:09",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 9.85,
+      "description": "学校食堂早餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_285b7a35",
+      "date": "2026-03-26",
+      "time": "12:31:18",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 18.71,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_ae6a842e",
+      "date": "2026-03-26",
+      "time": "13:31:11",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 12.02,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_4882c319",
+      "date": "2026-03-27",
+      "time": "10:07:26",
+      "category": "餐饮",
+      "subcategory": "零食",
+      "amount": 8.99,
+      "description": "水果"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_1fceb24d",
+      "date": "2026-03-27",
+      "time": "12:47:07",
+      "category": "购物",
+      "subcategory": "数码配件",
+      "amount": 45.33,
+      "description": "充电宝"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_36d58e44",
+      "date": "2026-03-27",
+      "time": "14:13:49",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 5.67,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_d9657226",
+      "date": "2026-03-27",
+      "time": "20:11:38",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 27.04,
+      "description": "日用品"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cde79593",
+      "date": "2026-03-27",
+      "time": "23:10:03",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 11.17,
+      "description": "盖浇饭"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_bb905460",
+      "date": "2026-03-28",
+      "time": "07:15:10",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 16.05,
+      "description": "咖啡"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_0f894ce2",
+      "date": "2026-03-28",
+      "time": "09:01:25",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 24.24,
+      "description": "快餐"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_dcb34142",
+      "date": "2026-03-28",
+      "time": "09:03:53",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 18.39,
+      "description": "包子豆浆"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_af66d08f",
+      "date": "2026-03-28",
+      "time": "15:34:02",
+      "category": "娱乐",
+      "subcategory": "其他",
+      "amount": 41.33,
+      "description": "消费"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_825d44c6",
+      "date": "2026-03-28",
+      "time": "16:40:14",
+      "category": "交通",
+      "subcategory": "公共交通",
+      "amount": 14.39,
+      "description": "地铁站充值"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_29445ba4",
+      "date": "2026-03-28",
+      "time": "20:19:37",
+      "category": "餐饮",
+      "subcategory": "晚餐",
+      "amount": 20.22,
+      "description": "粉面"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_b1468e9c",
+      "date": "2026-03-28",
+      "time": "20:24:59",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 18.93,
+      "description": "饮料"
+    },
+    {
+      "transaction_id": "txn_20260328_191923_cd74d8c2",
+      "date": "2026-03-28",
+      "time": "21:26:22",
+      "category": "餐饮",
+      "subcategory": "早餐",
+      "amount": 16.32,
+      "description": "粥铺"
+    },
+    {
+      "transaction_id": "trans_20260328_210442_5c5f58",
+      "date": "2026-03-28",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 20.0,
+      "description": "午饭花了20",
+      "created_at": "2026-03-28T21:04:42.289762",
+      "updated_at": "2026-03-28T21:04:42.289765"
+    },
+    {
+      "transaction_id": "trans_20260329_002622_8bc67f",
+      "date": "2026-03-29",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 5.0,
+      "description": "买了杯奶茶",
+      "created_at": "2026-03-29T00:26:22.371474",
+      "updated_at": "2026-03-29T00:26:22.371502"
+    },
+    {
+      "transaction_id": "trans_20260329_003055_bc6138",
+      "date": "2026-03-29",
+      "category": "餐饮",
+      "subcategory": "饮品",
+      "amount": 5.0,
+      "description": "买了一杯奶茶",
+      "created_at": "2026-03-29T00:30:55.467609",
+      "updated_at": "2026-03-29T00:30:55.467612"
+    },
+    {
+      "transaction_id": "trans_20260329_094747_a32629",
+      "date": "2026-03-29",
+      "category": "购物",
+      "subcategory": "数码",
+      "amount": 5.0,
+      "description": "购买API",
+      "created_at": "2026-03-29T09:47:47.098090",
+      "updated_at": "2026-03-29T09:47:47.098093"
+    },
+    {
+      "transaction_id": "trans_20260329_095425_23d43f",
+      "date": "2026-03-29",
+      "category": "餐饮",
+      "subcategory": "午餐",
+      "amount": 10.0,
+      "description": "购买盒饭",
+      "created_at": "2026-03-29T09:54:25.143305",
+      "updated_at": "2026-03-29T09:54:25.143307"
+    },
+    {
+      "transaction_id": "trans_20260329_100005_35f299",
+      "date": "2026-03-29",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 5.0,
+      "description": "买笔",
+      "created_at": "2026-03-29T10:00:05.848353",
+      "updated_at": "2026-03-29T10:00:05.848356"
+    },
+    {
+      "transaction_id": "trans_20260329_100012_cab171",
+      "date": "2026-03-29",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 7.0,
+      "description": "买了一板5号电池",
+      "created_at": "2026-03-29T10:00:12.313425",
+      "updated_at": "2026-03-29T10:00:12.313428"
+    },
+    {
+      "transaction_id": "trans_20260329_100516_2cb1c4",
+      "date": "2026-03-29",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 5.0,
+      "description": "买笔",
+      "created_at": "2026-03-29T10:05:16.444693",
+      "updated_at": "2026-03-29T10:05:16.444695"
+    },
+    {
+      "transaction_id": "trans_20260329_100526_ac681c",
+      "date": "2026-03-29",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 7.0,
+      "description": "买了一板5号电池",
+      "created_at": "2026-03-29T10:05:26.881339",
+      "updated_at": "2026-03-29T10:05:26.881341"
+    },
+    {
+      "transaction_id": "trans_20260329_100835_f1cd32",
+      "date": "2026-03-29",
+      "category": "教育",
+      "subcategory": "书籍",
+      "amount": 5.0,
+      "description": "买笔",
+      "created_at": "2026-03-29T10:08:35.364831",
+      "updated_at": "2026-03-29T10:08:35.364834"
+    },
+    {
+      "transaction_id": "trans_20260329_100840_b1794a",
+      "date": "2026-03-29",
+      "category": "购物",
+      "subcategory": "日用品",
+      "amount": 7.0,
+      "description": "买了一板5号电池",
+      "created_at": "2026-03-29T10:08:40.777786",
+      "updated_at": "2026-03-29T10:08:40.777789"
+    }
+  ],
+  "user_info": {
+    "user_id": "usertest02",
+    "username": "用户_usertest02",
+    "created_at": "2026-03-28T19:36:55.807376"
+  },
+  "budget_settings": {
+    "餐饮": {
+      "weekly": 400.0,
+      "monthly": 1500.0
+    },
+    "交通": {
+      "weekly": 60.0,
+      "monthly": 250.0
+    },
+    "购物": {
+      "weekly": 600.0,
+      "monthly": 2500.0
+    },
+    "娱乐": {
+      "weekly": 150.0,
+      "monthly": 600.0
+    },
+    "居住": {
+      "weekly": 400.0,
+      "monthly": 1600.0
+    },
+    "教育": {
+      "weekly": 100.0,
+      "monthly": 400.0
+    },
+    "其他": {
+      "weekly": 60.0,
+      "monthly": 250.0
+    }
+  },
+  "custom_categories": []
+}

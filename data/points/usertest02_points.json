@@ -1,0 +1,82 @@
+{
+  "user_id": "usertest02",
+  "total_points": 45,
+  "lifetime_points": 45,
+  "point_history": [
+    {
+      "id": "pt_20260329_100840_fa4e29",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 45,
+      "timestamp": "2026-03-29T10:08:40.791110",
+      "description": "记账奖励 - 购物 ¥7.0"
+    },
+    {
+      "id": "pt_20260329_100835_5316a0",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 40,
+      "timestamp": "2026-03-29T10:08:35.378439",
+      "description": "记账奖励 - 教育 ¥5.0"
+    },
+    {
+      "id": "pt_20260329_100526_126263",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 35,
+      "timestamp": "2026-03-29T10:05:26.894672",
+      "description": "记账奖励 - 购物 ¥7.0"
+    },
+    {
+      "id": "pt_20260329_100516_36dd10",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 30,
+      "timestamp": "2026-03-29T10:05:16.460788",
+      "description": "记账奖励 - 教育 ¥5.0"
+    },
+    {
+      "id": "pt_20260329_100012_a6d2b0",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 25,
+      "timestamp": "2026-03-29T10:00:12.327470",
+      "description": "记账奖励 - 购物 ¥7.0"
+    },
+    {
+      "id": "pt_20260329_100005_08feb6",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 20,
+      "timestamp": "2026-03-29T10:00:05.864634",
+      "description": "记账奖励 - 教育 ¥5.0"
+    },
+    {
+      "id": "pt_20260329_095425_f9721d",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 15,
+      "timestamp": "2026-03-29T09:54:25.158514",
+      "description": "记账奖励 - 餐饮 ¥10.0"
+    },
+    {
+      "id": "pt_20260329_094747_073bb2",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 10,
+      "timestamp": "2026-03-29T09:47:47.109310",
+      "description": "记账奖励 - 购物 ¥5.0"
+    },
+    {
+      "id": "pt_20260329_003055_d75128",
+      "action": "record_expense",
+      "points": 5,
+      "balance_after": 5,
+      "timestamp": "2026-03-29T00:30:55.482136",
+      "description": "记账奖励 - 餐饮 ¥5.0"
+    }
+  ],
+  "exchanged_coupons": [],
+  "created_at": "2026-03-29T00:24:01.868810",
+  "updated_at": "2026-03-29T10:08:40.791146"
+}

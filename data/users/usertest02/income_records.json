@@ -1,0 +1,57 @@
+{
+  "income_records": [
+    {
+      "transaction_id": "income_20251201_191923_741516",
+      "date": "2025-12-01",
+      "category": "兼职",
+      "subcategory": "",
+      "amount": 2440.79,
+      "description": "兼职收入",
+      "savings_amount": 366.12,
+      "liquid_amount": 2074.67
+    },
+    {
+      "transaction_id": "income_20260101_191923_ecd7f3",
+      "date": "2026-01-01",
+      "category": "其他收入",
+      "subcategory": "",
+      "amount": 377.64,
+      "description": "其他收入收入",
+      "savings_amount": 56.65,
+      "liquid_amount": 321.0
+    },
+    {
+      "transaction_id": "income_20260201_191923_0a3fa0",
+      "date": "2026-02-01",
+      "category": "兼职",
+      "subcategory": "",
+      "amount": 2474.28,
+      "description": "兼职收入",
+      "savings_amount": 371.14,
+      "liquid_amount": 2103.14
+    },
+    {
+      "transaction_id": "income_20260301_191923_80bfb9",
+      "date": "2026-03-01",
+      "category": "兼职",
+      "subcategory": "",
+      "amount": 2128.17,
+      "description": "兼职收入",
+      "savings_amount": 319.23,
+      "liquid_amount": 1808.95
+    },
+    {
+      "transaction_id": "income_20260328_233658_d496e6",
+      "date": "2026-03-28",
+      "category": "工资",
+      "subcategory": "",
+      "amount": 3000.0,
+      "description": "工资打款",
+      "savings_amount": 300.0,
+      "liquid_amount": 2700.0,
+      "created_at": "2026-03-28T23:36:58.298649",
+      "updated_at": "2026-03-28T23:36:58.298652"
+    }
+  ],
+  "updated_at": "2026-03-28T23:36:58.298655"
+}

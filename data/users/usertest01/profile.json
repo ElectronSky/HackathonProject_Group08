@@ -1,0 +1,14 @@
+{
+  "user_id": "usertest01",
+  "finance_knowledge_level": "beginner",
+  "spending_control": "impulsive",
+  "economic_stage": "independent",
+  "current_goal": [],
+  "companion_style": "encouraging",
+  "self_introduction": "刚开始工作",
+  "special_expenses": [],
+  "avoid_pushy": false,
+  "initialized_at": "2026-03-28T14:38:25.524786",
+  "last_updated": "2026-03-28T15:13:20.978017",
+  "profile_version": 1
+}

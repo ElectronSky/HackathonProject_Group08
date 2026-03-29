@@ -1,0 +1,5 @@
+
+# 当前项目的 ChatTongyi 实测可稳定调用 qwen-plus。
+# 像 qwen3.5-plus 这类写法在当前 SDK / LangChain 组合下会触发 InvalidParameter / url error。
+chat_model_name: qwen3-max
+embedding_model_name: text-embedding-v4

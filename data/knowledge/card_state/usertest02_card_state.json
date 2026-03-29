@@ -1,0 +1,62 @@
+{
+  "user_id": "usertest02",
+  "active_cards": [
+    {
+      "card_instance_id": "inst_20260329_002556_a86052",
+      "card_id": "card_impulse_shopping_001",
+      "card_title": "先延迟 24 小时，再决定要不要买",
+      "card_snapshot": {
+        "card_id": "card_impulse_shopping_001",
+        "title": "先延迟 24 小时，再决定要不要买",
+        "tags": [
+          "冲动消费",
+          "购物",
+          "冷静期"
+        ],
+        "topic_keywords": [
+          "购物",
+          "下单",
+          "种草",
+          "服装",
+          "数码",
+          "日用品"
+        ],
+        "problem_signal_keywords": [
+          "存在较高金额支出",
+          "支出较上一窗口明显上升",
+          "单一类别支出占比较高"
+        ],
+        "focus_category": "购物",
+        "focus_subcategories": [
+          "服装",
+          "数码",
+          "日用品"
+        ],
+        "minimum_transaction_count": 3,
+        "minimum_active_days": 2,
+        "recommended_eval_days": 14,
+        "doing_text": "接下来 14 天，把非刚需购物先放进想买清单，至少等 24 小时后再决定；如果还是想买，再看预算和最近是否已有同类支出。",
+        "why_text": "冲动消费常发生在高刺激当下。行为决策研究显示，加入冷静期可以降低即时奖赏偏好（present bias）带来的冲动选择，从而减少事后后悔和非计划支出。其背后的科学依据是双系统理论——系统 1（快速直觉反应）容易在促销、种草等高刺激场景下被激活，导致冲动购买；冷静期相当于给系统 2（慢速理性思考）留出介入时间，让真正的需求和预算约束重新参与判断。",
+        "professional_term": "当下偏差（Present Bias）和双系统理论（Dual-Process Theory）",
+        "authority_source": "行为经济学当下偏差（present bias）研究；Daniel Kahneman 和 Amos Tversky 的前景理论；延迟满足与自我控制实验",
+        "trigger_description": "当购物类支出占比偏高、近期突然上升，或者存在较高金额且疑似非刚需的购物支出时，适合推荐。",
+        "evaluation_description": "在接下来 14 天里，如果购物类支出的频率下降、金额回落，或者高金额非刚需消费减少，就视为有改善；如果仍频繁出现同类支出且总额不降，则视为未明显达成。",
+        "improvement_hint": "重点观察购物类的频率和高金额单笔是否减少。"
+      },
+      "source_conversation_id": "finance_conv_20260329_002543_850217",
+      "source_query": "帮我看看上个月我的消费情况",
+      "activated_at": "2026-03-29T00:25:56.061154",
+      "activated_by_report_time_label": "2026-02-01 至 2026-02-28",
+      "status": "active",
+      "user_action": "accepted",
+      "eval_cycle_days": 14,
+      "next_evaluation_date": "2026-04-12",
+      "last_evaluation_result": null,
+      "evaluation_history": [],
+      "note": "",
+      "note_updated_at": null,
+      "updated_at": "2026-03-29T00:25:56.061158"
+    }
+  ],
+  "archived_cards": []
+}

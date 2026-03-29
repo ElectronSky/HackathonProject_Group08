@@ -1,0 +1,390 @@
+{
+  "user_id": "usertest02",
+  "accounts": {
+    "savings": {
+      "balance": 4913.14,
+      "target": 3000.0,
+      "target_note": "短期目标：攒够买一台入门相机",
+      "monthly_target": 300.0,
+      "monthly_target_note": "每月储蓄目标：300元（约占收入的10-15%）",
+      "last_updated": "2026-03-29T08:51:39.086583",
+      "history": [
+        {
+          "date": "2025-12-01T10:00:00",
+          "change": 366.12,
+          "balance_after": 366.12,
+          "source": "income_record",
+          "transaction_id": "income_20251201_191923_741516",
+          "note": "兼职收入分配"
+        },
+        {
+          "date": "2026-01-01T10:00:00",
+          "change": 56.65,
+          "balance_after": 422.77,
+          "source": "income_record",
+          "transaction_id": "income_20260101_191923_ecd7f3",
+          "note": "其他收入分配"
+        },
+        {
+          "date": "2026-01-15T10:00:00",
+          "change": 300.0,
+          "balance_after": 722.77,
+          "source": "manual_adjustment",
+          "note": "新年前存钱"
+        },
+        {
+          "date": "2026-01-15T10:00:00",
+          "change": 200.0,
+          "balance_after": 922.77,
+          "source": "manual_adjustment",
+          "note": "额外储蓄"
+        },
+        {
+          "date": "2026-02-01T10:00:00",
+          "change": 371.14,
+          "balance_after": 1293.91,
+          "source": "income_record",
+          "transaction_id": "income_20260201_191923_0a3fa0",
+          "note": "兼职收入分配"
+        },
+        {
+          "date": "2026-02-20T10:00:00",
+          "change": 300.0,
+          "balance_after": 1593.91,
+          "source": "manual_adjustment",
+          "note": "红包存起来"
+        },
+        {
+          "date": "2026-03-01T10:00:00",
+          "change": 319.23,
+          "balance_after": 1913.14,
+          "source": "income_record",
+          "transaction_id": "income_20260301_191923_80bfb9",
+          "note": "兼职收入分配"
+        },
+        {
+          "date": "2026-03-10T10:00:00",
+          "change": -200.0,
+          "balance_after": 1713.14,
+          "source": "manual_adjustment",
+          "note": "取出应急"
+        },
+        {
+          "date": "2026-03-28T21:00:26.348536",
+          "change": -100.0,
+          "balance_after": 1613.14,
+          "source": "manual_adjustment",
+          "note": "1111"
+        },
+        {
+          "date": "2026-03-28T21:05:12.315163",
+          "change": 3000.0,
+          "balance_after": 4613.14,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T21:05:54.747970",
+          "change": -1000.0,
+          "balance_after": 3613.14,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T21:06:25.232590",
+          "change": 1000.0,
+          "balance_after": 4613.14,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:36:58.299778",
+          "change": 300.0,
+          "balance_after": 4913.14,
+          "source": "income_record",
+          "transaction_id": "income_20260328_233658_d496e6",
+          "note": "收入分配 - 工资"
+        },
+        {
+          "date": "2026-03-28T23:37:23.800115",
+          "change": 100.0,
+          "balance_after": 5013.14,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:37:26.875782",
+          "change": -100.0,
+          "balance_after": 4913.14,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:43:36.355694",
+          "change": 100.0,
+          "balance_after": 5013.14,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-28T23:43:37.855633",
+          "change": 100.0,
+          "balance_after": 5113.14,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-28T23:43:42.233154",
+          "change": -100.0,
+          "balance_after": 5013.14,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-28T23:43:43.560450",
+          "change": -100.0,
+          "balance_after": 4913.14,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T08:51:34.174305",
+          "change": 100.0,
+          "balance_after": 5013.14,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-29T08:51:39.086583",
+          "change": -100.0,
+          "balance_after": 4913.14,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        }
+      ]
+    },
+    "liquid": {
+      "balance": 9544.35,
+      "warning_threshold": 500.0,
+      "warning_note": "流动资金低于500元时提醒",
+      "last_updated": "2026-03-29T10:08:40.784092",
+      "history": [
+        {
+          "date": "2025-12-01T10:00:00",
+          "change": 2074.67,
+          "balance_after": 2074.67,
+          "source": "income_record",
+          "transaction_id": "income_20251201_191923_741516",
+          "note": "兼职收入分配（85%）"
+        },
+        {
+          "date": "2026-01-01T10:00:00",
+          "change": 321.0,
+          "balance_after": 2395.67,
+          "source": "income_record",
+          "transaction_id": "income_20260101_191923_ecd7f3",
+          "note": "其他收入分配"
+        },
+        {
+          "date": "2026-02-01T10:00:00",
+          "change": 2103.14,
+          "balance_after": 4498.81,
+          "source": "income_record",
+          "transaction_id": "income_20260201_191923_0a3fa0",
+          "note": "兼职收入分配"
+        },
+        {
+          "date": "2026-03-01T10:00:00",
+          "change": 1808.95,
+          "balance_after": 6307.76,
+          "source": "income_record",
+          "transaction_id": "income_20260301_191923_80bfb9",
+          "note": "兼职收入分配"
+        },
+        {
+          "date": "2026-03-28T23:26:33.244217",
+          "change": 100.0,
+          "balance_after": 6407.76,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:26:34.817131",
+          "change": 100.0,
+          "balance_after": 6507.76,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:26:35.451240",
+          "change": 100.0,
+          "balance_after": 6607.76,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:26:36.080653",
+          "change": 100.0,
+          "balance_after": 6707.76,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:36:58.299778",
+          "change": 2700.0,
+          "balance_after": 9407.76,
+          "source": "income_record",
+          "transaction_id": "income_20260328_233658_d496e6",
+          "note": "收入分配 - 工资"
+        },
+        {
+          "date": "2026-03-28T23:37:31.311625",
+          "change": 100.0,
+          "balance_after": 9507.76,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:37:33.651043",
+          "change": -100.0,
+          "balance_after": 9407.76,
+          "source": "manual_adjustment",
+          "note": "手动调整"
+        },
+        {
+          "date": "2026-03-28T23:43:36.355694",
+          "change": -100.0,
+          "balance_after": 9307.76,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-28T23:43:37.855633",
+          "change": -100.0,
+          "balance_after": 9207.76,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-28T23:43:42.233154",
+          "change": 100.0,
+          "balance_after": 9307.76,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-28T23:43:43.560450",
+          "change": 100.0,
+          "balance_after": 9407.76,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-28T23:44:08.186266",
+          "change": 23.01,
+          "balance_after": 9430.77,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-28T23:44:28.506979",
+          "change": 174.58,
+          "balance_after": 9605.35,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-29T00:26:22.377089",
+          "change": -5.0,
+          "balance_after": 9600.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T00:30:55.475547",
+          "change": -5.0,
+          "balance_after": 9595.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T08:51:34.174305",
+          "change": -100.0,
+          "balance_after": 9495.35,
+          "source": "transfer",
+          "note": "存入储蓄账户"
+        },
+        {
+          "date": "2026-03-29T08:51:39.086583",
+          "change": 100.0,
+          "balance_after": 9595.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T09:47:47.103260",
+          "change": -5.0,
+          "balance_after": 9590.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T09:54:25.151344",
+          "change": -10.0,
+          "balance_after": 9580.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T10:00:05.856630",
+          "change": -5.0,
+          "balance_after": 9575.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T10:00:12.320645",
+          "change": -7.0,
+          "balance_after": 9568.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T10:05:16.454391",
+          "change": -5.0,
+          "balance_after": 9563.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T10:05:26.887055",
+          "change": -7.0,
+          "balance_after": 9556.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T10:08:35.371770",
+          "change": -5.0,
+          "balance_after": 9551.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        },
+        {
+          "date": "2026-03-29T10:08:40.784092",
+          "change": -7.0,
+          "balance_after": 9544.35,
+          "source": "transfer",
+          "note": "取出到流动资金"
+        }
+      ]
+    }
+  },
+  "auto_allocate_rules": {
+    "enabled": true,
+    "default_savings_ratio": 0.1,
+    "default_liquid_ratio": 0.9
+  },
+  "created_at": "2025-12-01T10:00:00",
+  "updated_at": "2026-03-29T10:08:40.784108"
+}

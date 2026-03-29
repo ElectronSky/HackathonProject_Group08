@@ -1,0 +1,14 @@
+
+
+#一共三个提示词存储路径，分别存储三组提示词
+rag_summarize_prompt_path: prompts/rag_summarize.txt
+main_prompt_path: prompts/main_prompt.txt
+report_prompt_path: prompts/report_prompt.txt
+finance_agent_prompt_path: prompts/finance_agent_prompt.txt
+finance_report_prompt_path: prompts/finance_report_prompt.txt
+finance_analysis_prompt_path: prompts/finance_analysis_prompt.txt
+finance_quick_advice_prompt_path: prompts/finance_quick_advice_prompt.txt
+finance_time_parse_prompt_path: prompts/finance_time_parse_prompt.txt
+card_recommendation_prompt_path: prompts/card_recommendation_prompt.txt
+card_evaluation_prompt_path: prompts/card_evaluation_prompt.txt
+income_allocation_prompt_path: prompts/income_allocation_prompt.txt
